@@ -633,7 +633,7 @@ background-color: #007aad;
     border: 2px solid;
 background-color: #007aad;}
 
-    #users.aym1 .inroom.uzr .u-msg{
+    #users.aym1 .uzr .u-msg{
 	font-weight:bold;
         text-align: center;
         -webkit-text-fill-color: #000;
