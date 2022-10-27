@@ -556,7 +556,10 @@ box-shadow: 0px 0px 4px 4px #00eaff38;
 
 
 
-.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .corner.fa.fa-user.label.label-primary.uc {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;background-color: #transparent!important;}
+.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
+
+
+
 
  
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;background-color: #transparent!important;}
@@ -674,9 +677,12 @@ background-color: #007aad;}
     #d0.aym {background-color: #f6f6f6;}
     #d0.aym .label-primary {background-color: #007aad;}
     chats
-    #settings.aym4 .label-primary {background-color: #007aad !important;}
+    #settings.aym4 .label-primary {background-color: #000 !important;}
 
     #rooms.aym4 .label-primary {background-color: #007aad !important;}
+	
+
+	#rooms.aym4 .d-flex.room.r184116e9376x9b7d8297x-7r4mtv .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
 
     #rooms.aym4 {
         background-image: url("https://i.top4top.io/p_24900yurc2.png");
@@ -737,4 +743,3 @@ d2.aym2.flex-grow-1.break.light{
         } 
     }, 10);
   
-
