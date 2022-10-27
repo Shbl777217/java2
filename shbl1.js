@@ -10,9 +10,6 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
     display: inline-block;
     background-image: linear-gradient(-225deg, rgba(149, 97, 90, 0.31) 0%, rgba(255, 0, 143, 0) 29%, rgba(148, 97, 89, 0.05) 67%, rgba(150, 97, 90, 0.33) 100%) ;
     }
-
-    
-
     .nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .dots.mini.u-msg {
     text-align: center;
     -webkit-text-fill-color: #0000;
@@ -37,8 +34,7 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
     margin-top: -2px;
     margin-left: 5px;}
     @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
-    
-    
+
     var roomiddal='17fcfdf3eb0x2a8feb34xdqcvgd';
     $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${roomiddal}')"]{padding: 2px !important;
     animation: textclip 5s linear infinite;
@@ -92,16 +88,8 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
     background-size: 100% 100%;
     margin-top: -3px;}`);
     
-    
-    
-    
     $("style").last().append(`
-    #users.mda1 .inroom.uzr{
-    border-radius: 0px 15px 15px 0px;
-    border:1px solid #eb0c99;
-    background-image: url("https://l.top4top.io/p_24783i7i51.png");background-size: cover;
-    border-bottom:1px solid #fffefe
-    }
+    
     #users.mda1 .inroom.uzr img.ustat {
       width: 54px !important;
       border-radius: 0px 15px 15px 0px;
@@ -130,12 +118,11 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
        
        
     ;}
-    #users.mda1 .inroom.uzr .u-msg{
-        text-align: center;
+    #users.mda1 .uzr .u-msg{
         -webkit-text-fill-color: #0000;
         text-transform:uppercase;
         background: linear-gradient(270deg, #000000, #ff00a7);
-        background-size: 400% 400%;
+        background-size: 100%;
     -webkit-background-clip:text;
     -webkit-text-fill-color:transparent;animation:2s linear infinite textclip;
     display:inline-block;}
@@ -148,24 +135,77 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
     -webkit-text-fill-color:transparent;animation:2s linear infinite textclip;
     display:inline-block;}
     
+    #users.mda1 .uzr {
+        background-color: #0000 !important;}
+      #users.mda1 {
+        background-image: url("https://e.top4top.io/p_2485hcyun1.png");
+  background-size: cover;
+  background-color: #f5f5f5 !important;}
+
+
+    
+
     #users.mda1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
+    #d2.mda2 {
+        background-color: #f5f5f5 !important;
+        background-image: url("https://e.top4top.io/p_2485hcyun1.png");
+        background-size: cover;
+    }
+    #chats.mda5 {
+      background-color: #f5f5f5 !important;
+      background-image: url("https://e.top4top.io/p_2485hcyun1.png");
+      background-size: cover;
+  }
+
+    }
+    #d0.mda {background-color: #f6f6f6;}
+    #d0.mda .label-primary {background-color: #83273c;}
     
-    #d2.mda2 .uzr.d-flex.mm{
-    background-image: linear-gradient(270deg, #ffc2d9, #ffd8e7, #ffebf3, #fff4f8, #fff4f8, #fff4f8, #fff4f8, #fffcfd);
-    background-size: auto;
-    border-radius: 0px 15px 15px 0px;
-    border:1px solid #fffefe;
-    border-bottom:1px solid #fffefe}`);
+    #settings.mda4 .label-primary {background-color: #83273c !important;}
+
+    #rooms.mda4 .label-primary {background-color: #83273c !important;}
+
+    #rooms.mda4 {
+        background-image: url("https://e.top4top.io/p_2485hcyun1.png");
+        background-size: cover;
+        background-color: #f5f5f5 !important;} 
+
+		#d2.mda2 .uzr.d-flex.mm.hmsg {
+        background-color: #99ebff2b!important;
+}
+
+#d2bc.mda6.d2.light.d2bc.flex-grow-1.break {
+  background-image: url("https://e.top4top.io/p_2485hcyun1.png");
+  background-size: cover;
+  background-color: #f5f5f5 !important;} 
+
+#users .uzr.stl1 .u-msg{
+background-color:#000;}
+
+d2.mda2.flex-grow-1.break.light{
+  background-image: url("https://e.top4top.io/p_2485hcyun1.png");
+  background-size: cover;
+  background-color: #f5f5f5 !important;}
+`);
+
     
+         
+         
     var roommadatest = false;
     
     setInterval(function () {
         if (myroom == '17fcfdf3eb0x2a8feb34xdqcvgd') {
             if (roommadatest == false) {
                 roommadatest = true;
-                $('#users').addClass('mda1');
+              $('#users').addClass('mda1');
                 $('#d2').addClass('mda2');
                 $('#mic').addClass('mda3');
+                $('#settings').addClass('mda4');
+                $('#rooms').addClass('mda4');
+                $('#d0').addClass('mda');
+                $('#chats').addClass('mda5');
+                $('#d2bc').addClass('mda6');
+				$('#users').addClass('stl1');
             }
         } else {
             if (roommadatest == true) {
@@ -173,11 +213,16 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
                 $("#users").removeClass('mda1');
                 $("#d2").removeClass('mda2');
                 $('#mic').removeClass('mda3');
+                $('#settings').removeClass('mda4');
+                $('#rooms').removeClass('mda4');
+                $('#d0').removeClass('mda');
+                $('#chats').removeClass('mda5');
+                $('#d2bc').removeClass('mda6');
+				$('#users').removeClass('stl1');
             } 
         } 
     }, 10);
-    
-
+  
 
 
 
