@@ -787,4 +787,228 @@ d2.aym2.flex-grow-1.break.light{
             } 
         } 
     }, 10);
+
+
+
+
+
+
+$(`<style>.nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 50px !important;background-color: #transparent!important;}
+
+
+    .nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0.bord {border-inline: 4px solid #484848 !important;}
+    .nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 {
+    border-radius: 10px 10px 0px 10px;
+    display: inline-block;
+    background-image: url(https://j.top4top.io/p_2492e9cvz1.png);
+	background-size: cover;
+    }
+    .nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .dots.mini.u-msg {
+    text-align: center;
+    -webkit-text-fill-color: #0000;
+    background-image: linear-gradient(-225deg, #c8c8c8 0%, #ffffff 29%, #c8c8c8 67%, #ffffff 100%);background-size: 100% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;
+    }
+    .nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .fitimg.u-pic.borderg{border-radius: 10px 0px 0px 10px;border: 2px solid #484848;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
+    .nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .u-topic.dots {
+    text-transform: uppercase;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+    font-size: 18px !important;
+    font-style: normal;
+    font-family: sans-serif;
+    background-image: url(https://c.top4top.io/p_24919wwkg1.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -2px;
+    margin-left: 5px;}
+    @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+
+    var roomiddal='17fc704ec53x2aaba417-x-923hp0';
+    $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${roomiddal}')"]{padding: 2px !important;
+    animation: textclip 5s linear infinite;
+    border-radius: 50px !important;
+    border: 1px solid #0000;
+    font-size: 15px !important;
+    font-style: normal;
+    font-family: sans-serif;
+    background-image: url(https://j.top4top.io/p_2491fp0ba1.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -5px;}`);
+    
+    
+    
+    
+    
+    $(`<style>#mic.h93 .mic {
+        border: 2px solid;
+        border-image: linear-gradient(var(--angle), #ffffff 0%, #000 29%, #ffffff 67%, #020202 100%) 1;
+        animation: 5s rotate linear infinite;
+        --angle: 0deg;
+        background-color: #e3e3e3;
+        border-radius: 5px !important;
+        margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
+        height: 48px;}
+        
+        @keyframes rotate{
+        to {
+            --angle: 360deg;
+        }
+    }
+    @property --angle {
+        syntax: "<angle>";
+        initial-value: 0deg;
+        inherits: false;
+    }</style>`).insertBefore('body');
+    
+    
+    
+    $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${roomiddal}')"]{animation: textclip 5s linear infinite;
+    border-radius: 50px !important;
+    border: 1px solid #0000;
+    font-size: 15px !important;
+    font-style: normal;
+    font-family: sans-serif;
+    background-image: url(https://j.top4top.io/p_2491fp0ba1.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -3px;}`);
+    
+    $("style").last().append(`
+    
+    #users.h91 .inroom.uzr img.ustat {
+      width: 54px !important;
+      border-radius: 10px 0px 0px 10px;
+      height: 52px;
+      margin-top: -1px;
+      min-height: 0% !important;
+    }
+    #users.h91 .inroom.uzr .fitimg.u-pic {
+      border-radius: 10px 0px 0px 10px;
+    margin-top: 0px;
+    z-index: 0;
+    margin-left: -51px;
+    min-width: 50px;
+    width: 50px;
+    min-height: 48px;
+    max-height: 50px;
+    }
+
+    #d2.h92 .uzr .fitimg.u-pic{
+    border: 2px solid #484848 ;
+        
+        --angle: 0deg;
+        border-radius: 10px 0px 0px 10px;
+        background-color: #e3e3e3;
+       
+       
+    ;}
+    #users.h91 .uzr .u-msg{
+        text-align: center;
+        -webkit-text-fill-color: #0000;
+        text-transform:uppercase;
+        background-image: url(https://g.top4top.io/p_2484pn5dd1.gif);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    color: transparent !important;}
+
+    #users.h91 .inroom.uzr span.uhash{
+    text-transform:uppercase;
+    background-image: linear-gradient(270deg, #ffff,  #000);
+    background-size:220% auto;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;animation:2s linear infinite textclip;
+    display:inline-block;}
+    
+    #users.h91 .uzr{
+    border-radius: 0px 12px 12px 0px;
+    border:1px solid #000;
+    background-image: url("https://l.top4top.io/p_2492j2wbp2.png");background-size: 100%;
+    border-bottom:1px solid #fffefe;}
+
+
+    
+
+    #users.h91 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
+    #d2.h92 {
+        background-color: #f5f5f5 !important;
+        background-image: url("https://a.top4top.io/p_24927or5b1.png");
+        background-size: cover;
+    }
+    #chats.h95 {
+      background-color: #f5f5f5 !important;
+      background-image: url("https://a.top4top.io/p_24927or5b1.png");
+      background-size: cover;
+  }
+
+    }
+    #d0.h9 {background-color: #f6f6f6;}
+    d0.h9 .label-primary {background-color: #000;}
+    
+    settings.h94 .label-primary {background-color: #83273c !important;}
+
+    rooms.h94 .label-primary {background-color: #83273c !important;}
+
+    #rooms.h94 {
+        background-image: url("https://a.top4top.io/p_24927or5b1.png");
+        background-size: cover;
+        background-color: #f5f5f5 !important;} 
+
+		#d2.h92 .uzr.d-flex.mm.hmsg {
+        background-color: #99ebff2b!important;
+}
+
+#d2bc.h96.d2.light.d2bc.flex-grow-1.break {
+  background-image: url("https://a.top4top.io/p_24927or5b1.png");
+  background-size: cover;
+  background-color: #f5f5f5 !important;} 
+
+#users .uzr.stl1 .u-msg{
+background-color:#000;}
+
+d2.h92.flex-grow-1.break.light{
+  background-image: url("https://a.top4top.io/p_24927or5b1.png");
+  background-size: cover;
+  background-color: #f5f5f5 !important;}
+`);
+
+    
+         
+         
+    var roomha9test = false;
+    
+    setInterval(function () {
+        if (myroom == '17fc704ec53x2aaba417-x-923hp0') {
+            if (roomha9test == false) {
+                roomha9test = true;
+              $('#users').addClass('h91');
+                $('#d2').addClass('h92');
+                $('#mic').addClass('h93');
+                $('#settings').addClass('h94');
+                $('#rooms').addClass('h94');
+                $('#d0').addClass('h9');
+                $('#chats').addClass('h95');
+                $('#d2bc').addClass('h96');
+				$('#users').addClass('stl1');
+            }
+        } else {
+            if (roomha9test == true) {
+                roomha9test = false;
+                $("#users").removeClass('h91');
+                $("#d2").removeClass('h92');
+                $('#mic').removeClass('h93');
+                $('#settings').removeClass('h94');
+                $('#rooms').removeClass('h94');
+                $('#d0').removeClass('h9');
+                $('#chats').removeClass('h95');
+                $('#d2bc').removeClass('h96');
+				$('#users').removeClass('stl1');
+            } 
+        } 
+    }, 10);
+  
   
