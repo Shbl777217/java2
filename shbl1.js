@@ -588,9 +588,9 @@ $(`<style>.nosel.d-flex.room.r184063f9732x1ab50197x-clp7k5 .corner.fa.fa-user.la
 $(`<style>.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv.bord {border-inline: 4px solid #00bbea !important;}
 
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv {display: inline-block;
-  background-image: url(https://i.top4top.io/p_24918rybr1.gif);
+  background-image: url(https://h.top4top.io/p_2494ssmy21.gif);
 
-background-size: cover; 
+background-size: 100%; 
 border-radius: 0px 0px 25px 25px;
 box-shadow: 0px 0px 4px 4px #00eaff38;
 }
@@ -787,6 +787,9 @@ d2.aym2.flex-grow-1.break.light{
             } 
         } 
     }, 10);
+  
+
+
 
 
 
