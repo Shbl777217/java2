@@ -1024,7 +1024,7 @@ d2.h92.flex-grow-1.break.light{
 $(`<style>.nosel.d-flex.room.r1842551c39dxfdf8fb54-xknl4vz.bord {border-inline: 4px solid #003eff !important;}
 
 .nosel.d-flex.room.r1842551c39dxfdf8fb54-xknl4vz {display: inline-block;
-  background-image: url(https://l.top4top.io/p_2494g1efn1.gif);
+  background-image: url(https://f.top4top.io/p_2494p4y0a1.gif);
 
 background-size: cover; 
 border-radius: 10px 10px 10px 10px;
@@ -1032,7 +1032,7 @@ border-radius: 10px 10px 10px 10px;
 
 
 
-.nosel.d-flex.room.r1842551c39dxfdf8fb54-xknl4vz .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #0000;background-image: url(https://k.top4top.io/p_2494nmtly1.gif);}
+.nosel.d-flex.room.r1842551c39dxfdf8fb54-xknl4vz .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #0000;background-image: url(https://b.top4top.io/p_2494zb7h41.gif);}
 
 .nosel.d-flex.room.r1842551c39dxfdf8fb54-xknl4vz .fitimg.u-pic.borderg{border-radius: 10px 10px 10px 10px;border: 2px solid #000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
 
@@ -1047,7 +1047,7 @@ border-radius: 10px 10px 10px 10px;
 .nosel.d-flex.room.r1842551c39dxfdf8fb54-xknl4vz .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 10px 10px 10px 10px !important;background-color: #transparent!important;}
 
 .nosel.d-flex.room.r1842551c39dxfdf8fb54-xknl4vz .u-topic.dots {text-align: center;background-size: 200% auto; -webkit-background-clip: text;
-font-size: 18px !important;-webkit-text-fill-color: #0000;background-image: url(https://l.top4top.io/p_2494m2dkl2.gif);}
+font-size: 18px !important;-webkit-text-fill-color: #0000;background-image: url(https://k.top4top.io/p_2494nw6d61.gif);}
 
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 var rid='1842551c39dxfdf8fb54-xknl4vz';
@@ -1236,4 +1236,3 @@ d2.pyo2.flex-grow-1.break.light{
         } 
     }, 10);
   
-
