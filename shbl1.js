@@ -588,14 +588,14 @@ $(`<style>.nosel.d-flex.room.r184063f9732x1ab50197x-clp7k5 .corner.fa.fa-user.la
 $(`<style>.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv.bord {border-inline: 4px solid #00bbea !important;}
 
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv {display: inline-block;
-  background-image: url(https://h.top4top.io/p_2494ssmy21.gif);
+  background-image: url(https://b.top4top.io/p_24952rf0g1.gif);
 
 background-size: 100%; 
 border-radius: 0px 0px 25px 25px;
 box-shadow: 0px 0px 4px 4px #00eaff38;
 }
 
-.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #0000;background-image: url(https://k.top4top.io/p_2490ngtf11.gif);}
+.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #0000;background-image: url(https://j.top4top.io/p_2495q9u9q1.gif);}
 
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .fitimg.u-pic.borderg{border-radius: 100px;border: 2px solid #00bbea;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
 
@@ -750,6 +750,36 @@ d2.aym2.flex-grow-1.break.light{
   background-image: url("https://i.top4top.io/p_24900yurc2.png");
   background-size: cover;
   background-color: #f5f5f5 !important;}
+
+#dpnl.aym7.nosel.ninr.fl.uzr.label.bg {
+    background-color: #000;
+-webkit-text-fill-color: #000;
+  }
+
+
+#dpnl.aym7.label.nosel.ninr.fl.uzr.label.bg {
+	-webkit-text-fill-color: #000;
+
+    background-color: #69b0ff;
+    color: black;
+  }
+#dpnl.aym7 .nosel.ninr.fl.uzr.label.bg {
+-webkit-text-fill-color: #000;
+
+    background-color: #16202a;
+  }
+#users.aym1.nosel.ninr.fl.uzr.label.bg {
+-webkit-text-fill-color: #000;
+
+    background-color: #16202a;
+  }
+
+#users.aym1.label.nosel.ninr.fl.uzr.label.bg {
+-webkit-text-fill-color: #000;
+
+    background-color: #16202a;
+  }
+
 `);
 
 		
@@ -771,6 +801,7 @@ d2.aym2.flex-grow-1.break.light{
                 $('#chats').addClass('aym5');
                 $('#d2bc').addClass('aym6');
 				$('#users').addClass('stl1');
+				$('#dpnl').addClass('aym7');
             }
         } else {
             if (roomaymatest == true) {
@@ -784,11 +815,11 @@ d2.aym2.flex-grow-1.break.light{
                 $('#chats').removeClass('aym5');
                 $('#d2bc').removeClass('aym6');
 				$('#users').removeClass('stl1');
+				$('#dpnl').removeClass('aym7');
             } 
         } 
     }, 10);
   
-
 
 
 
