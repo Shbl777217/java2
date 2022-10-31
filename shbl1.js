@@ -1039,6 +1039,11 @@ $(`<style>.nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .label-primary {back
         background-color: #c3c3c375!important;
 }
 
+	#d2.h92 .uzr.d-flex.mm.pmsgc {
+ 
+        background-color: #c3c3c375!important;
+}
+
 #d2bc.h96.d2.light.d2bc.flex-grow-1.break {
   background-image: url("https://up6.cc/2022/10/166724798164591.png");
   background-size: cover;
@@ -1087,6 +1092,8 @@ background-color:#000;}
             } 
         } 
     }, 10);
+  
+
   
 
 
