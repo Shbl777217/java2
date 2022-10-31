@@ -797,28 +797,30 @@ d2.aym2.flex-grow-1.break.light{
   }
 
 
-#dpnl.mda7.label.nosel.ninr.fl.uzr.label.bg {
+#dpnl.aym7.label.nosel.ninr.fl.uzr.label.bg {
 	-webkit-text-fill-color: #000;
 
     background-color: #69b0ff;
     color: black;
   }
-#dpnl.mda7 .nosel.ninr.fl.uzr.label.bg {
+#dpnl.aym7 .nosel.ninr.fl.uzr.label.bg {
 -webkit-text-fill-color: #000;
 
     background-color: #16202a;
   }
-#users.mda1.nosel.ninr.fl.uzr.label.bg {
+#users.aym1.nosel.ninr.fl.uzr.label.bg {
 -webkit-text-fill-color: #000;
 
     background-color: #16202a;
   }
 
-#users.mda1.label.nosel.ninr.fl.uzr.label.bg {
+#users.aym1.label.nosel.ninr.fl.uzr.label.bg {
 -webkit-text-fill-color: #000;
 
     background-color: #16202a;
   }
+
+
 
 `);
 
@@ -859,6 +861,12 @@ d2.aym2.flex-grow-1.break.light{
             } 
         } 
     }, 10);
+  
+
+
+
+
+
   
 
 
