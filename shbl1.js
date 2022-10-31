@@ -186,6 +186,34 @@ d2.mda2.flex-grow-1.break.light{
   background-image: url("https://e.top4top.io/p_2485hcyun1.png");
   background-size: cover;
   background-color: #f5f5f5 !important;}
+
+
+
+#dpnl.mda7.label.nosel.ninr.fl.uzr.label.bg {
+	-webkit-text-fill-color: #000;
+
+    background-color: #69b0ff;
+    color: black;
+  }
+#dpnl.mda7 .nosel.ninr.fl.uzr.label.bg {
+-webkit-text-fill-color: #000;
+
+    background-color: #16202a;
+  }
+#users.mda1.nosel.ninr.fl.uzr.label.bg {
+-webkit-text-fill-color: #000;
+
+    background-color: #16202a;
+  }
+
+#users.mda1.label.nosel.ninr.fl.uzr.label.bg {
+-webkit-text-fill-color: #000;
+
+    background-color: #16202a;
+  }
+
+
+
 `);
 
     
@@ -206,6 +234,8 @@ d2.mda2.flex-grow-1.break.light{
                 $('#chats').addClass('mda5');
                 $('#d2bc').addClass('mda6');
 				$('#users').addClass('stl1');
+				$('#dpnl').addClass('mda7');
+				
             }
         } else {
             if (roommadatest == true) {
@@ -219,10 +249,18 @@ d2.mda2.flex-grow-1.break.light{
                 $('#chats').removeClass('mda5');
                 $('#d2bc').removeClass('mda6');
 				$('#users').removeClass('stl1');
+				$('#dpnl').removeClass('mda7');
             } 
         } 
     }, 10);
   
+
+
+
+
+
+
+
 
 
 
