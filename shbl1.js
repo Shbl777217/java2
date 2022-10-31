@@ -995,7 +995,7 @@ $(`<style>.nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .label-primary {back
         background-color: #f5f5f5 !important;} 
 
 		#d2.h92 .uzr.d-flex.mm.hmsg {
-        background-color: #99ebff2b!important;
+        background-color: #cecece2b!important;
 }
 
 #d2bc.h96.d2.light.d2bc.flex-grow-1.break {
@@ -1047,7 +1047,6 @@ d2.h92.flex-grow-1.break.light{
         } 
     }, 10);
   
-
 
 
 
