@@ -623,10 +623,12 @@ $(`<style>.nosel.d-flex.room.r184063f9732x1ab50197x-clp7k5 .corner.fa.fa-user.la
 
 
 
+
+
 $(`<style>.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv.bord {border-inline: 4px solid #00bbea !important;}
 
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv {display: inline-block;
-  background-image: url(https://b.top4top.io/p_24952rf0g1.gif);
+  background-image: url(https://up6.cc/2022/10/166724712939571.gif);
 
 background-size: 100%; 
 border-radius: 0px 0px 25px 25px;
@@ -795,24 +797,24 @@ d2.aym2.flex-grow-1.break.light{
   }
 
 
-#dpnl.aym7.label.nosel.ninr.fl.uzr.label.bg {
+#dpnl.mda7.label.nosel.ninr.fl.uzr.label.bg {
 	-webkit-text-fill-color: #000;
 
     background-color: #69b0ff;
     color: black;
   }
-#dpnl.aym7 .nosel.ninr.fl.uzr.label.bg {
+#dpnl.mda7 .nosel.ninr.fl.uzr.label.bg {
 -webkit-text-fill-color: #000;
 
     background-color: #16202a;
   }
-#users.aym1.nosel.ninr.fl.uzr.label.bg {
+#users.mda1.nosel.ninr.fl.uzr.label.bg {
 -webkit-text-fill-color: #000;
 
     background-color: #16202a;
   }
 
-#users.aym1.label.nosel.ninr.fl.uzr.label.bg {
+#users.mda1.label.nosel.ninr.fl.uzr.label.bg {
 -webkit-text-fill-color: #000;
 
     background-color: #16202a;
@@ -858,6 +860,7 @@ d2.aym2.flex-grow-1.break.light{
         } 
     }, 10);
   
+
 
 
 
