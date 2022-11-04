@@ -1229,7 +1229,7 @@ background-color: #000;}
         background-color: #0000 !important;}
       #users.pyo1 {
 
-        background-image: url("https://b.top4top.io/p_2493vunw41.gif");
+        background-image: url("https://up6.cc/2022/11/16676055121361.gif");
 -webkit-text-fill-color: #000;
   background-size: cover;
   background-color: #f5f5f5 !important;}
@@ -1240,13 +1240,13 @@ background-color: #000;}
     #users.pyo1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
     #d2.pyo2 {
         background-color: #f5f5f5 !important;
-        background-image: url("https://up6.cc/2022/11/166759429332381.gif");
+        background-image: url("https://up6.cc/2022/11/16676055121361.gif");
         background-size: cover;
--webkit-text-fill-color: #ffffff;
+
     }
     #chats.pyo5 {
       background-color: #f5f5f5 !important;
-      background-image: url("https://b.top4top.io/p_2493vunw41.gif");
+      background-image: url("https://up6.cc/2022/11/16676055121361.gif");
       background-size: cover;
   }
 
@@ -1263,7 +1263,7 @@ background-color: #000;}
 	#rooms.pyo4 .d-flex.room.r1842551c39dxfdf8fb54-xknl4vz .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
 
     #rooms.pyo4 {
-        background-image: url("https://b.top4top.io/p_2493vunw41.gif");
+        background-image: url("https://up6.cc/2022/11/16676055121361.gif");
         background-size: cover;
         background-color: #f5f5f5 !important;} 
 
@@ -1272,7 +1272,7 @@ background-color: #000;}
 }
 
 #d2bc.pyo6.d2.light.d2bc.flex-grow-1.break {
-  background-image: url("https://b.top4top.io/p_2493vunw41.gif");
+  background-image: url("https://up6.cc/2022/11/16676055121361.gif");
   background-size: cover;
   background-color: #f5f5f5 !important;} 
 
@@ -1280,7 +1280,7 @@ background-color: #000;}
 background-color:#000;}
 
 d2.pyo2.flex-grow-1.break.light{
-  background-image: url("https://b.top4top.io/p_2493vunw41.gif");
+  background-image: url("https://up6.cc/2022/11/16676055121361.gif");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 
