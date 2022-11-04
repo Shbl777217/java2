@@ -1240,8 +1240,9 @@ background-color: #000;}
     #users.pyo1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
     #d2.pyo2 {
         background-color: #f5f5f5 !important;
-        background-image: url("https://b.top4top.io/p_2493485u31.gif");
+        background-image: url("https://up6.cc/2022/11/166759429332381.gif");
         background-size: cover;
+-webkit-text-fill-color: #ffffff;
     }
     #chats.pyo5 {
       background-color: #f5f5f5 !important;
