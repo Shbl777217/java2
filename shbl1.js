@@ -1667,37 +1667,63 @@ d2.mon2.flex-grow-1.break.light{
 
 
 
-$(`<style>.nosel.d-flex.room.r1837054c8c8xe3c10891xembvye.bord {border-inline: 4px solid #00bbea !important;}
+$(`<style>.nosel.d-flex.room.r18472d05dd8x6e9e8b97x-7jrvtd .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;}
 
-.nosel.d-flex.room.r1837054c8c8xe3c10891xembvye {display: inline-block;
-  background-image: url(https://up6.cc/2022/10/166724712939571.gif);
-
-background-size: 100%; 
-border-radius: 0px 0px 25px 25px;
-box-shadow: 0px 0px 4px 4px #00eaff38;
-}
-
-.nosel.d-flex.room.r1837054c8c8xe3c10891xembvye .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #0000;background-image: url(https://j.top4top.io/p_2495q9u9q1.gif);}
-
-.nosel.d-flex.room.r1837054c8c8xe3c10891xembvye .fitimg.u-pic.borderg{border-radius: 100px;border: 2px solid #00bbea;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
+.nosel.d-flex.room.r18472d05dd8x6e9e8b97x-7jrvtd .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;}
 
 
+    .nosel.d-flex.room.r18472d05dd8x6e9e8b97x-7jrvtd.bord {border-inline: 4px solid #484848 !important;}
+    .nosel.d-flex.room.r18472d05dd8x6e9e8b97x-7jrvtd {
+    border-radius: 0px 15px 15px 15px;
+    display: inline-block;
+    background-image: url(https://up6.cc/2022/11/166855286581731.png);
+	background-size: 100%;
+	padding: 5px !important;
+    }
+    .nosel.d-flex.room.r18472d05dd8x6e9e8b97x-7jrvtd .dots.mini.u-msg {
+    text-align: center;
+    -webkit-text-fill-color: #ffffff;
+    background-image: linear-gradient(-225deg, #c8c8c8 0%, #ffffff 29%, #c8c8c8 67%, #ffffff 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 1s linear infinite;display: inline-block;
+    }
+    .nosel.d-flex.room.r18472d05dd8x6e9e8b97x-7jrvtd .fitimg.u-pic.borderg{border-radius: 0px 15px 15px 15px;border: 2px solid #ffffff;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
+    .nosel.d-flex.room.r18472d05dd8x6e9e8b97x-7jrvtd .u-topic.dots {
+    text-transform: uppercase;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+    font-size: 20px !important;
+    font-style: normal;
+    font-family: sans-serif;
+	background-image: url(https://up6.cc/2022/11/166855261716541.gif);
+    
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -2px;
+    margin-left: 5px;}
+    @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 
-.nosel.d-flex.room.r1837054c8c8xe3c10891xembvye .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
-
-
-
-
- 
-.nosel.d-flex.room.r1837054c8c8xe3c10891xembvye .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;background-color: #transparent!important;}
-
-.nosel.d-flex.room.r1837054c8c8xe3c10891xembvye .u-topic.dots {text-transform: uppercase;background-image: linear-gradient(-225deg, #000 0%, #00bbea 29%, #007aad 67%, #000 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;}
-@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
-var rid='1837054c8c8xe3c10891xembvye';
-
- $(`<style>#mic.hlm3 .mic {
+    var roomiddal='18472d05dd8x6e9e8b97x-7jrvtd';
+    $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${roomiddal}')"]{padding: 2px !important;
+    animation: textclip 5s linear infinite;
+    border-radius: 50px !important;
+    border: 1px solid #0000;
+    font-size: 15px !important;
+    font-style: normal;
+    font-family: sans-serif;
+    background-image: url(https://j.top4top.io/p_2491fp0ba1.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -5px;}`);
+    
+    
+    
+    
+    
+    $(`<style>#mic.mok3 .mic {
         border: 2px solid;
-        border-image: linear-gradient(var(--angle), #00b4ff 0%, #000 29%, #00b4ff 67%, #020202 100%) 1;
+        border-image: linear-gradient(var(--angle), #ffffff 0%, #000 29%, #ffffff 67%, #020202 100%) 1;
         animation: 5s rotate linear infinite;
         --angle: 0deg;
         background-color: #e3e3e3;
@@ -1715,32 +1741,32 @@ var rid='1837054c8c8xe3c10891xembvye';
         initial-value: 0deg;
         inherits: false;
     }</style>`).insertBefore('body');
-
-
-
-
-$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #000 0%, #00bbea 29%, #007aad 67%, #000 100%);
-
-background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #000 !important;
-}`);
-$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #000 0%, #00bbea 29%, #007aad 67%, #000 100%);
-background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #000 !important;
-}`);
-
-
-
-
- $("style").last().append(`
     
-    #users.hlm1 .inroom.uzr img.ustat {
+    
+    
+    $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${roomiddal}')"]{animation: textclip 5s linear infinite;
+    border-radius: 50px !important;
+    border: 1px solid #0000;
+    font-size: 15px !important;
+    font-style: normal;
+    font-family: sans-serif;
+    background-image: url(https://j.top4top.io/p_2491fp0ba1.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -3px;}`);
+    
+    $("style").last().append(`
+    
+    #users.mok1 .inroom.uzr img.ustat {
       width: 54px !important;
-      border-radius: 50px 50px 50px 50px;
+      border-radius: 0px 15px 15px 15px;
       height: 52px;
       margin-top: -1px;
       min-height: 0% !important;
     }
-    #users.hlm1 .inroom.uzr .fitimg.u-pic {
-      border-radius: 50px 50px 50px 50px;
+    #users.mok1 .inroom.uzr .fitimg.u-pic {
+      border-radius: 0px 15px 15px 15px;
     margin-top: 0px;
     z-index: 0;
     margin-left: -51px;
@@ -1750,169 +1776,153 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
     max-height: 50px;
     }
 
-    #d2.hlm2 .uzr .fitimg.u-pic{
-    border: 2px solid #007aad;
-background-color: #007aad;
- border-radius: 50px 50px 50px 50px;
-        background-color: #007aad;
-}
-#d2.hlm2 .uzr .d-flex.mm{
-    border: 2px solid;
-background-color: #007aad;}
-
-    #users.hlm1 .uzr .u-msg{
-	font-weight:bold;
-        text-align: center;
-        -webkit-text-fill-color: #000;
+    #d2.mok2 .uzr .fitimg.u-pic{
+    border: 2px solid #000 ;
+        
+        --angle: 0deg;
+        border-radius: 0px 15px 15px 15px;
+        background-color: #e3e3e3;
+       
+       
+    ;}
+    #users.mok1 .uzr .u-msg{
+        -webkit-text-fill-color: #0000;
         text-transform:uppercase;
-        background-image: linear-gradient(327deg, #007aad, #000000);
-    background-size: 100%;
-    -webkit-background-clip:text;
-    -webkit-text-fill-color:transparent;animation:1s linear infinite textclip;
-    display:inline-block;}
+        background-image: url(https://g.top4top.io/p_2484pn5dd1.gif);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    color: transparent !important;}
 
-    #users.hlm1 .inroom.uzr span.uhash{
+    #users.mok1 .inroom.uzr span.uhash{
     text-transform:uppercase;
-    background-image: linear-gradient(327deg, #007aad, #000000);
+    background-image: linear-gradient(270deg, #ffff,  #000);
     background-size:220% auto;
     -webkit-background-clip:text;
     -webkit-text-fill-color:transparent;animation:2s linear infinite textclip;
     display:inline-block;}
     
-    #users.hlm1 .uzr {
+    #users.mok1 .uzr {
         background-color: #0000 !important;}
-      #users.hlm1 {
-        background-image: url("https://up6.cc/2022/11/166776843187891.png");
+      #users.mok1 {
+        background-image: url("https://up6.cc/2022/11/166851975876961.png");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 
 
     
 
-    #users.hlm1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
-    #d2.hlm2 {
+    #users.mok1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
+    #d2.mok2 {
         background-color: #f5f5f5 !important;
-        background-image: url("https://up6.cc/2022/11/166776843189662.png");
+        background-image: url("https://up6.cc/2022/11/166852049817291.png");
         background-size: cover;
+    
     }
-    #chats.hlm5 {
+
+
+	
+    #chats.mok5 {
       background-color: #f5f5f5 !important;
-      background-image: url("https://up6.cc/2022/11/166776843187891.png");
+      background-image: url("https://up6.cc/2022/11/166851975876961.png");
       background-size: cover;
   }
 
-    #d0.hlm {background-color: #f6f6f6;}
-    #d0.hlm .label-primary {background-color: #007aad;}
-    chats
-    #settings.hlm4 .label-primary {background-color: #000 !important;}
+    }
+    #d0.mok {background-color: #f6f6f6;}
+    #d0.mok .label-primary {background-color: #000;}
+	#d0.mok .bg {background-color: #000;}
+    
+    #settings.mok4 .label-primary {background-color: #000 !important;}
 
-    #rooms.hlm4 .label-primary {background-color: #007aad !important;}
-	
+    #rooms.mok4 .label-primary {background-color: #000 !important;}
 
-	#rooms.hlm4 .d-flex.room.r1837054c8c8xe3c10891xembvye .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
-
-    #rooms.hlm4 {
-        background-image: url("https://up6.cc/2022/11/166776843187891.png");
+    #rooms.mok4 {
+        background-image: url("https://up6.cc/2022/11/166851975876961.png");
         background-size: cover;
         background-color: #f5f5f5 !important;} 
 
-		#d2.hlm2 .uzr.d-flex.mm.hmsg {
-        background-color: #99ebff2b!important;
+		#d2.mok2 .uzr.d-flex.mm.hmsg {
+        background-color: #c3c3c375!important;
 }
 
-#d2bc.hlm6.d2.light.d2bc.flex-grow-1.break {
-  background-image: url("https://up6.cc/2022/11/166776843187891.png");
+	#d2.mok2 .uzr.d-flex.mm.pmsgc {
+ 
+        background-color: #c3c3c375!important;
+}
+
+
+
+
+
+
+
+
+#d2bc.mok6.d2.light.d2bc.flex-grow-1.break {
+  background-image: url("https://up6.cc/2022/11/166851975876961.png");
   background-size: cover;
   background-color: #f5f5f5 !important;} 
 
 #users .uzr.stl1 .u-msg{
 background-color:#000;}
 
-d2.hlm2.flex-grow-1.break.light{
-  background-image: url("https://up6.cc/2022/11/166776843187891.png");
-  background-size: cover;
-  background-color: #f5f5f5 !important;}
 
-#dpnl.hlm7.nosel.ninr.fl.uzr.label.bg {
+
+#dpnl.mok7  {
+
+
     background-color: #000;
--webkit-text-fill-color: #000;
   }
 
 
-#dpnl.hlm7.label.nosel.ninr.fl.uzr.label.bg {
-	-webkit-text-fill-color: #000;
+#dpnl.mok9 .nosel.ninr.fl.uzr.label.bg {
 
-    background-color: #69b0ff;
-    color: black;
+
+    background-color: #000 !important;
   }
-#dpnl.hlm7 .nosel.ninr.fl.uzr.label.bg {
--webkit-text-fill-color: #000;
+#dpnl.mok9.bg {
 
-    background-color: #16202a;
+
+    background-color: #000 !important;
   }
-#users.hlm1.nosel.ninr.fl.uzr.label.bg {
--webkit-text-fill-color: #000;
-
-    background-color: #16202a;
-  }
-
-#users.hlm1.label.nosel.ninr.fl.uzr.label.bg {
--webkit-text-fill-color: #000;
-
-    background-color: #16202a;
-  }
-
-
-
-#dpnl.hlm9 .nosel.ninr.fl.uzr.label.bg {
--webkit-text-fill-color: #ffffff;
-
-    background-color: #4c6784 !important;
-  }
-
-
-
 `);
 
-		
+
     
          
          
-    var roomhlmatest = false;
+    var roommoktest = false;
     
     setInterval(function () {
-        if (myroom == '1837054c8c8xe3c10891xembvye') {
-            if (roomhlmatest == false) {
-                roomhlmatest = true;
-                $('#users').addClass('hlm1');
-                $('#d2').addClass('hlm2');
-                $('#mic').addClass('hlm3');
-                $('#settings').addClass('hlm4');
-                $('#rooms').addClass('hlm4');
-                $('#d0').addClass('hlm');
-                $('#chats').addClass('hlm5');
-                $('#d2bc').addClass('hlm6');
+        if (myroom == '18472d05dd8x6e9e8b97x-7jrvtd') {
+            if (roommoktest == false) {
+                roommoktest = true;
+              $('#users').addClass('mok1');
+                $('#d2').addClass('mok2');
+                $('#mic').addClass('mok3');
+                $('#settings').addClass('mok4');
+                $('#rooms').addClass('mok4');
+                $('#d0').addClass('mok');
+                $('#chats').addClass('mok5');
+                $('#d2bc').addClass('mok6');
 				$('#users').addClass('stl1');
-				$('#dpnl').addClass('hlm7');
-				$('#dpnl').addClass('hlm9');
+				$('#dpnl').addClass('mok7');
+				$('#dpnl').addClass('mok9');
             }
         } else {
-            if (roomhlmatest == true) {
-                roomhlmatest = false;
-                $("#users").removeClass('hlm1');
-                $("#d2").removeClass('hlm2');
-                $('#mic').removeClass('hlm3');
-                $('#settings').removeClass('hlm4');
-                $('#rooms').removeClass('hlm4');
-                $('#d0').removeClass('hlm');
-                $('#chats').removeClass('hlm5');
-                $('#d2bc').removeClass('hlm6');
+            if (roommoktest == true) {
+                roommoktest = false;
+                $("#users").removeClass('mok1');
+                $("#d2").removeClass('mok2');
+                $('#mic').removeClass('mok3');
+                $('#settings').removeClass('mok4');
+                $('#rooms').removeClass('mok4');
+                $('#d0').removeClass('mok');
+                $('#chats').removeClass('mok5');
+                $('#d2bc').removeClass('mok6');
 				$('#users').removeClass('stl1');
-				$('#dpnl').removeClass('hlm7');
-				$('#dpnl').removeClass('hlm9');
+				$('#dpnl').removeClass('mok7');
+				$('#dpnl').removeClass('mok9');
             } 
         } 
     }, 10);
-  
-
   
