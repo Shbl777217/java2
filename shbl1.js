@@ -1,33 +1,49 @@
-$(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
+$(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .label-danger {
+	border-radius: 20px 15px 15px 20px;
     letter-spacing: 1px;
     -webkit-text-fill-color: #fff;
-    background-image: url(https://k.top4top.io/p_2476pc6851.png);
-    border-radius: 12px 0px 0px 12px !important;
+    background-image: url(https://up6.cc/2022/11/166854552476211.gif); 
+	border-radius: 20px 15px 15px 0px;
+	box-shadow: 0px 0px 4px 4px #f8003830;
+	
+    
     }
     .nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd.bord {border-inline: 4px solid #eb0c99 !important;}
     .nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd {
+	 padding: 0px !important;
+	margin-bottom: 30px !important;
+	margin-right: 100px !important;
+	margin-lieft: 100px !important;
     border-radius: 0px 15px 15px 0px;
-    display: inline-block;
-    background-image: linear-gradient(-225deg, rgba(149, 97, 90, 0.31) 0%, rgba(255, 0, 143, 0) 29%, rgba(148, 97, 89, 0.05) 67%, rgba(150, 97, 90, 0.33) 100%) ;
+    
+    background-image: url(https://e.top4top.io/p_25115jq2g1.gif);
+	background-size: 100%;
+	box-shadow: 0px 0px 4px 4px #f8003830;
     }
     .nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .dots.mini.u-msg {
+	margin-top: 30px !important;
     text-align: center;
     -webkit-text-fill-color: #0000;
-    background-image: url(https://j.top4top.io/p_24751s0uk3.gif);
+    background-color: #fff;
+	font-size: 14 !important;
     -webkit-background-clip: text;
     color: transparent !important;
     background-size: 100% 100%;
     }
-    .nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .fitimg.u-pic.borderg{border-radius: 0px 15px 15px 0px;border: 2px solid #000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
+    .nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .fitimg.u-pic.borderg{
+margin-bottom: 35% !important;
+	margin-right: 5% !important;
+	
+border-radius: 0px 15px 15px 0px;border: 2px solid #9f0052;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
     .nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .u-topic.dots {
     text-transform: uppercase;
     -webkit-text-fill-color: transparent;
     animation: textclip 2s linear infinite;
     display: inline-block;
-    font-size: 15px !important;
+    font-size: 20px !important;
     font-style: normal;
     font-family: sans-serif;
-    background-image: url(https://i.top4top.io/p_2475ur22j2.gif);
+    
     -webkit-background-clip: text;
     color: transparent !important;
     background-size: 100% 100%;
@@ -43,7 +59,7 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
     font-size: 15px !important;
     font-style: normal;
     font-family: sans-serif;
-    background-image: url(https://i.top4top.io/p_2475ur22j2.gif);
+    background-image: url(https://j.top4top.io/p_24751s0uk3.gif);
     -webkit-background-clip: text;
     color: transparent !important;
     background-size: 100% 100%;
@@ -82,7 +98,7 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
     font-size: 15px !important;
     font-style: normal;
     font-family: sans-serif;
-    background-image: url(https://i.top4top.io/p_2475ur22j2.gif);
+    background-image: url(https://j.top4top.io/p_24751s0uk3.gif);
     -webkit-background-clip: text;
     color: transparent !important;
     background-size: 100% 100%;
@@ -135,12 +151,10 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
     -webkit-text-fill-color:transparent;animation:2s linear infinite textclip;
     display:inline-block;}
     
-    #users.mda1 .uzr {
-        background-color: #0000 !important;}
-      #users.mda1 {
-        background-image: url("https://e.top4top.io/p_2485hcyun1.png");
-  background-size: cover;
-  background-color: #f5f5f5 !important;}
+    #users.mda1 .uzr{
+   
+    background-image: url("https://up6.cc/2022/11/166854961980661.png");background-size: 100%;
+    border-bottom:1px solid #fffefe;}
 
 
     
@@ -148,12 +162,12 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
     #users.mda1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
     #d2.mda2 {
         background-color: #f5f5f5 !important;
-        background-image: url("https://h.top4top.io/p_2491315jk1.gif");
+        background-image: url("https://up6.cc/2022/11/166868916142331.gif");
         background-size: cover;
     }
     #chats.mda5 {
       background-color: #f5f5f5 !important;
-      background-image: url("https://e.top4top.io/p_2485hcyun1.png");
+      background-image: url("https://up6.cc/2022/11/16686328567761.png");
       background-size: cover;
   }
 
@@ -163,10 +177,18 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
     
     #settings.mda4 .label-primary {background-color: #83273c !important;}
 
+	
+
+
+
     #rooms.mda4 .label-primary {background-color: #83273c !important;}
 
+	#rooms.mda11 .d-flex.room .label-primary {background-image: url("https://up6.cc/2022/11/166854552476211.gif");
+box-shadow: 1px 1px 1px 1px #f8003830;
+        background-size: cover;}
+
     #rooms.mda4 {
-        background-image: url("https://e.top4top.io/p_2485hcyun1.png");
+        background-image: url("https://up6.cc/2022/11/166854850211521.png");
         background-size: cover;
         background-color: #f5f5f5 !important;} 
 
@@ -175,7 +197,7 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
 }
 
 #d2bc.mda6.d2.light.d2bc.flex-grow-1.break {
-  background-image: url("https://e.top4top.io/p_2485hcyun1.png");
+  background-image: url("https://up6.cc/2022/11/16686328567761.png");
   background-size: cover;
   background-color: #f5f5f5 !important;} 
 
@@ -183,7 +205,7 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
 background-color:#000;}
 
 d2.mda2.flex-grow-1.break.light{
-  background-image: url("https://e.top4top.io/p_2485hcyun1.png");
+  background-image: url("https://up6.cc/2022/11/166854850211521.png");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 
@@ -197,7 +219,14 @@ d2.mda2.flex-grow-1.break.light{
   }
 
 
+#d2.mda2 .uzr.d-flex.mm.hmsg {
+        background-color: #f800381f!important;
+}
 
+	#d2.mda2 .uzr.d-flex.mm.pmsgc {
+ 
+        background-color: #b500291f!important;
+}
 
 
 
@@ -222,6 +251,7 @@ d2.mda2.flex-grow-1.break.light{
                 $('#d2bc').addClass('mda6');
 				$('#users').addClass('stl1');
 				$('#dpnl').addClass('mda9');
+				$('#rooms').addClass('mda11');
 				
 				
             }
@@ -238,11 +268,24 @@ d2.mda2.flex-grow-1.break.light{
                 $('#d2bc').removeClass('mda6');
 				$('#users').removeClass('stl1');
 				$('#dpnl').removeClass('mda9');
+				$('#rooms').removeClass('mda11');
 				
             } 
         } 
     }, 10);
   
+  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
