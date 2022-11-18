@@ -929,6 +929,22 @@ d2.aym2.flex-grow-1.break.light{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $(`<style>.nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 10px 10px 10px 10px !important;}
 
 .nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;}
@@ -938,8 +954,8 @@ $(`<style>.nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .label-primary {back
     .nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 {
     border-radius: 10px 10px 0px 10px;
     display: inline-block;
-    background-image: url(https://j.top4top.io/p_2492e9cvz1.png);
-	background-size: cover;
+    background-image: url(https://up6.cc/2022/11/166880264011471.gif);
+	background-size: 100%;
     }
     .nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .dots.mini.u-msg {
     text-align: center;
@@ -1155,13 +1171,38 @@ background-color:#000;}
     }, 10);
   
 
+
+
+  
+
+
+
+
+
   
 
 
 
 
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
