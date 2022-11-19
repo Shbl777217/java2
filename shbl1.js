@@ -1470,7 +1470,7 @@ border: 3px solid #e4b691;
 .nosel.d-flex.room.r183001fe885xeb4ef367-xhlz6qx .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #ffffff; padding: 0px !important;border-radius: 50px !important;background-color: #transparent!important;}
 .nosel.d-flex.room.r183001fe885xeb4ef367-xhlz6qx .u-topic.dots {padding: 1px 35PX!important;-webkit-text-fill-color: transparent!important;
 background-color: transparent;
-font-color:transparent!important;background-image: url(https://up6.cc/2022/11/166786328036991.png);background-size: contain; }
+font-color:transparent!important; }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 var rid='183001fe885xeb4ef367-xhlz6qx';
 
