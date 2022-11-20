@@ -1457,7 +1457,7 @@ d2.pyo2.flex-grow-1.break.light{
 
 $(`<style>.nosel.d-flex.room.r183001fe885xeb4ef367-xhlz6qx.bord {border-inline: 4px solid #e4b691 !important;}
 .nosel.d-flex.room.r183001fe885xeb4ef367-xhlz6qx {display: inline-block;
-  background-image: url(https://up6.cc/2022/11/166890004826231.gif);
+  background-image: url(https://up6.cc/2022/11/166890242359031.gif);
 padding: 5px !important;
 background-size: 100%; 
 border-radius: 25px 0px 25px 25px;
@@ -1658,7 +1658,6 @@ d2.mon2.flex-grow-1.break.light{
             } 
         } 
     }, 10);
-
 
 
 
