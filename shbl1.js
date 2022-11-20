@@ -1457,14 +1457,16 @@ d2.pyo2.flex-grow-1.break.light{
 
 $(`<style>.nosel.d-flex.room.r183001fe885xeb4ef367-xhlz6qx.bord {border-inline: 4px solid #e4b691 !important;}
 .nosel.d-flex.room.r183001fe885xeb4ef367-xhlz6qx {display: inline-block;
-  background-image: url(https://up6.cc/2022/11/166890242359031.gif);
+  background-image: url(https://up6.cc/2022/11/166890399355781.gif);
 padding: 5px !important;
 background-size: 100%; 
 border-radius: 25px 0px 25px 25px;
 border: 3px solid #e4b691;
 }
 .nosel.d-flex.room.r183001fe885xeb4ef367-xhlz6qx .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #ffffff;}
-.nosel.d-flex.room.r183001fe885xeb4ef367-xhlz6qx .fitimg.u-pic.borderg{border-radius: 100px;border: 2px solid #e4b691; padding:5px !important; letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
+.nosel.d-flex.room.r183001fe885xeb4ef367-xhlz6qx .fitimg.u-pic.borderg{border-radius: 100px;border: 2px solid #e4b691; padding:5px !important; letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
+marginbottom: 3% !important;
+	marginright: 1% !important;}
 .nosel.d-flex.room.r183001fe885xeb4ef367-xhlz6qx .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 50px !important;}
  
 .nosel.d-flex.room.r183001fe885xeb4ef367-xhlz6qx .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #ffffff; padding: 0px !important;border-radius: 50px !important;background-color: #transparent!important;}
