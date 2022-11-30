@@ -1480,7 +1480,7 @@ border-radius: 0px 15px 15px 15px;
 
 
 .nosel.d-flex.room.r184b0f27470x679b9f61x-bknpn .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;
-font-size: 14px !important;-webkit-text-fill-color: #fff;background-image: url(https//up6.cc/2022/11/166938649195561.gif);}
+font-size: 14px !important;-webkit-text-fill-color: #fff;}
 
 .nosel.d-flex.room.r184b0f27470x679b9f61x-bknpn .fitimg.u-pic.borderg{border-radius: 0px 100px 100px 100px;border: 2px solid #000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;margin-bottom: 25% !important;
 	margin-right: 5% !important;}
