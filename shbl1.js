@@ -1596,13 +1596,10 @@ background-color: #000;}
     
 
     #users.hsh1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
-    #d2.hsh2 {
-        background-color: #f5f5f5 !important;
-        background-image: url("https://up6.cc/2022/11/166964460500721.gif");
-        background-size: 100%;
+    
 
     
-    }
+    
     #chats.hsh5 {
       background-color: #f5f5f5 !important;
       background-image: url("https://up6.cc/2022/11/166964460500721.gif");
