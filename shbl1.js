@@ -2389,7 +2389,7 @@ $(`<style>.nosel.d-flex.room.r184bae6496fx6ea77293x-fv7e7q .label-primary {backg
         animation: 5s rotate linear infinite;
         --angle: 0deg;
         background-color: #e3e3e3;
-        border-radius: 5px !important;
+        border-radius: 10px 0px 10px 0px !important;
         margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
         height: 48px;}
         
