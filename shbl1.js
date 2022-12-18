@@ -312,17 +312,20 @@ $(`<style>.nosel.d-flex.room.r183be4eeb67x9ba8fba4-x-n0rrt6 .label-primary {back
     .nosel.d-flex.room.r183be4eeb67x9ba8fba4-x-n0rrt6 {
     border-radius: 0px 15px 15px 15px;
     display: inline-block;
-    background-image: url(https://up6.cc/2022/12/167113871056891.gif);
+    background-image: url(https://up6.cc/2022/12/167122368767631.gif);
 	background-size: 100%;
 	padding: 5px !important;
     }
     .nosel.d-flex.room.r183be4eeb67x9ba8fba4-x-n0rrt6 .dots.mini.u-msg {
     text-align: center;
-    -webkit-text-fill-color: #ffffff;
-    background-image: linear-gradient(-225deg, #c8c8c8 0%, #ffffff 29%, #c8c8c8 67%, #ffffff 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 1s linear infinite;display: inline-block;
+    -webkit-text-fill-color: transparent !important;
+   background-image: url(https://up6.cc/2022/12/167122094857011.gif);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    color: transparent !important;
     }
     .nosel.d-flex.room.r183be4eeb67x9ba8fba4-x-n0rrt6 .fitimg.u-pic.borderg{border-radius: 100px ;border: 2px solid #ffffff;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
-	margin-bottom: 15% !important;
+	margin-bottom: 18% !important;
 	margin-right: 5% !important;}
     .nosel.d-flex.room.r183be4eeb67x9ba8fba4-x-n0rrt6 .u-topic.dots {
     text-transform: uppercase;
@@ -343,7 +346,7 @@ $(`<style>.nosel.d-flex.room.r183be4eeb67x9ba8fba4-x-n0rrt6 .label-primary {back
 
  $(`<style>#mic.mg3 .mic {
         border: 2px solid;
-        border-image: linear-gradient(var(--angle), #ffffff 0%, #000 29%, #ffffff 67%, #020202 100%) 1;
+        border-image: linear-gradient(var(--angle), #ffffff 0%, #ea3e13 29%, #ffffff 67%, #ea3e13 100%) 1;
         animation: 5s rotate linear infinite;
         --angle: 0deg;
         background-color: #e3e3e3;
@@ -400,7 +403,7 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
     }
 
     #d2.mg2 .uzr .fitimg.u-pic{
-    border: 2px solid #000 ;
+    border: 2px solid #ea3e13 ;
         
         --angle: 0deg;
         border-radius: 100px ;
@@ -411,7 +414,7 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
     #users.mg1 .uzr .u-msg{
         -webkit-text-fill-color: #0000;
         text-transform:uppercase;
-        background-image: url(https://g.top4top.io/p_2484pn5dd1.gif);
+        background-image: url(https://up6.cc/2022/12/167122073411641.gif);
     background-size: 400% 400%;
     -webkit-background-clip: text;
     color: transparent !important;}
@@ -427,7 +430,7 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
     #users.mg1 .uzr {
         background-color: #0000 !important;}
       #users.mg1 {
-        background-image: url("https://up6.cc/2022/12/167113871116972.gif");
+        background-image: url("https://up6.cc/2022/12/167122052201591.gif");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 
@@ -437,7 +440,7 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
     #users.mg1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
     #d2.mg2 {
         background-color: #f5f5f5 !important;
-        background-image: url("https://up6.cc/2022/12/167113871116972.gif");
+        background-image: url("https://up6.cc/2022/12/167122052201591.gif");
         background-size: cover;
     
     }
@@ -446,7 +449,7 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
 	
     #chats.mg5 {
       background-color: #f5f5f5 !important;
-      background-image: url("https://up6.cc/2022/12/167113871116972.gif");
+      background-image: url("https://up6.cc/2022/12/167122052201591.gif");
       background-size: cover;
   }
 
@@ -460,7 +463,7 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
     #rooms.mg4 .label-primary {background-color: #000 !important;}
 
     #rooms.mg4 {
-        background-image: url("https://up6.cc/2022/12/167113871116972.gif");
+        background-image: url("https://up6.cc/2022/12/167122052201591.gif");
         background-size: cover;
         background-color: #f5f5f5 !important;} 
 
@@ -481,7 +484,7 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
 
 
 #d2bc.mg6.d2.light.d2bc.flex-grow-1.break {
-  background-image: url("https://up6.cc/2022/12/167113871116972.gif");
+  background-image: url("https://up6.cc/2022/12/167122052201591.gif");
   background-size: cover;
   background-color: #f5f5f5 !important;} 
 
@@ -549,6 +552,7 @@ background-color:#000;}
         } 
     }, 10);
   
+
 
 
 
