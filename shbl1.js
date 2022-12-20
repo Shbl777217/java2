@@ -2719,7 +2719,7 @@ $(`<style>.nosel.d-flex.room.r185046848c7xcc763e51-x-5bmu3g .label-primary {back
     .nosel.d-flex.room.r185046848c7xcc763e51-x-5bmu3g {
     border-radius: 0px 15px 15px 15px;
     display: inline-block;
-    background-image: url(https://up6.cc/2022/12/167139757207651.gif);
+    background-image: url(https://up6.cc/2022/12/167157394479571.gif);
 	background-size: 100%;
 	padding: 5px !important;
     }
