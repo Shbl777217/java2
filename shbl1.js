@@ -2841,7 +2841,7 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
 
     
 
-    #users.mos1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
+    
     #d2.mos2 {
         background-color: #f5f5f5 !important;
         background-image: url("https://up6.cc/2022/12/167113871116972.gif");
@@ -2858,13 +2858,9 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
   }
 
     }
-    #d0.mos {background-color: #f6f6f6;}
-    #d0.mos .label-primary {background-color: #000;}
-	#d0.mos .bg {background-color: #000;}
+   
     
-    #settings.mos4 .label-primary {background-color: #000 !important;}
-
-    #rooms.mos4 .label-primary {background-color: #000 !important;}
+  
 
     #rooms.mos4 {
         background-image: url("https://up6.cc/2022/12/167113871116972.gif");
@@ -2892,28 +2888,14 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
   background-size: cover;
   background-color: #f5f5f5 !important;} 
 
-#users .uzr.stl1 .u-msg{
-background-color:#000;}
 
 
 
-#dpnl.mos7  {
 
 
-    background-color: #000;
-  }
 
 
-#dpnl.mos9 .nosel.ninr.fl.uzr.label.bg {
 
-
-    background-color: #000 !important;
-  }
-#dpnl.mos9.bg {
-
-
-    background-color: #000 !important;
-  }
 `);
 
 
