@@ -2831,15 +2831,6 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
     -webkit-text-fill-color:transparent;animation:2s linear infinite textclip;
     display:inline-block;}
     
-    #users.mos1 .uzr {
-        background-color: #0000 !important;}
-      #users.mos1 {
-        background-image: url("https://up6.cc/2022/12/167113871116972.gif");
-  background-size: cover;
-  background-color: #f5f5f5 !important;}
-
-
-    
 
     
     #d2.mos2 {
