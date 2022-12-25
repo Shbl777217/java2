@@ -1187,12 +1187,12 @@ $(`<style>.nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .label-primary {back
     #users.h91 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
     #d2.h92 {
         background-color: #f5f5f5 !important;
-        background-image: url("https://up6.cc/2022/10/166724798164591.png");
+        background-image: url("https://up6.cc/2022/12/167200576526011.png");
         background-size: cover;
     }
     #chats.h95 {
       background-color: #f5f5f5 !important;
-      background-image: url("https://up6.cc/2022/10/166724798164591.png");
+      background-image: url("https://up6.cc/2022/12/167200576526011.png");
       background-size: cover;
   }
 
@@ -1205,7 +1205,7 @@ $(`<style>.nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .label-primary {back
     rooms.h94 .label-primary {background-color: #83273c !important;}
 
     #rooms.h94 {
-        background-image: url("https://up6.cc/2022/10/166724798164591.png");
+        background-image: url("https://up6.cc/2022/12/167200576526011.png");
         background-size: cover;
         background-color: #f5f5f5 !important;} 
 
@@ -1219,7 +1219,7 @@ $(`<style>.nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .label-primary {back
 }
 
 #d2bc.h96.d2.light.d2bc.flex-grow-1.break {
-  background-image: url("https://up6.cc/2022/10/166724798164591.png");
+  background-image: url("https://up6.cc/2022/12/167200576526011.png");
   background-size: cover;
   background-color: #f5f5f5 !important;} 
 
@@ -1227,7 +1227,7 @@ $(`<style>.nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .label-primary {back
 background-color:#000;}
 
 #d2.h92.flex-grow-1.break.light{
-  background-image: url("https://up6.cc/2022/10/166724798164591.png");
+  background-image: url("https://up6.cc/2022/12/167200576526011.png");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 `);
