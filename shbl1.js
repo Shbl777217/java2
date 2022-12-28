@@ -3019,12 +3019,11 @@ var l_itv=setInterval(function(){
 
 
 
+
+
+
 $("style").last().append(`
-#users .uzr.mosos img.co {
-  
-  margin-top: -100px !important;
-  margin-right: -100px;
-}
+
 
 #users .uzr.mosos img.ustat {
       width: 0px !important;
@@ -3073,10 +3072,7 @@ background-image: linear-gradient(-225deg, rgb(255, 192, 0) 0%, rgba(255, 255, 0
     
 }
 
-#users .uzr.mosos .c-flex.fr {
-  margin-left: -4px!important;
-  float: left;
-}
+
 
 #users .uzr.mosos .d-flex.fl {
   padding-right: 0px !important;
@@ -3122,7 +3118,5 @@ var l_itv1=setInterval(function(){
 });
     }
 }, 20000);
-
-
 
 
