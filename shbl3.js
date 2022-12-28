@@ -1,6 +1,11 @@
 
 
 $("style").last().append(`
+#users .uzr.mosos img.co {
+  
+  margin-top: -100px !important;
+  margin-right: -100px;
+}
 
 #users .uzr.mosos img.ustat {
       width: 0px !important;
