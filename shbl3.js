@@ -79,7 +79,7 @@ var l_itv1=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itv1);
         $("#users .uzr:contains('موسوس.')").addClass('mosos');
-        $("#users .uzr.mosos .fitimg.u-pic").append('<img class="My_star" title="طاري" src="https://up6.cc/2022/12/167209273598672.png">');
+        $("#users .uzr.mosos .fitimg.u-pic").append('<img class="My_star" title="اطاري" src="https://up6.cc/2022/12/167209273598672.png">');
      
         $("div#users .uzr:contains('موسوس.')").click(function(){
         $("#movon").show();
