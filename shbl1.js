@@ -3082,7 +3082,7 @@ background-image: linear-gradient(-225deg, rgb(255, 192, 0) 0%, rgba(255, 255, 0
   margin-left: 5px;
 }
 
-#users .uzr.mosos .My_star {
+#users .uzr.mosos .My_star99 {
  width: 72px;
 height: 72px;
 margin-top: -10px;
@@ -3099,7 +3099,7 @@ var l_itv1=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itv1);
         $("#users .uzr:contains('موسوس.')").addClass('mosos');
-        $("#users .uzr.mosos .fitimg.u-pic").append('<img class="My_star" title="اطاري" src="https://up6.cc/2022/12/167209273598672.png">');
+        $("#users .uzr.mosos .fitimg.u-pic").append('<img class="My_star99" title="اطاري" src="https://up6.cc/2022/12/167209273598672.png">');
      
         $("div#users .uzr:contains('موسوس.')").click(function(){
         $("#movon").show();
