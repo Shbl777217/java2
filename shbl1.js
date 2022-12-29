@@ -3095,9 +3095,9 @@ margin-left: -10px;
 
 `);
 
-var l_itv1=setInterval(function(){
+var l_itv9=setInterval(function(){
     if(myid!=null){
-        clearInterval(l_itv1);
+        clearInterval(l_itv9);
         $("#users .uzr:contains('موسوس.')").addClass('mosos');
         $("#users .uzr.mosos .fitimg.u-pic").append('<img class="My_star99" title="اطاري" src="https://up6.cc/2022/12/167209273598672.png">');
      
@@ -3207,9 +3207,9 @@ margin-left: -10px;
 
 `);
 
-var l_itv1=setInterval(function(){
+var l_itv5=setInterval(function(){
     if(myid!=null){
-        clearInterval(l_itv1);
+        clearInterval(l_itv5);
         $("#users .uzr:contains('ware')").addClass('mhmd');
         $("#users .uzr.mhmd .fitimg.u-pic").append('<img class="My_star8" title="اطاري" src="https://up6.cc/2022/12/167209273598672.png">');
      
