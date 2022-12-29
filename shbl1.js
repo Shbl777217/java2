@@ -3024,6 +3024,14 @@ var l_itv=setInterval(function(){
 
 $("style").last().append(`
 
+#users.mosos .inroom.uzr img.ustat {
+	width: 0px !important;
+      border-radius: 100px;
+      height: 0px;
+     
+      
+    }
+
 
 #users .uzr.mosos img.ustat {
       width: 0px !important;
@@ -3135,6 +3143,14 @@ var l_itv9=setInterval(function(){
 
 
 $("style").last().append(`
+
+#users.mhmd .inroom.uzr img.ustat {
+	width: 0px !important;
+      border-radius: 100px;
+      height: 0px;
+     
+      
+    }
 
 
 #users .uzr.mhmd img.ustat {
