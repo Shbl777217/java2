@@ -7,7 +7,7 @@ $(`<style>.nosel.d-flex.room.r1855450005axfb4bc25-x-rsknis .label-primary {backg
     .nosel.d-flex.room.r1855450005axfb4bc25-x-rsknis {
     border-radius: 0px 15px 15px 15px;
     display: inline-block;
-    background-image: url(https://up6.cc/2022/12/167234955497291.gif);
+    background-image: url(https://up6.cc/2022/12/167235410240821.gif);
 	background-size: 100%;
 	padding: 5px !important;
     }
@@ -42,10 +42,10 @@ $(`<style>.nosel.d-flex.room.r1855450005axfb4bc25-x-rsknis .label-primary {backg
 
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #000 0%, #e4b691 29%, #cba586 67%, #000 100%);
 
-background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #000 !important;
+background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 0px !important;background-color: #000 !important;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #000 0%, #e4b691 29%, #cba586 67%, #000 100%);
-background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #000 !important;
+background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 0px !important;background-color: #000 !important;
 }`);
 
     
