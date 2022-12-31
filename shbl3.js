@@ -196,8 +196,8 @@ background-image: linear-gradient(-225deg, rgb(144, 99, 185) 0%, rgba(255, 0, 14
 var l_itv6=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itv6);
-        $("#users .uzr:contains('                          Pure')").addClass('pure2');
-        $("div#users .uzr:contains('                          Pure')").click(function(){
+        $("#users .uzr:contains('                            Pure')").addClass('pure2');
+        $("div#users .uzr:contains('                            Pure')").click(function(){
         $("#movon").show();
         
         $('#movon').addClass('pure2');
