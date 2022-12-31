@@ -125,3 +125,92 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
         } 
     }, 10);
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$("style").last().append(`
+
+
+#users .uzr.pure2 .fitimg.u-pic{border:1px solid #fff;margin-top:2px;border-radius:5px;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #6c216d}
+
+
+#users .uzr.pure2 .u-msg {
+  -webkit-background-clip: text;
+  padding: 1px !important;
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2022/12/167243807291731.gif);
+  padding: 0px !important;
+  font-size: 89% !important;
+	margin-bottom: 6px !important;
+background-size: cover;
+}
+
+
+
+
+
+
+#users .uzr.pure2 {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px;
+  background-image: 
+  background-size: cover;
+  border: 1px solid #fff;
+background-image: linear-gradient(-225deg, rgb(144, 99, 185) 0%, rgba(255, 0, 143, 0) 25%, rgba(135, 99, 186, 0.2) 80%, rgb(240, 240, 240) 100%);
+    
+}
+
+
+
+#users .uzr.pure2 .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.pure2 .u-topic {
+  margin-left: 5px;
+}
+
+
+
+`);
+
+var l_itv6=setInterval(function(){
+    if(myid!=null){
+        clearInterval(l_itv6);
+        $("#users .uzr:contains('                          Pure')").addClass('pure2');
+        $("div#users .uzr:contains('                          Pure')").click(function(){
+        $("#movon").show();
+        
+        $('#movon').addClass('pure2');
+      
+        
+        
+    
+       $("#ifr_mov").show(function(){
+        $("#upro").modal("hide");
+    } ); 
+});
+    }
+}, 20000);
+
+
+
