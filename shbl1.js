@@ -2478,9 +2478,7 @@ var l_itv8=setInterval(function(){
         
         
     
-       $("#ifr_mov").show(function(){
-        $("#upro").modal("hide");
-    } ); 
+    
 });
     }
 }, 20000);
