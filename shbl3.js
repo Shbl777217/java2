@@ -313,9 +313,7 @@ var l_itv9=setInterval(function(){
 		  
         
         
-       $("#ifr_mov").show(function(){
-        $("#upro").modal("hide");
-    } ); 
+  
 });
     }
 }, 20000);
