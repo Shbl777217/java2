@@ -205,9 +205,7 @@ var l_itv6=setInterval(function(){
         
         
     
-       $("#ifr_mov").show(function(){
-        $("#upro").modal("hide");
-    } ); 
+   
 });
     }
 }, 20000);
