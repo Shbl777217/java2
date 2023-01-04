@@ -440,3 +440,106 @@ var l_itvn=setInterval(function(){
 }, 20000);
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$("style").last().append(`
+
+
+#users .uzr.remma5 .fitimg.u-pic{border:1px solid #fff;margin-top:2px;border-radius:100px;
+margin-bottom: 6px !important;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #d743cf}
+
+
+#users .uzr.remma5 .u-msg {
+ 
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: #0000;
+  background-image: linear-gradient(-225deg,#000 0%,#653265 29%,#a916a9 67%,#000 100%);
+  padding: 0px !important;
+  font-size: 89% !important;
+}
+
+
+
+
+
+
+#users .uzr.remma5 {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  
+  border: 1px solid #fff;
+margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px;
+  background-image: 
+  background-size: cover;
+  
+background-image: linear-gradient(-225deg, rgb(238, 192, 210)
+ 0%, rgba(238, 192, 210, 0) 15%, rgba(238, 192, 210, 0) 85%, rgb(238, 192, 210)
+ 100%);
+    
+}
+
+
+#users .uzr.remma5 .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.remma5 .u-topic {
+  margin-left: 5px;
+}
+
+
+
+`);
+
+var l_itvre=setInterval(function(){
+    if(myid!=null){
+        clearInterval(l_itvre);
+        $("#users .uzr:contains('‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎  ‏‎ ‏‎      ‏‎ ‏‎ ‏‎       ‏‎ ‏‎             ‏‎ ‏R')").addClass('remma5');
+        $("div#users .uzr:contains('‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎  ‏‎ ‏‎      ‏‎ ‏‎ ‏‎       ‏‎ ‏‎             ‏‎ ‏R')").click(function(){
+        $("#movon").show();
+        
+        $('#movon').addClass('remma5');
+      
+        
+        
+    
+       
+});
+    }
+}, 20000);
+
+
+
+
+
+
