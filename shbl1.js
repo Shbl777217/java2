@@ -2438,6 +2438,10 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
 
 
   $("style").last().append(`
+  #users .uzr.msh1 .u-topic {
+  -webkit-text-fill-color: transparent;
+
+}
 #users .uzr.msh1 .u-msg {
   -webkit-background-clip: text;
   padding: 1px !important;
