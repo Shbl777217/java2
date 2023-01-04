@@ -422,16 +422,7 @@ var l_itvre=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvre);
         $("#users .uzr:contains('‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎  ‏‎ ‏‎      ‏‎ ‏‎ ‏‎       ‏‎ ‏‎             ‏‎ ‏R')").addClass('remma5');
-        $("div#users .uzr:contains('‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎  ‏‎ ‏‎      ‏‎ ‏‎ ‏‎       ‏‎ ‏‎             ‏‎ ‏R')").click(function(){
-        $("#movon").show();
-        
-        $('#movon').addClass('remma5');
-      
-        
-        
-    
-       
-});
+  
     }
 }, 20000);
 
