@@ -2474,16 +2474,7 @@ var l_itv8=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itv8);
         $("#users .uzr:contains('                                                       ‏𝐌𝐬𝐡')").addClass('msh1');
-        $("div#users .uzr:contains('                                                       ‏𝐌𝐬𝐡') ").click(function(){
-        $("#movon").show();
-        
-        $('#movon').addClass('msh1');
-      
-        
-        
-    
-    
-});
+
     }
 }, 20000);
 
