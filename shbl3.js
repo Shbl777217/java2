@@ -343,7 +343,7 @@ margin-bottom: 6px !important;
 
 
 #users .uzr.noorth1 .u-msg {
-	text-align: center;
+	
   -webkit-background-clip: text;
   padding: 1px !important;
   font-size: 89% !important;
