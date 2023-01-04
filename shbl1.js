@@ -2468,7 +2468,7 @@ background-image: linear-gradient(-225deg, rgb(202, 202, 202) 0%, rgba(255, 0, 1
 `);
 var l_itv8=setInterval(function(){
     if(myid!=null){
-        clearInterval(l_itv4);
+        clearInterval(l_itv8);
         $("#users .uzr:contains('                                                              ‏𝐌𝐬𝐡')").addClass('msh1');
         $("div#users .uzr:contains('                                                              ‏𝐌𝐬𝐡') ").click(function(){
         $("#movon").show();
