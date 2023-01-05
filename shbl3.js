@@ -421,7 +421,7 @@ background-image: linear-gradient(-225deg, rgb(238, 192, 210)
 var l_itvre=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvre);
-        $("#users .uzr:contains('‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎  ‏‎ ‏‎      ‏‎ ‏‎ ‏‎       ‏‎ ‏‎             ‏‎ ‏R')").addClass('remma5');
+        $("#users .uzr:contains('‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎    ‏‎ ‏‎ ‏‎       ‏‎Reema')").addClass('remma5');
   
     }
 }, 20000);
