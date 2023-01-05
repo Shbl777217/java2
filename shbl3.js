@@ -61,7 +61,7 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
    border: 1px solid #9b6b3c;
 	
 	box-shadow: 0px 0px 1px 1px #9b6b3c;
-    width: 50px;
+    height: 52px !important;
   
     }
 
@@ -125,6 +125,7 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
         } 
     }, 10);
   
+
 
 
 
