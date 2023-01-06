@@ -44,6 +44,32 @@ $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid
 
 background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 0px !important;background-color: #000 !important;
 }`);
+
+
+$(`<style>#mic.arb3 .mic {
+        border: 2px solid;
+        border-image: linear-gradient(var(--angle), #ffffff 0%, #7e4b26 29%, #ffffff 67%, #7e4b26 100%) 1;
+        animation: 5s rotate linear infinite;
+        --angle: 0deg;
+        background-color: #fff;
+        border-radius: 5px !important;
+        margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
+        height: 48px;}
+        
+        @keyframes rotate{
+        to {
+            --angle: 360deg;
+        }
+    }
+    @property --angle {
+        syntax: "<angle>";
+        initial-value: 0deg;
+        inherits: false;
+    }</style>`).insertBefore('body');
+    
+
+
+
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #000 0%, #e4b691 29%, #cba586 67%, #000 100%);
 background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 0px !important;background-color: #000 !important;
 }`);
@@ -74,6 +100,49 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
        
        
     ;}
+
+
+    #users.arb1 .inroom.uzr span.uhash{
+    text-transform:uppercase;
+   
+    -webkit-text-fill-color:#7e4b26;}
+
+    #d0.arb .label-primary {background-color: #7e4b26;}
+	#d0.arb .bg {background-color: #7e4b26;}
+    
+    #settings.arb4 .label-primary {background-color: #7e4b26 !important;}
+
+    #rooms.arb4 .label-primary {background-color: #7e4b26 !important;}
+
+
+
+		#d2.arb2 .uzr.d-flex.mm.hmsg {
+        background-color: #7e4b2626!important;
+}
+
+	#d2.arb2 .uzr.d-flex.mm.pmsgc {
+ 
+        background-color: #9d4c1126!important;
+}
+
+
+#dpnl.arb7  {
+
+
+    background-color: #7e4b26;
+  }
+
+
+#dpnl.arb9 .nosel.ninr.fl.uzr.label.bg {
+
+
+    background-color: #7e4b26 !important;
+  }
+#dpnl.arb9.bg {
+
+
+    background-color: #7e4b26 !important;
+  }
    
     
     
@@ -103,7 +172,6 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
                 $('#d0').addClass('arb');
                 $('#chats').addClass('arb5');
                 $('#d2bc').addClass('arb6');
-				$('#users').addClass('stl1');
 				$('#dpnl').addClass('arb7');
 				$('#dpnl').addClass('arb9');
             }
@@ -118,14 +186,12 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
                 $('#d0').removeClass('arb');
                 $('#chats').removeClass('arb5');
                 $('#d2bc').removeClass('arb6');
-				$('#users').removeClass('stl1');
 				$('#dpnl').removeClass('arb7');
 				$('#dpnl').removeClass('arb9');
             } 
         } 
     }, 10);
   
-
 
 
 
