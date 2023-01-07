@@ -684,3 +684,88 @@ var l_itvne=setInterval(function(){
     }
 }, 20000);
 
+
+
+
+
+
+
+
+
+
+
+$("style").last().append(`
+
+
+#users .uzr.noarah7 .u-topic {
+  -webkit-text-fill-color: transparent;
+
+}
+
+
+
+
+#users .uzr.noarah7 .fitimg.u-pic{border:1px solid #fff;margin-top:2px;border-radius: 0px 20px 0px 20px;
+margin-bottom: 6px !important;
+height: 52px !important;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #ecc01e}
+
+
+#users .uzr.noarah7 .u-msg {
+margin-top:3px !important;
+
+ text-align: center;
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: #0000;
+  	 background-image: linear-gradient(-225deg,#000 10%,#ffae00 29%,#000 17%,#ecc01e 100%);
+  padding: 0px !important;
+  font-size: 89% !important;
+}
+
+
+
+
+
+
+#users .uzr.noarah7 {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  
+  border: 1px solid #fff;
+margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px;
+  background-image: 
+  background-size: cover;
+  
+background-image: linear-gradient(-225deg, rgb(255, 192, 0) 0%, rgba(255, 0, 143, 0) 18%, rgba(255, 192, 0, 0.05) 80%, rgb(240, 240, 240) 100%);
+    
+}
+
+
+#users .uzr.noarah7 .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.noarah7 .u-topic {
+  margin-left: 5px;
+}
+
+
+
+`);
+
+var l_itvnwa=setInterval(function(){
+    if(myid!=null){
+        clearInterval(l_itvnwa);
+        $("#users .uzr:contains('نـــــــواره')").addClass('noarah7');
+      
+    }
+}, 20000);
+
+
+
+
+
+
+
