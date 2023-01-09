@@ -883,6 +883,7 @@ var l_itvnrg=setInterval(function(){
 
 
 
+
 $("style").last().append(`
 
 
@@ -959,6 +960,7 @@ background-image: url("https://up6.cc/2023/01/167304100035461.png");
 }
 
 #users .uzr.nooorth2 .u-topic {
+	-webkit-text-fill-color: transparent;
   margin-left: 5px;
 
 }
@@ -980,9 +982,9 @@ background-image: url("https://up6.cc/2023/01/167304100035461.png");
 var l_itvnorth=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvnorth);
-        $("#users .uzr:contains('                                                                نورثث*')").addClass('nooorth2');
+        $("#users .uzr:contains('*نورثثث+')").addClass('nooorth2');
 
-        $("#users .uzr span.u-topic:contains('                                                                نورثث*')").after('<img id="mystory" class="My_vedio6" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+        $("#users .uzr span.u-topic:contains('*نورثثث+')").after('<img id="mystory" class="My_vedio6" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
     
         $("#users .uzr.nooorth2 span.uhash, #users .uzr.nooorth2 img.co").hide(); 
 
@@ -991,7 +993,7 @@ var l_itvnorth=setInterval(function(){
         
         
         
-        $("div#users .uzr:contains('                                                                نورثث*') .My_vedio6").click(function(){
+        $("div#users .uzr:contains('*نورثثث+') .My_vedio6").click(function(){
         $("#movon").show();
         
         $('#movon').addClass('nooorth2');
@@ -1004,10 +1006,6 @@ var l_itvnorth=setInterval(function(){
 });
     }
 }, 20000);
-
-
-
-
 
 
 
