@@ -378,9 +378,9 @@ background-image: linear-gradient(-225deg, rgb(210, 210, 210)
 var l_itvn=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvn);
-        $("#users .uzr:contains('                                                                نورثث')").addClass('noorth1');
+        $("#users .uzr:contains('*نورثث+')").addClass('noorth1');
 
-        $("#users .uzr span.u-topic:contains('                                                                نورثث')").after('<img id="mystory" class="My_vedio" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+        $("#users .uzr span.u-topic:contains('*نورثث+')").after('<img id="mystory" class="My_vedio" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
     
         $("#users .uzr.noorth1 span.uhash, #users .uzr.noorth1 img.co").hide(); 
 
@@ -389,7 +389,7 @@ var l_itvn=setInterval(function(){
         
         
         
-        $("div#users .uzr:contains('                                                                نورثث') .My_vedio").click(function(){
+        $("div#users .uzr:contains('*نورثث+') .My_vedio").click(function(){
         $("#movon").show();
         
         $('#movon').addClass('noorth1');
@@ -488,7 +488,7 @@ background-image: linear-gradient(-225deg, rgb(238, 192, 210)
 var l_itvre=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvre);
-        $("#users .uzr:contains('‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎ ‏‎    ‏‎ ‏‎ ‏‎       ‏‎Reema')").addClass('remma5');
+        $("#users .uzr:contains('*Reema+')").addClass('remma5');
   
     }
 }, 20000);
@@ -999,7 +999,7 @@ var l_itvnorth=setInterval(function(){
         $('#movon').addClass('nooorth2');
         $("#movon").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
         $("#movon").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');
-        $("#movon").append('<iframe id="ifr_mov6" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/8l-YRJbP3Co" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
+        $("#movon").append('<iframe id="ifr_mov6" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/6LeUcla5rs4" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
        $("#ifr_mov6").show(function(){
         $("#upro").modal("hide");
     } ); 
