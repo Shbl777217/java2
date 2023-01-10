@@ -83,13 +83,7 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
     $("style").last().append(`
 
 
-	#d2.arb2 {
-        background-color: #f5f5f5 !important;
-        background-image: url("https://up6.cc/2023/01/167313166870461.png");
-        background-size: 100%;
-
-    
-    }
+	
     
     
     #users.arb1 .inroom.uzr .fitimg.u-pic {
@@ -286,8 +280,6 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
             } 
         } 
     }, 10);
-  
-
   
 
 
