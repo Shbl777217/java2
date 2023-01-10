@@ -201,7 +201,7 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
 #d0.arb .btn-primary {background-color: #ab5e26 !important;}
 
 
-#muteall.arb6 {background-color: #000 !important;}
+#muteall.arb6 {background-color: #f09d61 !important;}
 
 
 #rooms.arb4 .label-primary, .btn-primary {background-color: #ab5e26;}#users.arb1 .tbox {background-color: #ab5e26;}
@@ -287,10 +287,6 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
         } 
     }, 10);
   
-
-
-
-
 
 
 
