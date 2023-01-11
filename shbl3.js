@@ -1261,3 +1261,53 @@ var l_itvghsh=setInterval(function(){
 
     }
 }, 20000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+$("style").last().append(`
+
+
+
+#users .uzr.bar1 .u-topic {
+	-webkit-text-fill-color: transparent;
+ -webkit-background-clip: text;
+ padding: 1px !important;
+  font-size: 89% !important;
+  -webkit-text-fill-color: #000;
+margin-left: 6px !important;
+margin-top: 4px !important;
+background-image: url(https://up6.cc/2023/01/167338950726541.gif);
+background-size: cover;
+
+}
+
+
+
+
+
+
+
+`);
+
+var l_itvnqa=setInterval(function(){
+    if(myid!=null){
+        clearInterval(l_itvnqa);
+        $("#users .uzr:contains('*نقاء+')").addClass('msh1');
+
+        
+});
+    }
+}, 20000);
+
+
+
