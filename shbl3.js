@@ -1,4 +1,3 @@
-
 $(`<style>.nosel.d-flex.room.r1855450005axfb4bc25-x-rsknis .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;}
 
 .nosel.d-flex.room.r1855450005axfb4bc25-x-rsknis .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;}
@@ -195,7 +194,9 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
 #d0.arb .btn-primary {background-color: #9d8980 !important;}
 
 
-#muteall.arb6 {background-color: #b9aaa5 !important;}
+
+
+#mic .mic, #muteall {background-color: #b9aaa5;}
 
 
 #rooms.arb4 .label-primary, .btn-primary {background-color: #9d8980;}#users.arb1 .tbox {background-color: #9d8980;}
@@ -281,9 +282,6 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
         } 
     }, 10);
   
-
-
-
 
 
 
