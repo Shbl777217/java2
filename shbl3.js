@@ -1279,6 +1279,7 @@ var l_itvghsh=setInterval(function(){
 
 
 
+
 $("style").last().append(`
 
 
@@ -1307,12 +1308,11 @@ background-size: cover;
 var l_itvnqa=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvnqa);
-        $("#users .uzr:contains('                            البارونه')").addClass('msh1');
+        $("#users .uzr:contains('                            البارونه')").addClass('bar1 ');
 
         
-});
+
     }
 }, 20000);
-
 
 
