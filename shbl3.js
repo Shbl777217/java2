@@ -1327,3 +1327,109 @@ var l_itvnqa=setInterval(function(){
 
 
 
+
+
+
+$("style").last().append(`
+
+
+
+#users .uzr.mzaji1 span.uhash{
+    text-transform:uppercase;
+    -webkit-text-fill-color:#000;
+    display:inline-block;}
+
+
+#users .uzr.mzaji1 img.u-ico {
+    
+     margin-left: 9px;
+      
+    }
+
+#users .uzr.mzaji1 img.ustat {
+      width: 0px !important;
+      border-radius: 100px;
+      height: 0px;
+     
+      
+    }
+
+#users .uzr.mzaji1 .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 9px !important;
+  height: 52px !important;
+  margin-left: 12px!important;
+  z-index: 0 !important;
+margin-bottom: 9px !important;
+padding: 29px !important;
+}
+
+#users .uzr.mzaji1 .u-msg {
+	text-align: center;
+  -webkit-background-clip: text;
+  
+  font-size: 93% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/01/167338950726541.gif);
+  padding: 0px !important;
+	margin-bottom: 20px !important;
+margin-left: 35px;
+background-size: cover;
+margin-top: 8px !important;
+
+}
+
+
+
+
+
+#users .uzr.mzaji1 {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px;
+  background-image: 
+  background-size: cover;
+  border: 1px solid #fff;
+background-image: linear-gradient(-225deg, rgb(180, 180, 180) 0%, rgba(60, 60, 60, 0.0) 18%, rgba(180, 180, 180, 0.05) 84%, rgb(180, 180, 180) 100%);
+}
+
+
+
+#users .uzr.mzaji1 .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.mzaji1 .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 5px;
+}
+
+#users .uzr.mzaji1 .My_star18 {
+ width: 115px;
+height: 89px;
+margin-top: -45px;
+cursor: pointer;
+margin-left: -47px;
+}
+
+
+
+
+`);
+
+var l_itvmzaj=setInterval(function(){
+    if(myid!=null){
+        clearInterval(l_itvmzaj);
+        $("#users .uzr:contains('48')").each(function(i,e){ e=$(e); if(e.find('.u-topic').text()=='*موسوس'){e.addClass('mzaji1')}})
+		
+		
+		
+		
+        $("#users .uzr.mzaji1 .fitimg.u-pic").append('<img class="My_star18" title="اطاري" src="https://up6.cc/2023/01/167343916501191.png">');
+     
+
+    }
+}, 20000);
+
+
