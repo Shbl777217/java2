@@ -416,7 +416,7 @@ background-image: linear-gradient(-225deg, rgb(144, 99, 185) 0%, rgba(255, 0, 14
 var l_itvp6=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvp6);
-        $("#users .uzr:contains('                              Pure')").addClass('pure2');
+        $("#users .uzr:contains('                             Pure')").addClass('pure2');
   
     }
 }, 20000);
