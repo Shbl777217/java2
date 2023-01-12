@@ -196,7 +196,7 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
 
 
 
-#mic .mic, #muteall {background-color: #b9aaa5;}
+#mic .mic, #muteall.arb6 {background-color: #b9aaa5;}
 
 
 #rooms.arb4 .label-primary, .btn-primary {background-color: #9d8980;}#users.arb1 .tbox {background-color: #9d8980;}
