@@ -1377,7 +1377,7 @@ background-image: linear-gradient(-225deg, rgb(240, 240, 240) 0%, rgba(255, 0, 1
 var l_itvwaed=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvwaed);
-        $("#users .uzr:contains('₩ǍĔĐ')").addClass('waed');
+        $("#users .uzr:contains('₩ǍĔĐ')").addClass('waed');
   
     }
 }, 20000);
