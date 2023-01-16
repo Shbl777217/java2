@@ -1626,3 +1626,109 @@ var l_itvmsh2=setInterval(function(){
 });
     }
 }, 20000);
+
+
+
+
+
+
+
+
+
+
+
+
+$("style").last().append(`
+
+
+
+#users .uzr.faten span.uhash{
+    text-transform:uppercase;
+    -webkit-text-fill-color:#000;
+    display:inline-block;}
+
+
+#users .uzr.faten img.u-ico {
+    
+     margin-left: 3px;
+      
+    }
+
+#users .uzr.faten img.ustat {
+      width:12px!important;height:12px!important;min-height:0%!important;margin-right:0;z-index:999999;border-radius:50px;border:1px solid #fff0}
+
+#users .uzr.faten .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 6px !important;
+  height: 52px !important;
+  margin-left: -4px!important;
+  z-index: 0 !important;
+margin-bottom: 9px !important;
+padding: 29px !important;
+border:2px solid #a8a8a8;margin-top:2px;border-radius:5px;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #a8a8a8
+}
+
+#users .uzr.faten .u-msg {
+	text-align: center;
+  -webkit-background-clip: text;
+  
+  font-size: 93% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/01/167390162081571.gif);
+  padding: 0px !important;
+	margin-bottom: 20px !important;
+margin-left: 0px;
+background-size: cover;
+margin-top: 8px !important;
+
+}
+
+
+
+
+
+#users .uzr.faten {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px;
+  background-image: 
+  border: 1px solid #fff;
+background-image: url(https://up6.cc/2023/01/167390334382621.gif);
+background-size: 100%;
+}
+
+
+
+#users .uzr.faten .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.faten .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 5px;
+}
+
+
+
+
+
+
+`);
+
+var l_itvtthkr=setInterval(function(){
+    if(myid!=null){
+        clearInterval(l_itvtthkr);
+        $("#users .uzr:contains('86')").each(function(i,e){ e=$(e); if(e.find('.u-topic').text()=='فاتن..'){e.addClass('faten')}})
+		
+		
+		
+		
+        
+     
+
+    }
+}, 20000);
+
+
