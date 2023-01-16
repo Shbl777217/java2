@@ -2214,6 +2214,9 @@ background-color:#000;}
 
 
 
+
+
+
 $(`<style>.nosel.d-flex.room.r185046848c7xcc763e51-x-5bmu3g .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;}
 
 .nosel.d-flex.room.r185046848c7xcc763e51-x-5bmu3g .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;}
@@ -2252,7 +2255,7 @@ $(`<style>.nosel.d-flex.room.r185046848c7xcc763e51-x-5bmu3g .label-primary {back
 
     var rid='185046848c7xcc763e51-x-5bmu3g';
 
- $(`<style>#mic.mos3 .mic {
+ $(`<style>#mic.rmosos .mic {
         border: 2px solid;
         border-image: linear-gradient(var(--angle), #ffffff 0%, #000 29%, #ffffff 67%, #020202 100%) 1;
         animation: 5s rotate linear infinite;
@@ -2287,145 +2290,125 @@ background-size: 220% auto;border-radius: 50px !important;background-color: #000
 }`);
     
     
-    
-    
-    
-    $("style").last().append(`
-    
-
-    #users.mos1 .inroom.uzr .fitimg.u-pic {
-      border-radius: 100px ;
- border: 1px solid #000;
-	
-	box-shadow: 0px 0px 1px 1px #000;
-
-    width: 50px;
    
-   
-    }
-
-    #d2.mos2 .uzr .fitimg.u-pic{
-    border: 2px solid #000 ;
-        
-        --angle: 0deg;
-        border-radius: 100px ;
-        background-color: #e3e3e3;
-       
-       
-    ;}
-    #users.mos1 .uzr .u-msg{
-        -webkit-text-fill-color: #0000;
-        text-transform:uppercase;
-        background-image: url(https://g.top4top.io/p_2484pn5dd1.gif);
-    background-size: 400% 400%;
-    -webkit-background-clip: text;
-    color: transparent !important;}
-
-    #users.mos1 .inroom.uzr span.uhash{
-    text-transform:uppercase;
-    background-image: linear-gradient(270deg, #ffff,  #000);
-    background-size:220% auto;
-    -webkit-background-clip:text;
-    -webkit-text-fill-color:transparent;animation:2s linear infinite textclip;
-    display:inline-block;}
-    
-
-    
-    #d2.mos2 {
-        background-color: #f5f5f5 !important;
-        background-image: url("https://up6.cc/2022/12/167113871116972.gif");
-        background-size: cover;
-    
-    }
 
 
-	
-    #chats.mos5 {
-      background-color: #f5f5f5 !important;
-      background-image: url("https://up6.cc/2022/12/167113871116972.gif");
-      background-size: cover;
-  }
+$("style").last().append(`
+   #upro.rmosos .border{border:2px solid #000;
+border-image-outset:0;
+border-image-repeat:stretch;border-image-slice:100%;
+border-image-source:none;
+border-image-width:1;border-image:linear-gradient(225deg,#000 0%,#000 29%,#e6e6e6 67%,#000 100%) 1!important}
+#upro.rmosos .borderg{border:1px solid #f4f4f4;border-image-outset:0;
+border-image-repeat:stretch;
+border-image-slice:100%;
+border-image-source:none;
+border-image-width:1;border-image:linear-gradient(225deg,#000 0%,#000 29%,#e6e6e6 67%,#000 100%) 1!important}
+#upro.rmosos .modal-header.label-primary{background-color: #000 !important;}
+#upro.rmosos .label-primary {background-color: #000 !important;}
+#upro.rmosos .btn-primary{background-color: #000 !important;}
+#users.rmosos .fitimg.u-pic{border:1px solid #fff;margin-top:2px;
+height:52px!important;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;border-radius:10px 10px 10px 10px }
+#d2.rmosos .uzr .fitimg.u-pic{border-radius:10px 10px 10px 10px;
+height: 52px !important;
+height:52px!important;border:1px solid #fff;
+margin-top:2px;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000}#d0.rmosos{background-color:#202020 !important;}
+#d2.rmosos .uzr.d-flex.mm.hmsg{background-color:#aaaaaa2e!important}
+#d2.rmosos .uzr.d-flex.mm.pmsgc{background-color:#7070702e!important}
+#dpnl.rmosos .light{background-color:#f8f8f8!important;
+background-image:linear-gradient(225deg,#ccc4e3 0#f0edfd 29%,#f4f4f4 67%,#dddbf9 100%);}
+#users.rmosos span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#000 0,#3e3e3e 29%,#a1a1a1 67%,#000 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
+#users.rmosos .mini.u-msg{text-align:center;
+background-image:-webkit-linear-gradient(75deg,rgb(0 0 0 / 53%) 25%,#000 25%,#000 50%,#a1a1a1 50%,#000 75%);background-size:200% auto;-webkit-background-clip:text;-webkit-text-fill-color:#0000}
+#dpnl.rmosos.bg{background-color:#202020 !important; background-color: #000 ; }
+#rooms.rmosos .label-primary{background-color:#000 !important;border-radius:10px 10px 10px 10px!important}#rooms.rmosos .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius:10px 10px 10px 10px!important}
+#users.rmosos img.ustat{width:12px!important;height:12px!important;min-height:0%!important;margin-right:0;z-index:999999;border-radius:50px;border:1px solid #fff0}
+#users.rmosos img.co{transform:rotate(20deg);margin-top:2px!important}
+#users.rmosos .nosel.ninr.fl.uzr.label.bg{border-radius:10px 10px 10px 10px!important;background-color:#000!important;}
+#d0.rmosos .label-primary{border:1px solid #000 !important;background-color:#000 !important;border-radius:10px 10px 10px 10px!important}#settings.rmosos .label-primary{border-radius:10px 10px 10px 10px!important;background-color:#000 !important; background-color: #000 ; }
+#settings.rmosos .btn-primary{background-color:#000 !important; background-color: #000 ;border-image:linear-gradient(225deg,#000 0%,#000 29%,#e6e6e6 67%,#000 100%) 2}
+#users.rmosos .tbox{border-radius:10px 10px 10px 10px!important;background-color:#000!important;}
+#room.rmosos #mic{background-color: #000 !important;}
+#d0.rmosos .nosel.fl .bg{background-color: #000 ;}
+#d0.rmosos .bg-primary{background-color: #000 ;}
+#d2.rmosos .label-primary{background-color: #000 ;}
+#room.rmosos .btn-primary{background-color:#000 !important;border-radius:10px 10px 10px 10px!important;border:1px solid #f8f8f8}
+#d2.rmosos{background-color:#ececec!important}
+#room.rmosos .tablebox.d-flex.footer.fl.light{background-color:#202020;}
+#upro.rmosos .light.fl.pro.break{background-image:linear-gradient(225deg,#202020 0%,#f0f0f0 29%,#f0f0f0 67%,#202020 100%)}
+#wall.rmosos .fitimg.u-pic.borderg{border-radius:10px 10px 10px 10px;
+height:52px!important;
+border:1px solid #fff;margin-top:2px;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000}
+#rooms.rmosos .fitimg.u-pic.borderg{border-radius:10px 10px 10px 10px;
+height:52px!important;
+border:1px solid #fff;
+margin-top:2px;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000}
+.corner.border.label.label-primary.rmosos{border-image:linear-gradient(225deg,#202020 0%,#f0f0f0 29%,#f0f0f0 67%,#202020 100%)}1!important;background-color: #000 ;}
+.modal-header.label-primary.rmosos{border-image:linear-gradient(225deg,#d0d0d0 0%,#d0d0d0 29%,#f2e7e2 67%,#e4e4e4 100%) 1!important;background-color: #000 ;}
 
-    }
-   
-    
-  
+.head.d-flex.nosel.bg.fl.rmosos,.rsave.btn.btn-primary.fr.rmosos,.fa.fa-send.sndpm.fl.btn.btn-primary.rmosos,
+.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.rmosos,
+.fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.rmosos,
+.breply.corner.btn.minix.btn-primary.fa.fa-comments.rmosos,
+.bdel.corner.btn.minix.btn-primary.fa.fa-times.rmosos,
+.fa.fa-send.sndbc.fl.btn.btn-primary.rmosos{border-image:linear-gradient(225deg,#000 0%,#000 29%,#e6e6e6 67%,#000 100%) 1!important;background-color: #000 !important;}
+.btn.btn-primary.u-nickc.fr.fa.fa-save.rmosos{background-color:#f8f8f8!important;background-color: #000;border-radius:10px 10px 10px 10px!important;border:1px solid #bbb}
+.label.fl.label-primary.rmosos{background-color:#f8f8f8!important;background-color: #000 ;;border-radius:10px 10px 10px 10px!important;border:1px solid #bbb}
 
-    #rooms.mos4 {
-        background-image: url("https://up6.cc/2022/12/167113871116972.gif");
-        background-size: cover;
-        background-color: #f5f5f5 !important;} 
+#rooms.rmosos{background-color:#f8f8f8!important;}
 
-		#d2.mos2 .uzr.d-flex.mm.hmsg {
-        background-color: #c3c3c375!important;
-}
+#settings.rmosos{background-color:#f8f8f8!important;background-image:linear-gradient(225deg,#ccc4e3 0#f0edfd 29%,#f4f4f4 67%,#dddbf9 100%)}
 
-	#d2.mos2 .uzr.d-flex.mm.pmsgc {
- 
-        background-color: #c3c3c375!important;
-}
-
-
-
-
-
-
-
-
-#d2bc.mos6.d2.light.d2bc.flex-grow-1.break {
-  background-image: url("https://up6.cc/2022/12/167113871116972.gif");
-  background-size: cover;
-  background-color: #f5f5f5 !important;} 
-
-
-
-
-
-
-
-
-
-`);
-
-
-    
-         
-         
-    var roommostest = false;
-    
+#d2bc.rmosos{background-color:#f8f8f8!important;background-image:linear-gradient(225deg,#ccc4e3 0#f0edfd 29%,#f4f4f4 67%,#dddbf9 100%)}
+`);       
+     
+    var roomrmosostest = false;
     setInterval(function () {
         if (myroom == '185046848c7xcc763e51-x-5bmu3g') {
-            if (roommostest == false) {
-                roommostest = true;
-              $('#users').addClass('mos1');
-                $('#d2').addClass('mos2');
-                $('#mic').addClass('mos3');
-                $('#settings').addClass('mos4');
-                $('#rooms').addClass('mos4');
-                $('#d0').addClass('mos');
-                $('#chats').addClass('mos5');
-                $('#d2bc').addClass('mos6');
-				$('#dpnl').addClass('mos7');
-				$('#dpnl').addClass('mos9');
+            if (roomrmosostest == false) {
+                roomrmosostest = true;
+              $('#users').addClass('rmosos');
+                $('#d2').addClass('rmosos');
+                $('#mic').addClass('rmosos');
+                $('#settings').addClass('rmosos');
+                $('#rooms').addClass('rmosos');
+				$('#room').addClass('rmosos');
+                $('#d0').addClass('rmosos');
+                $('#chats').addClass('rmosos');
+                $('#d2bc').addClass('rmosos');
+				$('#muteall').addClass('rmosos');
+				$('#wall').addClass('rmosos');
+				$('#dpnl').addClass('rmosos');
+				$('#upro').addClass('rmosos');
             }
         } else {
-            if (roommostest == true) {
-                roommostest = false;
-                $("#users").removeClass('mos1');
-                $("#d2").removeClass('mos2');
-                $('#mic').removeClass('mos3');
-                $('#settings').removeClass('mos4');
-                $('#rooms').removeClass('mos4');
-                $('#d0').removeClass('mos');
-                $('#chats').removeClass('mos5');
-                $('#d2bc').removeClass('mos6');
-				$('#dpnl').removeClass('mos7');
-				$('#dpnl').removeClass('mos9');
+            if (roomrmosostest == true) {
+                roomrmosostest = false;
+                $("#users").removeClass('rmosos');
+                $("#d2").removeClass('rmosos');
+                $('#mic').removeClass('rmosos');
+                $('#settings').removeClass('rmosos');
+                $('#rooms').removeClass('rmosos');
+				$('#room').removeClass('rmosos');
+                $('#d0').removeClass('rmosos');
+                $('#chats').removeClass('rmosos');
+                $('#d2bc').removeClass('rmosos');
+				$('#muteall').removeClass('rmosos');
+				$('#wall').removeClass('rmosos');
+				$('#dpnl').removeClass('rmosos');
+				$('#dpnl').removeClass('rmosos');
+				$('#upro').removeClass('rmosos');
             } 
         } 
     }, 10);
+  
 
 
+    
+    
+    
+  
 
 
 
