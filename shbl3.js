@@ -1638,6 +1638,8 @@ var l_itvmsh2=setInterval(function(){
 
 
 
+
+
 $("style").last().append(`
 
 
@@ -1717,9 +1719,9 @@ background-size: 100%;
 
 `);
 
-var l_itvtthkr=setInterval(function(){
+var l_itvfaten=setInterval(function(){
     if(myid!=null){
-        clearInterval(l_itvtthkr);
+        clearInterval(l_itvfaten);
         $("#users .uzr:contains('86')").each(function(i,e){ e=$(e); if(e.find('.u-topic').text()=='فاتن..'){e.addClass('faten')}})
 		
 		
@@ -1730,5 +1732,6 @@ var l_itvtthkr=setInterval(function(){
 
     }
 }, 20000);
+
 
 
