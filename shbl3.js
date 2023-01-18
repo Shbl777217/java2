@@ -763,55 +763,51 @@ var l_itvnwa=setInterval(function(){
 
 
 
+
+
 $("style").last().append(`
 
 
 
-#users .uzr.nrgsi1 .u-topic {
-  -webkit-text-fill-color: transparent;
-	margin-left: 5px;
-
-}
-
+#users .uzr.nrgsi1 span.uhash{
+    text-transform:uppercase;
+    -webkit-text-fill-color:#000;
+    display:inline-block;}
 
 
-#users .uzr.nrgsi1 img.ustat {
-     width: 54px !important;
-  border-radius: 0px 50px 50px 50px !important;
-  height: 52px !important;
-  margin-top: 5px !important;
-  min-height: 0% !important;
-  margin-left: 10px;
-  z-index: 0 !important;
-  display: none;
-     
+#users .uzr.nrgsi1 img.u-ico {
+    
+     margin-left: 3px;
       
     }
 
+#users .uzr.nrgsi1 img.ustat {
+      width:12px!important;height:12px!important;min-height:0%!important;margin-right:0;z-index:999999;border-radius:50px;border:1px solid #fff0}
+
 #users .uzr.nrgsi1 .fitimg.u-pic {
-	padding: 26px !important;
   border-radius: 100px !important;
-  margin-top: 5px !important;
+  margin-top: 6px !important;
   height: 52px !important;
-  margin-left: 12px!important;
+  margin-left: -4px!important;
   z-index: 0 !important;
 margin-bottom: 9px !important;
-border:2px solid #000;margin-top:2px;border-radius:5px;
+padding: 29px !important;
+border:2px solid #fff;margin-top:2px;border-radius:5px;
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #000
 }
 
 #users .uzr.nrgsi1 .u-msg {
-	margin-top:3px !important;
 	text-align: center;
   -webkit-background-clip: text;
-  padding: 1px !important;
-  font-size: 89% !important;
+  
+  font-size: 93% !important;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/01/16732074419351.gif);
+ background-image: url(https://up6.cc/2023/01/167390162081571.gif);
   padding: 0px !important;
-  font-size: 89% !important;
-	margin-bottom: 6px !important;
+	margin-bottom: 20px !important;
+margin-left: 0px;
 background-size: cover;
+margin-top: 8px !important;
 
 }
 
@@ -827,8 +823,7 @@ background-size: cover;
   background-image: 
   background-size: cover;
   border: 1px solid #fff;
-background-image: linear-gradient(-225deg, rgb(0, 0, 0) 0%, rgba(242, 242, 242, 9) 18%, rgba(0, 0, 0, 0.1) 60%, rgb(240, 240, 240) 100%);
-    
+background-image: linear-gradient(-225deg, rgb(180, 180, 180) 0%, rgba(60, 60, 60, 0.0) 18%, rgba(180, 180, 180, 0.05) 84%, rgb(180, 180, 180) 100%);
 }
 
 
@@ -837,7 +832,10 @@ background-image: linear-gradient(-225deg, rgb(0, 0, 0) 0%, rgba(242, 242, 242, 
   padding-right: 0px !important;
 }
 
-
+#users .uzr.nrgsi1 .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 5px;
+}
 
 
 
@@ -849,8 +847,13 @@ background-image: linear-gradient(-225deg, rgb(0, 0, 0) 0%, rgba(242, 242, 242, 
 var l_itvnrg=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvnrg);
-        $("#users .uzr:contains('النـــــــرجــــســـــــــــي')").addClass('nrgsi1');
+        $("#users .uzr:contains('80')").each(function(i,e){ e=$(e); if(e.find('.u-topic').text()=='النـــــــرجــــســـــــــــي'){e.addClass('nrgsi1')}})
+		
+		
+		
+		
         
+     
 
     }
 }, 20000);
