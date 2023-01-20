@@ -1112,7 +1112,7 @@ background-image: linear-gradient(-225deg, rgb(60, 60, 60) 0%, rgba(60, 60, 60, 
 var l_itvghsh=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvghsh);
-        $("#users .uzr:contains('                                           غشيم ')").addClass('ghsh5');
+        $("#users .uzr:contains('*غش+يم')").addClass('ghsh5');
         
 
     }
