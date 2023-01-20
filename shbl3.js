@@ -1778,8 +1778,7 @@ margin-top: 8px !important;
   border-radius: 4px;
   background-image: 
   border: 1px solid #fff;
-background-image: url(https://up6.cc/2023/01/167364519305021.gif);
-background-size: 100%;
+background-image: linear-gradient(-225deg, rgb(202, 202, 202) 0%, rgba(255, 0, 143, 0) 29%, rgba(151, 101, 127, 0.04) 67%, rgb(198, 198, 198) 100%);  
 }
 
 
