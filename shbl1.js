@@ -916,16 +916,17 @@ $(`<style>.nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .label-primary {back
     
     $("style").last().append(`
     
+    #users.h91 .inroom.uzr img.ustat {
+      width:10px!important;height:10px!important;min-height:0%!important;margin-right:2px;z-index:999999;border-radius:4px 0px 4px 3px;border:1px solid #fff0}
     
     #users.h91 .inroom.uzr .fitimg.u-pic {
       border-radius: 10px 0px 0px 10px;
     margin-top: 0px;
-    z-index: 0;
-    margin-left: -51px;
-    min-width: 50px;
-    width: 50px;
-    min-height: 48px;
-    max-height: 50px;
+    
+    
+   
+    width: 54px;
+    
     }
 
     #d2.h92 .uzr .fitimg.u-pic{
@@ -1045,7 +1046,6 @@ $(`<style>.nosel.d-flex.room.r17fc704ec53x2aaba417-x-923hp0 .label-primary {back
         } 
     }, 10);
   
-
   
 
 
