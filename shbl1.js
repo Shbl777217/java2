@@ -2787,11 +2787,11 @@ height:52px!important;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;border
 
 
 
-$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #e9b8ae 0%, #aa6b5e 29%, #e9b8ae 67%, #7c4033 100%);
+$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #e9b8ae 0%, #aa6b5e 29%, #e9b8ae 67%, #71325a 100%);
 
 background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #000 !important;
 }`);
-$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #e9b8ae 0%, #aa6b5e 29%, #e9b8ae 67%, #7c4033 100%);
+$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #e9b8ae 0%, #aa6b5e 29%, #e9b8ae 67%, #71325a 100%);
 background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #000 !important;
 }`);
 
@@ -2872,7 +2872,7 @@ margin-top:2px;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000}#d0.rfatn{bac
 
 #users.rfatn span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#87406d 0,#87406d 29%,#eeeeee 67%,#87406d 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
 #users.rfatn .mini.u-msg{text-align:center;
-background-image:-webkit-linear-gradient(75deg,rgb(0 0 0 / 53%) 25%,#7c4033 25%,#7c4033 50%,#a1a1a1 50%,#87406d 75%);background-size:200% auto;-webkit-background-clip:text;-webkit-text-fill-color:#0000}
+background-image:-webkit-linear-gradient(75deg,rgb(0 0 0 / 53%) 25%,#71325a 25%,#71325a 50%,#a1a1a1 50%,#87406d 75%);background-size:200% auto;-webkit-background-clip:text;-webkit-text-fill-color:#0000}
 #dpnl.rfatn.bg{background-color:#87406d !important; background-color: #71325a ; }
 #rooms.rfatn .label-primary{background-color:#71325a !important;border-radius:10px 10px 10px 10px!important}#rooms.rfatn .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius:10px 10px 10px 10px!important}
 #users.rfatn img.ustat{width:10px!important;height:10px!important;min-height:0%!important;margin-right:2px;z-index:999999;border-radius:3px 3px 3px 3px;border:1px solid #fff0}
