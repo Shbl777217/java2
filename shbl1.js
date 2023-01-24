@@ -2256,7 +2256,7 @@ $(`<style>.nosel.d-flex.room.r185c95298cex89d6c174x-8v80ue .label-primary {backg
     color: transparent !important;
 	font-size: 16px !important;
     }
-    .nosel.d-flex.room.r185c95298cex89d6c174x-8v80ue .fitimg.u-pic.borderg{border-radius: 0px 15px 0px 15px ;border: 2px solid #000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
+    .nosel.d-flex.room.r185c95298cex89d6c174x-8v80ue .fitimg.u-pic.borderg{border-radius: 0px 15px 0px 15px ;border: 2px solid #ffffff;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 	margin-bottom: 15% !important;
 	margin-right: 5% !important;}
     .nosel.d-flex.room.r185c95298cex89d6c174x-8v80ue .u-topic.dots {
@@ -2380,6 +2380,9 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #2f2f2f}
 
 #settings.kbkik{background-color:#f8f8f8!important;background-image:linear-gradient(225deg,#ccc4e3 0#f0edfd 29%,#f4f4f4 67%,#dddbf9 100%)}
 
+#usearch.kbkik{-webkit-text-fill-color: #fff;}
+
+
 #d2bc.kbkik{background-color:#f8f8f8!important;background-image:linear-gradient(225deg,#ccc4e3 0#f0edfd 29%,#f4f4f4 67%,#dddbf9 100%)}
 `);       
      
@@ -2389,6 +2392,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #2f2f2f}
             if (roomkbkiktest == false) {
                 roomkbkiktest = true;
               $('#users').addClass('kbkik');
+				$('#usearch').addClass('kbkik');
                 $('#d2').addClass('kbkik');
                 $('#mic').addClass('kbkik');
                 $('#settings').addClass('kbkik');
@@ -2406,6 +2410,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #2f2f2f}
             if (roomkbkiktest == true) {
                 roomkbkiktest = false;
                 $("#users").removeClass('kbkik');
+				$("#usearch").removeClass('kbkik');
                 $("#d2").removeClass('kbkik');
                 $('#mic').removeClass('kbkik');
                 $('#settings').removeClass('kbkik');
@@ -2423,6 +2428,9 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #2f2f2f}
         } 
     }, 10);
   
+
+
+
 
 
 
