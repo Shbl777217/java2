@@ -10,7 +10,7 @@ $(`<style>.nosel.d-flex.room.r182cc191b39xc62707b4xgmpmaq .label-primary {backgr
     .nosel.d-flex.room.r182cc191b39xc62707b4xgmpmaq {
     border-radius: 0px 15px 15px 15px;
     display: inline-block;
-    background-image: url(https://up6.cc/2023/01/167458708850991.gif);
+    background-image: url(https://up6.cc/2023/01/167468195429811.gif);
 	background-size: 100%;
 	padding: 5px !important;
     }
