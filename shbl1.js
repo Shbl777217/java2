@@ -1,6 +1,9 @@
 
 
 
+
+
+
 $(`<style>.nosel.d-flex.room.r184063f9732x1ab50197x-clp7k5 .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #fff;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
 margin-top: 12% !important;}
 
@@ -12,7 +15,7 @@ margin-top: 12% !important;}
     .nosel.d-flex.room.r184063f9732x1ab50197x-clp7k5 {
     border-radius: 0px 15px 15px 15px;
     display: inline-block;
-    background-image: url(https://up6.cc/2023/01/167502292144961.gif);
+    background-image: url(https://up6.cc/2023/01/167511662600651.gif);
 	background-size: 100%;
 	padding: 5px !important;
     }
@@ -92,12 +95,12 @@ margin-top: 12% !important;}
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2022/12/167139869493631.gif);
 	background-size: 100%;
 
-background-size: 220% auto;border-radius: 50px !important;background-image: url(https://up6.cc/2023/01/16749043389691.png);
+background-size: 220% auto;border-radius: 50px !important;background-image: url(https://up6.cc/2023/01/16751163202641.gif);
 	background-size: 100%;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2022/12/167139869493631.gif);
 	background-size: 100%;
-background-size: 220% auto;border-radius: 50px !important;background-image: url(https://up6.cc/2023/01/16749043389691.png);
+background-size: 220% auto;border-radius: 50px !important;background-image: url(https://up6.cc/2023/01/16751163202641.gif);
 	background-size: 100%;
 }`);
     
@@ -116,11 +119,11 @@ border-image-repeat:stretch;
 border-image-slice:100%;
 border-image-source:none;
 border-image-width:1;border-image:linear-gradient(225deg,#000 0%,#000 29%,#e6e6e6 67%,#000 100%) 1!important}
-#upro.rsauud .modal-header.label-primary{background-image: url(https://up6.cc/2023/01/16749043389691.png);
+#upro.rsauud .modal-header.label-primary{background-image: url(https://up6.cc/2023/01/16751163202641.gif);
 	background-size: 100%;}
-#upro.rsauud .label-primary {background-image: url(https://up6.cc/2023/01/16749043389691.png);
+#upro.rsauud .label-primary {background-image: url(https://up6.cc/2023/01/16751163202641.gif);
 	background-size: 100%;}
-#upro.rsauud .btn-primary{background-image: url(https://up6.cc/2023/01/16749043389691.png);
+#upro.rsauud .btn-primary{background-image: url(https://up6.cc/2023/01/16751163202641.gif);
 	background-size: 100%;}
 #users.rsauud .fitimg.u-pic{border:1px solid #fff;margin-top:2px;
 height:52px!important;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;border-radius:10px 10px 10px 10px }
@@ -139,24 +142,27 @@ background-image:linear-gradient(225deg,#ccc4e3 0#f0edfd 29%,#f4f4f4 67%,#dddbf9
 background-image: url(https://up6.cc/2023/01/167503025569111.gif);
 	background-size: 100%;
 }
-#dpnl.rsauud.bg{background-color:#202020 !important; background-color: #000 ; }
-#rooms.rsauud .label-primary{background-image: url(https://up6.cc/2023/01/16749043389691.png);
+#dpnl.rsauud.bg{background-image: url(https://up6.cc/2023/01/16751163202641.gif);
+	background-size: 100%; }
+#rooms.rsauud .label-primary{background-image: url(https://up6.cc/2023/01/16751163202641.gif);
 	background-size: 100%;border-radius:10px 10px 10px 10px!important}#rooms.rsauud .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius:10px 10px 10px 10px!important}
 #users.rsauud img.ustat{width:12px!important;height:12px!important;min-height:0%!important;margin-right:0;z-index:999999;border-radius:50px;border:1px solid #fff0}
 #users.rsauud img.co{transform:rotate(20deg);margin-top:2px!important}
-#users.rsauud .nosel.ninr.fl.uzr.label.bg{border-radius:10px 10px 10px 10px!important;background-color:#000!important;}
-#d0.rsauud .label-primary{border:1px solid #000 !important;background-image: url(https://up6.cc/2023/01/16749043389691.png);
-	background-size: 100%;border-radius:10px 10px 10px 10px!important}#settings.rsauud .label-primary{border-radius:10px 10px 10px 10px!important;background-image: url(https://up6.cc/2023/01/16749043389691.png);
+#users.rsauud .nosel.ninr.fl.uzr.label.bg{border-radius:10px 10px 10px 10px!important;background-image: url(https://up6.cc/2023/01/16751163202641.gif);
+	background-size: 100%;}
+#d0.rsauud .label-primary{border:1px solid #000 !important;background-image: url(https://up6.cc/2023/01/16751163202641.gif);
+	background-size: 100%;border-radius:10px 10px 10px 10px!important}#settings.rsauud .label-primary{border-radius:10px 10px 10px 10px!important;background-image: url(https://up6.cc/2023/01/16751163202641.gif);
 	background-size: 100%; background-color: #000 ; }
-#settings.rsauud .btn-primary{background-image: url(https://up6.cc/2023/01/16749043389691.png);
+#settings.rsauud .btn-primary{background-image: url(https://up6.cc/2023/01/16751163202641.gif);
 	background-size: 100%; background-color: #000 ;border-image:linear-gradient(225deg,#000 0%,#000 29%,#e6e6e6 67%,#000 100%) 2}
-#users.rsauud .tbox{border-radius:10px 10px 10px 10px!important;background-color:#000!important;}
-#room.rsauud #mic{background-image: url(https://up6.cc/2023/01/16749043389691.png);
+#users.rsauud .tbox{border-radius:10px 10px 10px 10px!important;background-color:#202020!important;
+-webkit-text-fill-color: #fff;}
+#room.rsauud #mic{background-image: url(https://up6.cc/2023/01/16751163202641.gif);
 	background-size: 100%;}
 #d0.rsauud .nosel.fl .bg{background-color: #000 ;}
 #d0.rsauud .bg-primary{background-color: #000 ;}
 #d2.rsauud .label-primary{background-color: #000 ;}
-#room.rsauud .btn-primary{background-image: url(https://up6.cc/2023/01/16749043389691.png);
+#room.rsauud .btn-primary{background-image: url(https://up6.cc/2023/01/16751163202641.gif);
 	background-size: 100%;border-radius:10px 10px 10px 10px!important;border:1px solid #f8f8f8}
 #d2.rsauud{background-color:#ececec!important}
 #room.rsauud .tablebox.d-flex.footer.fl.light{background-color:#202020;}
@@ -178,7 +184,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000}
 .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.rsauud,
 .breply.corner.btn.minix.btn-primary.fa.fa-comments.rsauud,
 .bdel.corner.btn.minix.btn-primary.fa.fa-times.rsauud,
-.fa.fa-send.sndbc.fl.btn.btn-primary.rsauud{border-image:linear-gradient(225deg,#000 0%,#000 29%,#e6e6e6 67%,#000 100%) 1!important;background-image: url(https://up6.cc/2023/01/16749043389691.png);
+.fa.fa-send.sndbc.fl.btn.btn-primary.rsauud{border-image:linear-gradient(225deg,#000 0%,#000 29%,#e6e6e6 67%,#000 100%) 1!important;background-image: url(https://up6.cc/2023/01/16751163202641.gif);
 	background-size: 100%;}
 .btn.btn-primary.u-nickc.fr.fa.fa-save.rsauud{background-color:#f8f8f8!important;background-color: #000;border-radius:10px 10px 10px 10px!important;border:1px solid #bbb}
 .label.fl.label-primary.rsauud{background-color:#f8f8f8!important;background-color: #000 ;;border-radius:10px 10px 10px 10px!important;border:1px solid #bbb}
