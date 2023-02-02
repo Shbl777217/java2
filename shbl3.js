@@ -1515,50 +1515,62 @@ var l_itvmzaj=setInterval(function(){
 
 
 
-
 $("style").last().append(`
 
+#users .uzr.siggm img.co {
+  transform: rotate(90deg);
+  margin-top: -60px !important;
+  margin-right: 340px;
+}
+
+#users .uzr.siggm span.uhash{
+    margin-right: 350px;
+  margin-top: 24px;
+  margin-left: 0px;}
 
 
+#users .uzr.siggm img.u-ico {
+    
+     
 
+      
+    }
 
-
-
-#users .uzr.sig8 img.ustat {
+#users .uzr.siggm img.ustat {
       width: 54px !important;
   border-radius: 0px 50px 50px 50px !important;
   height: 52px !important;
   margin-top: 5px !important;
   min-height: 0% !important;
-  margin-left: 10px;
+  margin-left: 14px;
   z-index: 0 !important;
   display: none;
       
     }
 
-#users .uzr.sig8 .fitimg.u-pic {
-	padding: 1px !important;
+#users .uzr.siggm .fitimg.u-pic {
   border-radius: 100px !important;
-  margin-top: 5px !important;
+  margin-top: 23px !important;
   height: 52px !important;
-  margin-left: 12px!important;
+  margin-left: 25px!important;
   z-index: 0 !important;
 margin-bottom: 9px !important;
-border:1px solid #fff;margin-top:2px;border-radius:5px;
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #ffc000
+padding: 30px !important;
 }
 
-#users .uzr.sig8 .u-msg {
+#users .uzr.siggm .u-msg {
 	text-align: center;
   -webkit-background-clip: text;
-  padding: 1px !important;
+  
   font-size: 89% !important;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/01/167260977253491.gif);
+ background-image: url(https://up6.cc/2023/01/167502776201271.gif);
   padding: 0px !important;
-  font-size: 89% !important;
-	margin-bottom: 6px !important;
+	margin-bottom: 25px !important;
+margin-left: 18px;
+margin-right: 50px;
 background-size: cover;
+margin-top: 17px !important;
 
 }
 
@@ -1566,51 +1578,64 @@ background-size: cover;
 
 
 
-#users .uzr.sig8 {
+#users .uzr.siggm {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border-radius: 4px;
-  background-image: 
-  background-size: cover;
+   
+  
   border: 1px solid #fff;
-background-image: linear-gradient(-200deg, rgb(255, 192, 0) 0%, rgba(255, 255, 0, 0.01) 10%, rgba(255, 255, 0, 0.01) 89%, rgb(255, 192, 0) 100%);
+ background-image: url(https://up6.cc/2023/01/167502964532871.png);
+background-size: 100%;
     
 }
 
 
 
-#users .uzr.sig8 .d-flex.fl {
+#users .uzr.siggm .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzr.sig8 .u-topic {
+#users .uzr.siggm .u-topic {
+-webkit-text-fill-color: transparent;
   margin-left: 5px;
 }
 
-#users .uzr.sig8 .My_itar49 {
- width: 53px;
-height: 37px;
-margin-top: 23px;
+#users .uzr.siggm .itarr_siggma {
+ width: 132px;
+height: 89px;
+margin-top: -53px;
 cursor: pointer;
-margin-left: -3px;
+margin-left: -65px;
 }
+
 
 
 
 
 `);
 
-var l_itvsig=setInterval(function(){
+var l_itvsiggm=setInterval(function(){
     if(myid!=null){
-        clearInterval(l_itvsig);
-       $("#users .uzr:contains('94')").each(function(i,e){ e=$(e); if(e.find('.u-topic').text()=='*S+igma'){e.addClass('sig8')}})
-        $("#users .uzr.sig8 .fitimg.u-pic").append('<img class="My_itar49" title="اسد" src="https://up6.cc/2023/01/167252637762911.gif">');
-     
+        clearInterval(l_itvsiggm);
+       $("#users .uzr:contains('si+gma')").addClass('siggm');
+		
+		
+		
+		
+        $("#users .uzr.siggm .fitimg.u-pic").append('<img class="itarr_siggma" title="اطاري" src="https://up6.cc/2023/01/167502705207422.png">');
+		
+		
+		
 
     }
 }, 20000);
 
+
+
+     
+		
 
 
 
