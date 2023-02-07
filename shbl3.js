@@ -1,16 +1,18 @@
 
 
 
-$(`<style>.nosel.d-flex.room.r185bfec6f7exc0240a24-x-u4pere .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;}
+$(`<style>.nosel.d-flex.room.r185bfec6f7exc0240a24-x-u4pere .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
+margin-top: 20px!important;}
 
-.nosel.d-flex.room.r185bfec6f7exc0240a24-x-u4pere .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;}
+.nosel.d-flex.room.r185bfec6f7exc0240a24-x-u4pere .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;
+margin-top: 20px!important;}
 
 
     .nosel.d-flex.room.r185bfec6f7exc0240a24-x-u4pere.bord {border-inline: 4px solid #484848 !important;}
     .nosel.d-flex.room.r185bfec6f7exc0240a24-x-u4pere {
     border-radius: 0px 15px 15px 15px;
     display: inline-block;
-    background-image: url(https://up6.cc/2023/01/167416717210541.gif);
+    background-image: url(https://up6.cc/2023/02/167579628097191.gif);
 	background-size: 100%;
 	padding: 5px !important;
     }
@@ -19,9 +21,13 @@ $(`<style>.nosel.d-flex.room.r185bfec6f7exc0240a24-x-u4pere .label-primary {back
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 1s linear infinite;display: inline-block;
     }
-    .nosel.d-flex.room.r185bfec6f7exc0240a24-x-u4pere .fitimg.u-pic.borderg{border-radius: 0px 0px 10px 10px ;border: 2px solid #000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
-	margin-bottom: 18% !important;
-	margin-right: 0% !important;}
+    .nosel.d-flex.room.r185bfec6f7exc0240a24-x-u4pere .fitimg.u-pic.borderg{border-radius: 100px  ;
+	border: 2px solid #000;
+	letter-spacing: 1px;
+	
+	-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
+	margin-bottom: 15% !important;
+	margin-left: 200% !important;}
     .nosel.d-flex.room.r185bfec6f7exc0240a24-x-u4pere .u-topic.dots {
     text-transform: uppercase;
     -webkit-text-fill-color: transparent;
@@ -111,7 +117,12 @@ margin-top:2px;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #5b5b5b}#d0.rhank{
 background-image:linear-gradient(225deg,#ccc4e3 0#f0edfd 29%,#f4f4f4 67%,#dddbf9 100%);}
 #users.rhank span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#5b5b5b 0,#3e3e3e 29%,#a1a1a1 67%,#5b5b5b 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
 #users.rhank .mini.u-msg{text-align:center;
-background-image:-webkit-linear-gradient(75deg,rgb(0 0 0 / 53%) 25%,#5b5b5b 25%,#5b5b5b 50%,#a1a1a1 50%,#5b5b5b 75%);background-size:200% auto;-webkit-background-clip:text;-webkit-text-fill-color:#0000}
+-webkit-text-fill-color: #0000;
+        text-transform:uppercase;
+        background-image: url(https://up6.cc/2022/11/16696417005831.gif);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    color: transparent !important;}
 #dpnl.rhank.bg{background-color:#797979 !important; background-color: #5b5b5b ; }
 #rooms.rhank .label-primary{background-color:#5b5b5b !important;border-radius:0px 0px 10px 10px!important}#rooms.rhank .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius:0px 0px 10px 10px!important}
 #users.rhank img.ustat{width:12px!important;height:12px!important;min-height:0%!important;margin-right:0;z-index:999999;border-radius:0px 0px 10px 10px;border:1px solid #fff0}
