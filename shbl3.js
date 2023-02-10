@@ -1,4 +1,5 @@
 
+
 $("style").last().append(`
 
 #users .uzr.izz img.co {
@@ -47,14 +48,14 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #009b29
 }
 
 #users .uzr.izz .u-msg {
-	
+		text-align: center;
   -webkit-background-clip: text;
   
   font-size: 89% !important;
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/02/167588569341981.gif);
   padding: 0px !important;
-	margin-bottom: 50px !important;
+	margin-bottom: 35px !important;
 margin-left: 3px;
 background-size: cover;
 margin-top: 11px !important;
@@ -118,7 +119,6 @@ var l_itvtthkr=setInterval(function(){
 
     }
 }, 20000);
-
 
 
 
