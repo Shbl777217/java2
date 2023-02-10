@@ -107,7 +107,7 @@ margin-bottom: 33px !important;
 
 `);
 
-var l_l_itviizz=setInterval(function(){
+var l_itviizz=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itviizz);
         $("#users .uzr:contains('37')").each(function(i,e){ e=$(e); if(e.find('.u-topic').text()=='3z'){e.addClass('izz')}})
