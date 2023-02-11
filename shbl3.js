@@ -1,3 +1,88 @@
+$(`<style>.nosel.d-flex.room.r18642d182a0xa3e86d27-xt4lmaj .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: transparent!important; padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
+margin-left: 170px !important;
+margin-top: 40px !important;
+}
+
+.nosel.d-flex.room.r18642d182a0xa3e86d27-xt4lmaj .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: transparent!important;padding: 0px !important;border-radius: 50px !important;background-color: transparent;
+margin-left: 170px !important;
+margin-top: 40px !important;
+}
+
+
+    .nosel.d-flex.room.r18642d182a0xa3e86d27-xt4lmaj.bord {border-inline: 4px solid #484848 !important;}
+    .nosel.d-flex.room.r18642d182a0xa3e86d27-xt4lmaj {
+    border-radius: 0px 15px 15px 15px;
+    display: inline-block;
+    background-image: url(https://up6.cc/2023/02/167615853709711.gif);
+	background-size: 100%;
+	padding: 5px !important;
+	
+border-radius: 0px 20px 20px 20px !important;
+        
+        
+	
+    }
+
+
+
+.nosel.d-flex.room.r18642d182a0xa3e86d27-xt4lmaj img.fl {
+ 
+        
+        margin-left: 500px !important;
+	
+    }
+
+
+
+
+    .nosel.d-flex.room.r18642d182a0xa3e86d27-xt4lmaj .dots.mini.u-msg {
+	margin-bottom: 50px !important;
+margin-top: 30px !important;
+	text-align: right!important;
+	margin-left: 90px !important;
+    font-size: 14px !important;
+    -webkit-text-fill-color: #transparent;
+    
+    }
+    .nosel.d-flex.room.r18642d182a0xa3e86d27-xt4lmaj .fitimg.u-pic.borderg{;background-size: 0% 0%;-webkit-text-fill-color: white;
+	
+	height: 0px !important;
+	width : 0px !important;
+	padding: 5px !important;
+	background-color: #transparent !important;
+	background-color: transparent !important;
+	border: 2px solid transparent !important;
+	}
+    .nosel.d-flex.room.r18642d182a0xa3e86d27-xt4lmaj .u-topic.dots {
+    text-transform: uppercase;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+    font-size: 20px !important;
+    font-style: normal;
+    font-family: sans-serif;
+	
+    color: transparent !important;
+    background-size: 100% 100%;
+	margin-top: -11% !important;
+   }
+    @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 $("style").last().append(`
 
