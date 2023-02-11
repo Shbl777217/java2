@@ -1698,9 +1698,9 @@ background-image: linear-gradient(-225deg, rgb(202, 202, 202) 0%, rgba(255, 0, 1
 var l_itvmsh3=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvmsh3);
-        $("#users .uzr:contains('*Msh.')").addClass('msh3');
+        $("#users .uzr:contains('*𝐌𝐬𝐡.')").addClass('msh3');
 
-        $("#users .uzr span.u-topic:contains('*Msh.')").after('<img id="mystory" class="My_vedio9" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+        $("#users .uzr span.u-topic:contains('*𝐌𝐬𝐡.')").after('<img id="mystory" class="My_vedio9" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
     
         $("#users .uzr.msh3 span.uhash, #users .uzr.msh3 img.co").hide(); 
 
@@ -1709,7 +1709,7 @@ var l_itvmsh3=setInterval(function(){
         
         
         
-        $("div#users .uzr:contains('*Msh.') .My_vedio9").click(function(){
+        $("div#users .uzr:contains('*𝐌𝐬𝐡.') .My_vedio9").click(function(){
         $("#movon").show();
         
         $('#movon').addClass('msh3');
