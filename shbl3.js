@@ -1,5 +1,4 @@
 
-
 $("style").last().append(`
 
 #users .uzr.izz img.co {
@@ -93,11 +92,7 @@ background-size: 100%;
     
     
     
-    background-image: url(https://up6.cc/2023/02/167588534129411.gif);
-    -webkit-background-clip: text;
-    color: transparent !important;
-    background-size: cover;
-margin-bottom: 33px !important;
+   
 }
 
 
@@ -106,6 +101,7 @@ margin-bottom: 33px !important;
 
 
 `);
+
 
 var l_itviizz=setInterval(function(){
     if(myid!=null){
@@ -119,9 +115,6 @@ var l_itviizz=setInterval(function(){
 
     }
 }, 20000);
-
-
-
 
 
 
