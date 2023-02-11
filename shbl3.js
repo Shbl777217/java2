@@ -1637,7 +1637,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #d8d8d8
  background-image: url(https://up6.cc/2022/12/167183568860261.gif);
   padding: 0px !important;
 	margin-bottom: 6px !important;
-margin-left: 10px;
+margin-left: 4px;
 background-size: cover;
 margin-top: 8px !important;
 }
