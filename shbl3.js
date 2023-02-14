@@ -1164,7 +1164,7 @@ background-image: linear-gradient(-225deg, rgb(180, 180, 180) 0%, rgba(60, 60, 6
 }
 
 #users .uzr.nrgsi1 .u-topic {
--webkit-text-fill-color: transparent;
+
   margin-left: 5px;
 }
 
