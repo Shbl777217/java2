@@ -1368,64 +1368,6 @@ var l_itvnorth=setInterval(function(){
 
 
 
-
-
-
-
-
-$("style").last().append(`
-
-
-
-#users .uzr.bar1 .u-topic {
-
-
-
-
-text-transform: uppercase;
-    -webkit-text-fill-color: transparent;
-    display: inline-block;
-    font-size: 15px !important;
-    font-style: normal;
-    font-family: sans-serif;
-    background-image: url(https://up6.cc/2023/01/16734498849811.gif);
-    -webkit-background-clip: text;
-    color: transparent !important;
-    background-size: cover;
-
-	
-  
-
-
-}
-
-
-
-
-
-
-
-`);
-
-var l_itvnqa=setInterval(function(){
-    if(myid!=null){
-        clearInterval(l_itvnqa);
-        $("#users .uzr:contains('                            البارونه')").addClass('bar1');
-
-        
-
-    }
-}, 20000);
-
-
-
-
-
-
-
-
-
-
 $("style").last().append(`
 
 
