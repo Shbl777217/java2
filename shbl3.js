@@ -2046,3 +2046,125 @@ var l_itvwaed=setInterval(function(){
 }, 20000);
 
 
+
+
+
+
+
+
+
+
+
+
+
+$("style").last().append(`
+
+
+
+#users .uzr.mazn span.uhash{
+    text-transform:uppercase;
+    -webkit-text-fill-color:#000;
+    display:inline-block;}
+
+
+#users .uzr.mazn img.u-ico {
+    
+     margin-left: 9px;
+      
+    }
+
+#users .uzr.mazn img.ustat {
+      width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 10px;
+  z-index: 0 !important;
+  display: none;
+      
+    }
+
+#users .uzr.mazn .fitimg.u-pic {
+  border-radius: 2px !important;
+  margin-top: 10px !important;
+  height: 52px !important;
+  margin-left: 12px!important;
+  z-index: 0 !important;
+margin-bottom: 9px !important;
+padding: 29px !important;
+}
+
+#users .uzr.mazn .u-msg {
+	text-align: center;
+  -webkit-background-clip: text;
+  
+  font-size: 93% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/01/167459183804791.gif);
+  padding: 0px !important;
+	margin-bottom: 20px !important;
+margin-left: 25px;
+background-size: cover;
+margin-top: 10px !important;
+
+}
+
+
+
+
+
+#users .uzr.mazn {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px;
+  background-image: 
+  background-size: cover;
+  border: 1px solid #fff;
+
+}
+
+
+
+#users .uzr.mazn .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.mazn .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 5px;
+}
+
+#users .uzr.mazn .itar_mazn1 {
+ width: 95px;
+height: 75px;
+margin-top: -40px;
+cursor: pointer;
+margin-left: -34px;
+}
+
+
+
+
+`);
+
+
+
+const _mazzn56zznz4 = [
+    {name: "mazn1", deco: "م̀́ـ،ـازن", cls: "mazn", icon: "https://up6.cc/2023/01/16735679998291.gif"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _mazzn56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itar_'+item.name+'" title="اطااري" src="'+item.icon+'">');
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
