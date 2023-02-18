@@ -1687,15 +1687,14 @@ var l_itvsiggm=setInterval(function(){
 
 
 
-		
 
 $("style").last().append(`
 
 
-#users .uzr.msh3 img.ustat {
+#users .uzr.msh4 img.ustat {
       width:10px!important;height:10px!important;min-height:0%!important;margin-right:2px;z-index:999999;border-radius:3px 3px 3px 3px;border:1px solid #fff0}
 
-#users .uzr.msh3 .fitimg.u-pic {
+#users .uzr.msh4 .fitimg.u-pic {
 	border-radius: 5px !important;
 margin-left: 2px;
   height: 52px !important;
@@ -1713,7 +1712,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #d8d8d8
 
 
 
-#users .uzr.msh3 .u-msg {
+#users .uzr.msh4 .u-msg {
 	
   -webkit-background-clip: text;
   
@@ -1727,20 +1726,20 @@ background-size: cover;
 margin-top: 8px !important;
 }
 
-#users .uzr.msh3 span.uhash {
+#users .uzr.msh4 span.uhash {
   margin-right: 324px;
   margin-top: 24px;
   margin-left: 0px;
 }
 
-#users .uzr.msh3 img.co {
+#users .uzr.msh4 img.co {
   transform: rotate(90deg);
   margin-top: -60px !important;
   margin-right: 282px;
 }
 
 
-#users .uzr.msh3 {
+#users .uzr.msh4 {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
@@ -1751,16 +1750,16 @@ background-image: linear-gradient(-225deg, rgb(202, 202, 202) 0%, rgba(255, 0, 1
 }
 
 
-#users .uzr.msh3 .c-flex.fr {
+#users .uzr.msh4 .c-flex.fr {
   margin-left: -4px!important;
   float: left;
 }
 
-#users .uzr.msh3 .d-flex.fl {
+#users .uzr.msh4 .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzr.msh3 .u-topic {
+#users .uzr.msh4 .u-topic {
 	-webkit-text-fill-color: transparent;
   margin-left: 5px;
 
@@ -1770,7 +1769,7 @@ background-image: linear-gradient(-225deg, rgb(202, 202, 202) 0%, rgba(255, 0, 1
 
 
 
-#users .uzr.msh3 .My_vedio9 {
+#users .uzr.msh4 .My_vediomsh {
   float: right;
   width: 20px;
   margin-top: 1px;
@@ -1780,33 +1779,46 @@ background-image: linear-gradient(-225deg, rgb(202, 202, 202) 0%, rgba(255, 0, 1
 
 `);
 
-var l_itvmsh3=setInterval(function(){
-    if(myid!=null){
-        clearInterval(l_itvmsh3);
-        $("#users .uzr:contains('*𝐌𝐬𝐡.')").addClass('msh3');
+const _mshv56zznz4 = [
+    { deco: "*𝐌𝐬𝐡.", cls: "msh4"}
+];
 
-        $("#users .uzr span.u-topic:contains('*𝐌𝐬𝐡.')").after('<img id="mystory" class="My_vedio9" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
-    
-        $("#users .uzr.msh3 span.uhash, #users .uzr.msh3 img.co").hide(); 
+setInterval(() => {
+    if(myid != null){
+        _mshv56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+				$("#users .uzr span.u-topic:contains('*𝐌𝐬𝐡.')").after('<img id="mystory" class="My_vediomsh" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+				
+        $("#users .uzr.msh4 span.uhash, #users .uzr.msh4 img.co").hide(); 
 
 
         $("#upro").before('<div id="movon" onclick="$(this).hide().html(``);" class="moveon" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
         
         
         
-        $("div#users .uzr:contains('*𝐌𝐬𝐡.') .My_vedio9").click(function(){
+        $("div#users .uzr:contains('*𝐌𝐬𝐡.') .My_vediomsh").click(function(){
         $("#movon").show();
         
-        $('#movon').addClass('msh3');
+        $('#movon').addClass('msh4');
         $("#movon").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
         $("#movon").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');
-        $("#movon").append('<iframe id="ifr_mov9" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/SEez7Yu2ah8" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
-       $("#ifr_mov9").show(function(){
+        $("#movon").append('<iframe id="ifr_movmsh" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/SEez7Yu2ah8" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
+       $("#ifr_movmsh").show(function(){
         $("#upro").modal("hide");
-    } ); 
+                
+       } ); 
 });
-    }
-}, 20000);
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+		
 
 
 
