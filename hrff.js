@@ -2,7 +2,7 @@ setv('refr',location.hostname);
 if(location.protocol!='https:'){location.protocol='https:';}
 
 
-$(`<img src="https://up6.cc/2023/02/167612819609861.gif" class="" style="width:100%;margin-top: 0px;" >
+$(`<img src="https://up6.cc/2023/02/167675146141011.gif" class="" style="width:100%;margin-top: 0px;" >
 
 
 
@@ -685,9 +685,7 @@ label.label.label-primary.mini.fl {
 
 
 
-$(`<div><marquee direction="right" width="100%" id="des0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4"> تحيات صاحب الموقع حرف <class="des2"></marquee></div>`).insertBefore('.lonline.light.break');
-
-
+$(`<div><marquee direction="right" width="100%" id="des0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4"> مع تحيات صاحب الموقع فلاوي <class="des2"></marquee></div>`).insertBefore('.lonline.light.break');
 
 
 
