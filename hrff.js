@@ -685,7 +685,7 @@ label.label.label-primary.mini.fl {
 
 
 
-$(`<div><marquee direction="right" width="100%" id="des0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4"> مع تحيات صاحب الموقع فلاوي <class="des2"></marquee></div>`).insertBefore('.lonline.light.break');
+$(`<div><marquee direction="right" width="100%" id="des0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4">  تحيات صاحب الموقع فلاوي <class="des2"></marquee></div>`).insertBefore('.lonline.light.break');
 
 
 
