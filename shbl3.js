@@ -110,7 +110,7 @@ margin-left: -45px;
 `);
 
 const _rsk56zznz4 = [
-    {name: "risk1", deco: "risk*", cls: "risk", icon: "https://up6.cc/2023/02/167675615002251.png"}
+    {name: "risk1", deco: "| Risk ", cls: "risk", icon: "https://up6.cc/2023/02/167675615002251.png"}
 ];
 
 setInterval(() => {
