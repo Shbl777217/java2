@@ -2,6 +2,10 @@
 
 
 
+
+
+
+
 $("style").last().append(`
 
 #users .uzr.neww img.co {
@@ -74,7 +78,7 @@ margin-top: 12px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/02/167683560847091.png);
+ background-image: url(https://up6.cc/2023/02/167683585492921.png);
 background-size: 100%;
     
 }
@@ -119,6 +123,10 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
+
+
+
 
 
 
