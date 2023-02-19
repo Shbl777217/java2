@@ -1,3 +1,145 @@
+
+
+
+
+$("style").last().append(`
+
+#users .uzr.neww img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.neww span.uhash{
+    -webkit-text-fill-color: transparent;
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;}
+
+
+#users .uzr.neww img.u-ico {
+    
+     
+
+      
+    }
+
+#users .uzr.neww img.ustat {
+      width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 14px;
+  z-index: 0 !important;
+  display: none;
+      
+    }
+
+#users .uzr.neww .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 7px !important;
+  height: 52px !important;
+  margin-left: 15px!important;
+  z-index: 0 !important;
+margin-bottom: 9px !important;
+padding: 30px !important;
+}
+
+#users .uzr.neww .u-msg {
+	text-align: center;
+  -webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/02/16753677734121.gif);
+  padding: 0px !important;
+	margin-bottom: 17px !important;
+margin-left: 18px;
+margin-right: 50px;
+background-size: cover;
+margin-top: 12px !important;
+
+}
+
+
+
+
+
+#users .uzr.neww {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/02/167683560847091.png);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.neww .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.neww .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 5px;
+}
+
+#users .uzr.neww .itarr_newwa {
+ width: 137px;
+height: 92px;
+margin-top: -55px;
+cursor: pointer;
+margin-left: -67px;
+}
+
+
+
+
+
+`);
+
+const _neew56zznz4 = [
+    {name: "newwa", deco: "New..", cls: "neww", icon: "https://up6.cc/2023/02/167683441413081.png"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _neew56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $(`<style>.nosel.d-flex.room.r18642d182a0xa3e86d27-xt4lmaj .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: transparent!important; padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
 margin-left: 170px !important;
 margin-top: 40px !important;
