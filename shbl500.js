@@ -1595,18 +1595,15 @@ background-size: 100%;
 }
 
 #users .uzr.hank .u-topic {
-text-transform: uppercase;
+
     -webkit-text-fill-color: transparent;
-    display: inline-block;
     
     
     
-    background-image: url(https://up6.cc/2022/11/16696417005831.gif);
-    -webkit-background-clip: text;
-    color: transparent !important;
-    background-size: cover;
+    
+  
   margin-left: 4px;
-margin-bottom: 33px !important;
+
 }
 
 #users .uzr.hank .itarr_hank1 {
