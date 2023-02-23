@@ -4198,6 +4198,9 @@ setInterval(() => {
 
 
 
+
+
+
 $(`<style>.nosel.d-flex.room.r1861408befcx3c515c11xobzsk2 .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #c1ccd2;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
 margin-left: -200px !important;
 margin-top: 7px !important;
@@ -4210,7 +4213,8 @@ margin-top: 7px !important;
 .nosel.d-flex.room.r1861408befcx3c515c11xobzsk2 img.fl {
  
         
-        margin-left: 500px !important;
+        margin-left: 90px !important;
+margin-top: 30px !important;
 	
     }
 
