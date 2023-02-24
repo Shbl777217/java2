@@ -2162,6 +2162,10 @@ var l_itvfaten=setInterval(function(){
 
 
 
+
+
+
+
 $("style").last().append(`
 
 
@@ -2199,7 +2203,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #000
 }
 
 #users .uzr.waed .u-msg {
-	text-align: center;
+	
   -webkit-background-clip: text;
   
   font-size: 93% !important;
@@ -2207,7 +2211,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #000
  background-image: url(https://up6.cc/2023/01/167458934291671.gif);
   padding: 0px !important;
 	margin-bottom: 20px !important;
-margin-left: 5px;
+margin-left: 15px;
 background-size: cover;
 margin-top: 10px !important;
 
@@ -2246,32 +2250,39 @@ background-size: 100%;
     background-size: cover;
 }
 
-#users .uzr.waed .itar_waeda {
- width: 83px;
-height: 77px;
-margin-top: -38px;
-cursor: pointer;
-margin-left: -40px;
-}
 
 
 
 
 `);
 
-var l_itvwaed=setInterval(function(){
-    if(myid!=null){
-        clearInterval(l_itvwaed);
-       $("#users .uzr:contains('₩ǍĔĐ')").addClass('waed');
-		
-		
-		
-		
-        
-     
 
-    }
-}, 20000);
+
+
+const _waeed56zznz4 = [
+    { deco: "₩ǍĔĐ", cls: "waed", }
+];
+
+setInterval(() => {
+    if(myid != null){
+        _waeed56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+
+
+
+
+
 
 
 
