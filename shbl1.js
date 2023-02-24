@@ -4936,7 +4936,6 @@ setInterval(() => {
 
 
 
-
 $("style").last().append(`
 
 #users .uzr.nar img.co {
@@ -4975,7 +4974,7 @@ margin-left: 9px;
   height: 52px !important;
   margin-left: 10px!important;
   z-index: 0 !important;
-margin-bottom: 12px !important;
+margin-bottom: 10px !important;
 padding: 29px !important;
 border:2px solid #939393;margin-top:3px;border-radius:100px;
 
