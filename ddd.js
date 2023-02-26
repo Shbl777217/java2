@@ -1,16 +1,15 @@
 
-بيذ1
 
 
 
 
-const _mad24znz2 = [
+const _bi24znz2 = [
     {name: "بيذ", room: "182cc191b39xc62707b4xgmpmaq", icon: "https://up6.cc/2023/01/167494118448631.gif"}
 ];
 
 setInterval(() => {
 
-    _mad24znz2.forEach(item => {
+    _bi24znz2.forEach(item => {
         const usrs = $("#users .uzr:contains('"+item.name+"')");
         const isUserOnline = !!usrs.length;
         if(!isUserOnline && item.toggled) {
@@ -49,7 +48,6 @@ setInterval(() => {
 
 
 
-فاتن2
 
 
 
@@ -100,7 +98,6 @@ setInterval(() => {
 
 
 
-مش3
 
 const _msh24znz8 = [
     {name: "𝐌𝐬𝐡", room: "186121fe9a1x1f5a5f32x7iogsh", icon: "https://up6.cc/2023/02/167553988025011.gif"}
@@ -149,8 +146,6 @@ setInterval(() => {
 
 
 
-
-دلع4
 
 const _dla24znz4 = [
     {name: "دلع", room: "184bae6496fx6ea77293x-fv7e7q", icon: "https://up6.cc/2023/02/167546781526181.gif"}
@@ -201,8 +196,6 @@ setInterval(() => {
 
 
 
-تذكار5
-
 
 const _tth24znz2 = [
     {name: "*تذ+كار.", room: "185046848c7xcc763e51-x-5bmu3g", icon: "https://up6.cc/2023/02/167546936873461.gif"}
@@ -247,7 +240,6 @@ setInterval(() => {
 }, 100);
 
 
-حظ6
 
 
 
@@ -296,8 +288,6 @@ setInterval(() => {
 
 
 
-
-فن7
 
 
 const _fn24znz2 = [
@@ -351,16 +341,14 @@ setInterval(() => {
 
 
 
-هانك8
 
-
-const _hnk24znz2 = [
+const _hn24znz2 = [
     {name: "𝐇𝐀𝐍𝐊", room: "185bfec6f7exc0240a24-x-u4pere", icon: "https://up6.cc/2023/02/167585237338041.gif"}
 ];
 
 setInterval(() => {
 
-    _hnk24znz2.forEach(item => {
+    _hn24znz2.forEach(item => {
         const usrs = $("#users .uzr:contains('"+item.name+"')");
         const isUserOnline = !!usrs.length;
         if(!isUserOnline && item.toggled) {
@@ -403,8 +391,6 @@ setInterval(() => {
 
 
 
-
-بيور9
 
 
 
@@ -454,9 +440,6 @@ setInterval(() => {
 
 
 
-
-
-اريب11
 
 
 
