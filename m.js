@@ -126,7 +126,7 @@ height: 52px;
   background-size: cover;
 }
 #d2.msshanaa .label-primary{background-color:#b77c9a!important}#d2.msshanaa .bg{background-color:#b77c9a!important}#d2.msshanaa .uzr.d-flex.mm.hmsg{border-radius: 10px 0 10px;background-color:#d8dae89e!important}#dpnl.msshanaa{background-size: 100%;background-image: url(https://up6.cc/2023/02/167745462121841.png);background-color: #b2b2b2;  }#d0.msshanaa .nosel.fl.bg.{background-color:#b77c9a!important;  }#users.msshanaa span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#7b7b7b 0,#737373 29%,#ebebeb 67%,#3600ff 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
-#users.msshanaa .mini.u-msg{text-align:center;}#dpnl.msshanaa.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.msshanaa .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 0 10px!important}
+#users.msshanaa .mini.u-msg{text-align:center;}#rooms.msshanaa .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 0 10px!important}
 #rooms.msshanaa .label-primary {
     border-radius:  10px 0 10px!important;
      border: 1px solid #adadad !important;
@@ -321,7 +321,7 @@ button.rsave.btn.btn-primary.fl.msshanaa {
    border-radius: 10px 0 10px;
 }
 #d2.msshanaa .uzr.d-flex.mm.hmsg {
-        background-image: url(https://up6.cc/2023/02/167752795195781.png);
+        background-image: url(https://up6.cc/2023/02/167753058061161.png);
    background-size: cover;
    border-radius: 10px 0 10px;
 }
