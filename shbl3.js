@@ -1,5 +1,144 @@
 
 
+$("style").last().append(`
+
+#users .uzr.mot img.co {
+
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.mot span.uhash{
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+-webkit-text-fill-color: transparent;
+
+    
+    }
+
+
+
+#users .uzr.mot img.u-ico {
+margin-left: 4px;
+    
+     
+
+      
+    }
+
+#users .uzr.mot img.ustat {
+      width: 0px !important;
+    height: 0px !important;
+    min-height: 0%!important;
+    margin-right: 0;
+    z-index: 999999;
+    border-radius: 3px 0px 3px 0px;
+    margin-left: 2px;
+    margin-top: 41px;
+    
+    
+    }
+
+#users .uzr.mot .fitimg.u-pic {
+   border-radius: 100px;
+  
+  height: 52px !important;
+  margin-left: -0px!important;
+  z-index: 0 !important;
+margin-top: 5px;
+padding: 10px !important;
+border:1px solid #a6a6a6;
+margin-bottom:8px;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #a6a6a6
+}
+
+#users .uzr.mot .u-msg {
+	
+  -webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/02/167744603331921.gif);
+  padding: 5px !important;
+	margin-bottom: 1px !important;
+
+background-size: cover;
+margin-top: 1px !important;
+margin-left: 10px !important;
+margin-right: 20px !important;
+
+}
+
+
+
+
+
+#users .uzr.mot {
+  padding: 2px !important;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+   border-radius: 15px 0px 15px 0px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/02/167761503751661.png);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.mot .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.mot .u-topic {
+-webkit-text-fill-color: transparent;
+  
+  
+  
+
+  margin-left: 30px;
+
+}
+
+#users .uzr.mot .itarr_mot1 {
+ width: 79px;
+height: 77px;
+margin-top: -25px;
+cursor: pointer;
+margin-left: -24px;
+}
+
+
+
+`);
+
+
+const _moot56zznz4 = [
+    { name: "mot1", deco: "مُتّرفه", cls: "mot", icon: "https://up6.cc/2023/02/167761373499271.png"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _moot56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                 $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+
+
 
 
 
