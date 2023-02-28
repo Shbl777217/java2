@@ -1,5 +1,7 @@
 
 
+
+
 $("style").last().append(`
 
 #users .uzr.mot img.co {
@@ -61,11 +63,11 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #a6a6a6
   font-size: 89% !important;
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/02/167744603331921.gif);
-  padding: 5px !important;
-	margin-bottom: 1px !important;
+  padding: 1px !important;
+	margin-bottom: 4px !important;
 
 background-size: cover;
-margin-top: 1px !important;
+margin-top: 3px !important;
 margin-left: 10px !important;
 margin-right: 20px !important;
 
@@ -133,6 +135,7 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
 
 
 
