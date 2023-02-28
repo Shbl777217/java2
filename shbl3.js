@@ -2,6 +2,7 @@
 
 
 
+
 $("style").last().append(`
 
 #users .uzr.sauud img.co {
@@ -113,7 +114,7 @@ margin-left: -65px;
 `);
 
 const _sud56zznz4 = [
-    {name: "sauud1", deco: "سعـوود..", cls: "sauud", icon: "https://up6.cc/2023/02/167758531621131.png"}
+    {name: "sauud1", deco: "سعُـود..", cls: "sauud", icon: "https://up6.cc/2023/02/167758531621131.png"}
 ];
 
 setInterval(() => {
@@ -127,6 +128,16 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
+
+
+
+
+
+
+
+
+
 
 
 
