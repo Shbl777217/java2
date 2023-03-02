@@ -13,21 +13,16 @@ $(`<style>
   animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 }
 
-.nosel.d-flex.room.r1869d6851d8x94c3c337x-739m70 .label-primary {letter-spacing: 2px;
+.nosel.d-flex.room.r1869d6851d8x94c3c337x-739m70 .label-primary { letter-spacing: 2px;
   -webkit-text-fill-color: transparent;
 	
-	background-image: url(https://up6.cc/2023/03/167770064078071.png);
-    background-size: cover;
+	background-image: url(https://up6.cc/2023/03/167770082544271.png);
 	-webkit-background-clip: text;
 	color: transparent !important;
-	
-  border-radius: 15px 0px 15px 0px !important;
+	background-size: cover;
   height: 27px;
   margin-top: 40px !important;
-  margin-bottom: 0px !important;
-  background-color: #d9534f00;
-  text-align: left!important;
-  margin-left: 60px!important;}
+  margin-bottom: 0px !important;}
 
 .nosel.d-flex.room.r1869d6851d8x94c3c337x-739m70 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 2px;
@@ -52,7 +47,7 @@ $(`<style>
 	
 }
 .nosel.d-flex.room.r1869d6851d8x94c3c337x-739m70 {
-    background-image: url(https://up6.cc/2023/03/167770586578111.gif);
+    background-image: url(https://up6.cc/2023/03/167778410050461.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
@@ -214,48 +209,102 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #5b5b5b}
     background-size: 100%;
 background-color: #f5f5f5 !important;
   }
+
+#d2bc.rhannk.d2.light.d2bc.flex-grow-1.break {
+      background-color: #f5f5f5 !important;
+      background-image: url("https://up6.cc/2023/03/167778367826041.png");
+    background-size: 100%;
+background-color: #f5f5f5 !important;
+  }
+
+#rooms.rhannk {
+      background-color: #f5f5f5 !important;
+      background-image: url("https://up6.cc/2023/03/167778367826041.png");
+    background-size: 100%;
+background-color: #f5f5f5 !important;
+  }
+
+button.blike.corner.btn.minix.btn-danger.fa.fa-heart.rhannk {
+   border-radius: 0px 0px 10px 10px;
+}
+button.border.btn.label.label-success.fl.fa.fa-plus.rhannk {
+   border-radius: 0px 0px 10px 10px;
+}
+button.rsave.btn.btn-primary.fl.rhannk {
+  background-color: #5b5b5b ;
+   border-radius: 0px 0px 10px 10px;
+}
+
+.corner.border.label.label-primary.rhannk {
+  border-radius:  0px 0px 10px 10px!important;
+background-color: #5b5b5b ;
+}
+.modal-header.label-primary.rhannk {
+	border-radius:  0px 0px 10px 10px!important;
+    border: 1px solid #c4c8dc;
+  background-color: #5b5b5b ;
+}
+.head.d-flex.nosel.bg.fl.rhannk, .rsave.btn.btn-primary.fr.rhannk, .fa.fa-send.sndpm.fl.btn.btn-primary.rhannk, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.rhannk, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.rhannk, .bdel.corner.btn.minix.btn-primary.fa.fa-times.rhannk, .fa.fa-send.sndbc.fl.btn.btn-primary.rhannk {
+    border-radius:  0px 0px 10px 10px!important;
+    border: 1px solid #f1f1f1;
+   background-color: #5b5b5b ;
+    background-size: 100%;
+}
+.btn.btn-primary.u-nickc.fr.fa.fa-save.rhannk {
+    border-radius:  0px 0px 10px 10px!important;
+    border: 1px solid #e7e7e7;
+  background-color: #5b5b5b ;
+    background-size: 100%;
+}
+.label.fl.label-primary.rhannk {
+    border-radius:  0px 0px 10px 10px!important;
+  background-color: #5b5b5b ;
+}
+
+input.rhannk {
+  border-radius:  0px 0px 10px 10px!important;
+  border: 1px solid #c4c8dc;
+}
+.dots.rhannk {
+  border-radius:  0px 0px 10px 10px!important;
+}
+.tc.rhannk {
+  border-radius:  0px 0px 10px 10px!important;
+  border: 1px solid #c4c8dc;
+}
+.fl.u-pic.fitimg.rhannk {
+  border: 1px solid;
+
+clip-path: inset(0px round 0px 10px 0px 10px);
+animation: huerotate 2s infinite linear;
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 10px rgb(0 0 0), 0 0 0 0px #000;
+}
+.fl.borderg.rhannk {
+  border-radius:  0px 0px 10px 10px!important;
+  border: 1px solid #bfbfbf;
+}
+.uhtml.rhannk {
+  border-radius: 0px 0px 10px 10px;
+}
+
 `);       
      
     var roomrhnktest = false;
-    setInterval(function () {
-        if (myroom == '1869d6851d8x94c3c337x-739m70') {
-            if (roomrhnktest == false) {
-                roomrhnktest = true;
-              $('#users').addClass('rhannk');
-                $('#d2').addClass('rhannk');
-                $('#mic').addClass('rhannk');
-                $('#settings').addClass('rhannk');
-                $('#rooms').addClass('rhannk');
-				$('#room').addClass('rhannk');
-                $('#d0').addClass('rhannk');
-                $('#chats').addClass('rhannk');
-                $('#d2bc').addClass('rhannk');
-				$('#muteall').addClass('rhannk');
-				$('#wall').addClass('rhannk');
-				$('#dpnl').addClass('rhannk');
-				$('#upro').addClass('rhannk');
-            }
-        } else {
-            if (roomrhnktest == true) {
-                roomrhnktest = false;
-                $("#users").removeClass('rhannk');
-                $("#d2").removeClass('rhannk');
-                $('#mic').removeClass('rhannk');
-                $('#settings').removeClass('rhannk');
-                $('#rooms').removeClass('rhannk');
-				$('#room').removeClass('rhannk');
-                $('#d0').removeClass('rhannk');
-                $('#chats').removeClass('rhannk');
-                $('#d2bc').removeClass('rhannk');
-				$('#muteall').removeClass('rhannk');
-				$('#wall').removeClass('rhannk');
-				$('#dpnl').removeClass('rhannk');
-				$('#dpnl').removeClass('rhannk');
-				$('#upro').removeClass('rhannk');
+setInterval(function () {
+    if (myroom == '1869d6851d8x94c3c337x-739m70') {
+        if (roomrhnktest == false) {
+            roomrhnktest = true;
+                $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('rhannk');
+		$('input, bdel.corner.btn.minix.btn-primary.fa.fa-times, button.rsave.btn.btn-primary.fl, button.border.btn.label.label-success.fl.fa.fa-plus, button.blike.corner.btn.minix.btn-danger.fa.fa-heart, .fl.borderg, .fl.u-pic.fitimg, .dots, .tc, .label.fl.label-primary, .btn.btn-primary.u-nickc.fr.fa.fa-save, .modal-header.label-primary, .corner.border.label.label-primary,.head.d-flex.nosel.bg.fl, .rsave.btn.btn-primary.fr, .fa.fa-send.sndpm.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary, .bdel.corner.btn.minix.btn-primary.fa.fa-times, .fa.fa-send.sndbc.fl.btn.btn-primary').addClass('rhannk');
+        }
+    } else {
+        if (roomrhnktest == true) {
+            roomrhnktest = false;
+                $("#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro").removeClass('rhannk');
+		$('input, bdel.corner.btn.minix.btn-primary.fa.fa-times, button.rsave.btn.btn-primary.fl, button.border.btn.label.label-success.fl.fa.fa-plus, button.blike.corner.btn.minix.btn-danger.fa.fa-heart, .fl.borderg, .fl.u-pic.fitimg, .dots, .tc, .label.fl.label-primary, .btn.btn-primary.u-nickc.fr.fa.fa-save, .modal-header.label-primary, .corner.border.label.label-primary, .head.d-flex.nosel.bg.fl, .rsave.btn.btn-primary.fr, .fa.fa-send.sndpm.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary, .bdel.corner.btn.minix.btn-primary.fa.fa-times, .fa.fa-send.sndbc.fl.btn.btn-primary').removeClass('rhannk');
             } 
         } 
     }, 10);
-  
 
 
 
