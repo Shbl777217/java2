@@ -305,14 +305,14 @@ width: 1px !important;
     }
 
 #users .uzr.sauud img.ustat {
-      width: 54px !important;
-  border-radius: 0px 50px 50px 50px !important;
-  height: 52px !important;
-  margin-top: 5px !important;
-  min-height: 0% !important;
-  margin-left: 14px;
-  z-index: 0 !important;
-  display: none;
+      width: 9px !important;
+    height: 9px !important;
+    min-height: 0%!important;
+    margin-right: 0;
+    z-index: 999999;
+    border-radius: 50px;
+    margin-left: 6px;
+    margin-top: 8px;
       
     }
 
@@ -320,13 +320,13 @@ width: 1px !important;
   border-radius: 100px !important;
   margin-top: 10px !important;
   height: 52px !important;
-  margin-left: 13px!important;
+  margin-left: -1px!important;
   z-index: 0 !important;
 margin-bottom: 11px !important;
 padding: 29px !important;
-border:2px solid #000;margin-top:3px;border-radius:100px;
+border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #000
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
 }
 
 #users .uzr.sauud .u-msg {
@@ -389,7 +389,7 @@ margin-left: -65px;
 `);
 
 const _sud56zznz4 = [
-    {name: "sauud1", deco: "سعُـود..", cls: "sauud", icon: "https://up6.cc/2023/03/167770812176461.png"}
+    {name: "sauud1", deco: "سعُـود..", cls: "sauud", icon: "https://up6.cc/2023/03/167787524223711.png"}
 ];
 
 setInterval(() => {
