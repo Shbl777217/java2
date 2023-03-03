@@ -3551,15 +3551,18 @@ setInterval(() => {
 $("style").last().append(`
 
 #users .uzr.hank img.co {
-  transform: rotate(90deg);
-  margin-top: -60px !important;
-  margin-right: 340px;
+   width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
 }
 
 #users .uzr.hank span.uhash{
-    margin-right: 350px;
-  margin-top: 24px;
-  margin-left: 0px;}
+    width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+-webkit-text-fill-color: transparent;
+}
+
 
 
 #users .uzr.hank img.u-ico {
@@ -3672,6 +3675,8 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
+
 
 
 
