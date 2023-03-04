@@ -383,7 +383,7 @@ background-size: 100%;
 
 
 const _mmot56zznz4 = [
-    { deco: "*مُتّرفه*", cls: "mot2"}
+    { deco: "مُتّرَفه", cls: "mot2"}
 ];
 
 setInterval(() => {
@@ -397,6 +397,7 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
 
 
 
