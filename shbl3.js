@@ -433,6 +433,8 @@ setInterval(() => {
 
 
 
+
+
 $("style").last().append(`
 
 #users .uzr.tot img.co {
@@ -492,12 +494,12 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #453118
   font-size: 89% !important;
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/02/167744603331921.gif);
-  padding: 5px !important;
-	margin-bottom: 1px !important;
+  padding: 1px !important;
+	margin-bottom: 7px !important;
 
 background-size: cover;
-margin-top: 1px !important;
-margin-left: 20px !important;
+margin-top: 3px !important;
+margin-left: 10px !important;
 
 }
 
@@ -556,6 +558,8 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
+
 
 
 
