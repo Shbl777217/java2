@@ -274,6 +274,12 @@ setInterval(() => {
 
 
 
+
+
+
+
+
+
 $("style").last().append(`
 
 #users .uzr.mot2 img.co {
@@ -333,10 +339,10 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #525252
   font-size: 89% !important;
  
   padding: 1px !important;
-	margin-bottom: 10px !important;
+	margin-bottom: 12px !important;
 
 background-size: cover;
-margin-top: 3px !important;
+margin-top: 5px !important;
 margin-left: 10px !important;
 -webkit-text-fill-color: transparent;
 
@@ -355,7 +361,7 @@ margin-left: 10px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/03/167796881064271.png);
+ background-image: url(https://up6.cc/2023/03/167801812756781.png);
 background-size: 100%;
     
 }
@@ -397,6 +403,11 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
+
+
+
+
 
 
 
