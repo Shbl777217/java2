@@ -1,6 +1,7 @@
 
 
 
+
 $("style").last().append(`
 
 #users .uzr.h9h img.co {
@@ -17,7 +18,7 @@ $("style").last().append(`
 
 #users .uzr.h9h img.u-ico {
 margin-left: 3px;
-    
+    border-radius: 0px 8px 0px 8px;
      
 
       
@@ -147,6 +148,14 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
+
+
+
+
+
+
+
 
 
 
