@@ -2,6 +2,175 @@
 
 $("style").last().append(`
 
+#users .uzr.h9h img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.h9h span.uhash{
+    margin-right: 350px;
+  
+  margin-left: 0px;}
+
+
+#users .uzr.h9h img.u-ico {
+margin-left: 3px;
+    
+     
+
+      
+    }
+
+#users .uzr.h9h img.ustat {
+      width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 14px;
+  z-index: 0 !important;
+  display: none;
+      
+    }
+
+#users .uzr.h9h .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 22px !important;
+  height: 52px !important;
+  margin-left: 26px!important;
+  z-index: 0 !important;
+margin-bottom: 0px !important;
+padding: 28px !important;
+border:2px solid #fff;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff
+}
+
+#users .uzr.h9h .u-msg {
+	text-align: center;
+  -webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/01/167459183804791.gif);
+  padding: 0px !important;
+	margin-bottom: 43px !important;
+margin-left: 5px;
+background-size: cover;
+margin-top: 5px !important;
+
+}
+
+
+
+
+
+#users .uzr.h9h {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 11px 0px 11px 0px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/03/167804427975751.png);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.h9h .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.h9h .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 4px;
+margin-bottom: 33px !important;
+}
+
+#users .uzr.h9h .itarr_hh9h1 {
+ width: 110px;
+height: 110px;
+margin-top: -50px;
+cursor: pointer;
+margin-left: -56px;
+}
+
+#users .uzr.h9h .My_vedioh9h {
+  float: right;
+  width: 20px;
+  margin-top: 1px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+
+`);
+
+
+const _h99hhzznz4 = [
+    {name: "hh9h1", deco: "K$A", cls: "h9h", icon: "https://up6.cc/2023/03/16780297543541.png"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _h99hhzznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
+				$("#users .uzr span.u-topic:contains('K$A')").after('<img id="mystory" class="My_vedioh9h" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+				
+		$("#users .uzr.h9h span.fr.uhash, #users .uzr.h9h img.fr.co").hide(); 
+
+
+        $("#upro").before('<div id="movon" onclick="$(this).hide().html(``);" class="moveon" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
+        
+        
+        
+        $("div#users .uzr:contains('K$A') .My_vedioh9h").click(function(){
+        $("#movon").show();
+        
+        $('#movon').addClass('h9h');
+        $("#movon").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
+        $("#movon").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');
+        $("#movon").append('<iframe id="ifr_movh9" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/WtmVYOtqz98" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
+       $("#ifr_movh9").show(function(){
+        $("#upro").modal("hide");
+    } ); 
+});
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$("style").last().append(`
+
 #users .uzr.mssh img.co {
 
   width: 1px !important;
