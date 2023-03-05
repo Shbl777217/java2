@@ -2,6 +2,7 @@
 
 
 
+
 $("style").last().append(`
 
 #users .uzr.h9h img.co {
@@ -101,13 +102,7 @@ cursor: pointer;
 margin-left: -56px;
 }
 
-#users .uzr.h9h .My_vedioh9h {
-  float: right;
-  width: 20px;
-  margin-top: 1px;
-  margin-right: 10px;
-  cursor: pointer;
-}
+
 
 
 `);
@@ -124,30 +119,16 @@ setInterval(() => {
             if(user && !user.hasClass(item.cls)) {
                 $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
                 $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
-				$("#users .uzr span.u-topic:contains('.. حـّـظ')").after('<img id="mystory" class="My_vedioh9h" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
-				
-		$("#users .uzr.h9h span.fr.uhash, #users .uzr.h9h img.fr.co").hide(); 
-
-
-        $("#upro").before('<div id="movon" onclick="$(this).hide().html(``);" class="moveon" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
-        
-        
-        
-        $("div#users .uzr:contains('.. حـّـظ') .My_vedioh9h").click(function(){
-        $("#movon").show();
-        
-        $('#movon').addClass('h9h');
-        $("#movon").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
-        $("#movon").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');
-        $("#movon").append('<iframe id="ifr_movh9" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/WtmVYOtqz98" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
-       $("#ifr_movh9").show(function(){
-        $("#upro").modal("hide");
-    } ); 
-});
+			    
             } 
         });
     }
 }, 3 * 1000);
+
+
+
+
+
 
 
 
