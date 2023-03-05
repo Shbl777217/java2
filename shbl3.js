@@ -1,5 +1,6 @@
 
 
+
 $("style").last().append(`
 
 #users .uzr.h9h img.co {
@@ -112,7 +113,7 @@ margin-left: -56px;
 
 
 const _h99hhzznz4 = [
-    {name: "hh9h1", deco: "K$A", cls: "h9h", icon: "https://up6.cc/2023/03/16780297543541.png"}
+    {name: "hh9h1", deco: ".. حـّـظ", cls: "h9h", icon: "https://up6.cc/2023/03/16780297543541.png"}
 ];
 
 setInterval(() => {
@@ -122,7 +123,7 @@ setInterval(() => {
             if(user && !user.hasClass(item.cls)) {
                 $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
                 $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
-				$("#users .uzr span.u-topic:contains('K$A')").after('<img id="mystory" class="My_vedioh9h" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+				$("#users .uzr span.u-topic:contains('.. حـّـظ')").after('<img id="mystory" class="My_vedioh9h" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
 				
 		$("#users .uzr.h9h span.fr.uhash, #users .uzr.h9h img.fr.co").hide(); 
 
@@ -131,7 +132,7 @@ setInterval(() => {
         
         
         
-        $("div#users .uzr:contains('K$A') .My_vedioh9h").click(function(){
+        $("div#users .uzr:contains('.. حـّـظ') .My_vedioh9h").click(function(){
         $("#movon").show();
         
         $('#movon').addClass('h9h');
@@ -146,6 +147,9 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
+
+
 
 
 
