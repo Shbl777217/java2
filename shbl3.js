@@ -3,21 +3,22 @@
 
 
 
+
 $("style").last().append(`
 
-#users .uzr.h9h img.co {
+#users .uzr.hhqq img.co {
   width: 1px !important;
     height: 1px !important;
   margin-right: 1px;
 }
 
-#users .uzr.h9h span.uhash{
+#users .uzr.hhqq span.uhash{
     margin-right: 350px;
   
   margin-left: 0px;}
 
 
-#users .uzr.h9h img.u-ico {
+#users .uzr.hhqq img.u-ico {
 margin-left: 3px;
     border-radius: 0px 8px 0px 8px;
      
@@ -25,7 +26,7 @@ margin-left: 3px;
       
     }
 
-#users .uzr.h9h img.ustat {
+#users .uzr.hhqq img.ustat {
       width: 54px !important;
   border-radius: 0px 50px 50px 50px !important;
   height: 52px !important;
@@ -37,7 +38,7 @@ margin-left: 3px;
       
     }
 
-#users .uzr.h9h .fitimg.u-pic {
+#users .uzr.hhqq .fitimg.u-pic {
   border-radius: 100px !important;
   margin-top: 22px !important;
   height: 52px !important;
@@ -50,7 +51,7 @@ border:2px solid #fff;margin-top:3px;border-radius:100px;
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff
 }
 
-#users .uzr.h9h .u-msg {
+#users .uzr.hhqq .u-msg {
 	text-align: center;
   -webkit-background-clip: text;
   
@@ -69,11 +70,11 @@ margin-top: 5px !important;
 
 
 
-#users .uzr.h9h {
+#users .uzr.hhqq {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 11px 0px 11px 0px;
+  border-radius: 0px 11px 0px 11px;
    
   
   border: 1px solid #fff;
@@ -84,17 +85,17 @@ background-size: 100%;
 
 
 
-#users .uzr.h9h .d-flex.fl {
+#users .uzr.hhqq .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzr.h9h .u-topic {
+#users .uzr.hhqq .u-topic {
 -webkit-text-fill-color: transparent;
   margin-left: 4px;
 margin-bottom: 33px !important;
 }
 
-#users .uzr.h9h .itarr_hh9h1 {
+#users .uzr.hhqq .itarr_hhhqq1 {
  width: 110px;
 height: 110px;
 margin-top: -50px;
@@ -108,13 +109,13 @@ margin-left: -56px;
 `);
 
 
-const _h99hhzznz4 = [
-    {name: "hh9h1", deco: ".. حـّـظ", cls: "h9h", icon: "https://up6.cc/2023/03/16780297543541.png"}
+const _haqhzznz4 = [
+    {name: "hhhqq1", deco: ".. حـّـظ", cls: "hhqq", icon: "https://up6.cc/2023/03/16780297543541.png"}
 ];
 
 setInterval(() => {
     if(myid != null){
-        _h99hhzznz4.forEach(item => {
+        _haqhzznz4.forEach(item => {
             const user = $("#users .uzr:contains('"+item.deco+"')");
             if(user && !user.hasClass(item.cls)) {
                 $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
@@ -124,6 +125,15 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
+
+
+
+
+
+
+
+
 
 
 
