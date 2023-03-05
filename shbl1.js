@@ -1272,8 +1272,7 @@ margin-right: 22px !important;
 margin-bottom: 15px !important;
 margin-top: 9px !important;
 -webkit-background-clip: text;
--webkit-text-fill-color: #0000;
-background-image: linear-gradient(-225deg,#000 0%,#4c392a 29%,#b68259 67%,#000 100%);}
+
 
 #dpnl.fn.bg{background-color:#d7d2c4!important;background-image:linear-gradient(225deg,#d3c8c0 0%,#e8e8e8 29%,#f4f4f4 67%,#d3c8c0 100%) */}#rooms.fn .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 10px  10px 10px !important}
 #rooms.fn .label-primary {
