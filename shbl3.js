@@ -328,6 +328,8 @@ setInterval(() => {
 
 
 
+
+
 $("style").last().append(`
 
 #users .uzr.mot2 img.co {
@@ -392,7 +394,9 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #525252
 background-size: cover;
 margin-top: 5px !important;
 margin-left: 10px !important;
--webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+-webkit-text-fill-color: #0000;
+background-image: linear-gradient(-225deg,#1c1b1a 0%,#e9698c 29%,#1c1b1a 67%,#f2658a 100%);
 
 }
 
@@ -409,7 +413,7 @@ margin-left: 10px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/03/167801812756781.png);
+ background-image: url(https://up6.cc/2023/03/167804646082612.png);
 background-size: 100%;
     
 }
@@ -451,6 +455,7 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
 
 
 
