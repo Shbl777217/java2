@@ -13,7 +13,7 @@ $("style").last().append(`
 
 
 #users .uzr.hhqq img.u-ico {
-margin-left: 0px;
+margin-left: -2px;
     border-radius: 0px 8px 0px 8px;
      
 
@@ -36,7 +36,7 @@ margin-left: 0px;
   border-radius: 100px !important;
   margin-top: 22px !important;
   height: 52px !important;
-  margin-left: 26px!important;
+  margin-left: 23px!important;
   z-index: 0 !important;
 margin-bottom: 0px !important;
 padding: 28px !important;
@@ -53,7 +53,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/01/167459183804791.gif);
   padding: 0px !important;
-	margin-bottom: 43px !important;
+	margin-bottom: 56px !important;
 margin-left: -13px;
 background-size: cover;
 margin-top: 5px !important;
@@ -103,13 +103,13 @@ margin-left: -56px;
 `);
 
 
-const _haqhzznz4 = [
+const _hqhzznz4 = [
     {name: "hhhqq1", deco: ".. حـّـظ", cls: "hhqq", icon: "https://up6.cc/2023/03/16780297543541.png"}
 ];
 
 setInterval(() => {
     if(myid != null){
-        _haqhzznz4.forEach(item => {
+        _hqhzznz4.forEach(item => {
             const user = $("#users .uzr:contains('"+item.deco+"')");
             if(user && !user.hasClass(item.cls)) {
                 $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
