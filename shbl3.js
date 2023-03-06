@@ -13,7 +13,7 @@ $("style").last().append(`
 
 
 #users .uzr.hhqq img.u-ico {
-margin-left: 3px;
+margin-left: 0px;
     border-radius: 0px 8px 0px 8px;
      
 
@@ -54,7 +54,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff
  background-image: url(https://up6.cc/2023/01/167459183804791.gif);
   padding: 0px !important;
 	margin-bottom: 43px !important;
-margin-left: 5px;
+margin-left: -13px;
 background-size: cover;
 margin-top: 5px !important;
 
@@ -119,6 +119,7 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
 
 
 
