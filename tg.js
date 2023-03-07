@@ -9,7 +9,7 @@ $(`<style>
 .nosel.d-flex.room.r186bca664b2x0ed61ef6xymwdgr .label-primary {letter-spacing: 2px;
   -webkit-text-fill-color: transparent;
 	animation: textclip 3s linear infinite;
-	background-image: linear-gradient(100deg, #1e1029 0%, #1e1029 29%, #1e1029 67%, #1e1029 100%);
+	background-image: linear-gradient(100deg, #3f185a 0%, #3f185a 29%, #3f185a 67%, #3f185a 100%);
     background-size: 200% 200%;
 	-webkit-background-clip: text;
 	color: transparent !important;
@@ -26,7 +26,7 @@ $(`<style>
   letter-spacing: 2px;
   -webkit-text-fill-color: transparent;
 	animation: textclip 3s linear infinite;
-	background-image: linear-gradient(100deg, #1e1029 0%, #1e1029 29%, #1e1029 67%, #1e1029 100%);
+	background-image: linear-gradient(100deg, #3f185a 0%, #3f185a 29%, #3f185a 67%, #3f185a 100%);
     background-size: 200% 200%;
 	-webkit-background-clip: text;
 	color: transparent !important;
@@ -46,13 +46,13 @@ $(`<style>
 	margin-left: 10px;
 	-webkit-text-fill-color: transparent;
 	animation: textclip 2s linear infinite;
-	background-image: url(https://up6.cc/2023/02/167753360632371.gif);
+	background-image: url(https://up6.cc/2023/03/167823004159072.gif);
 	-webkit-background-clip: text;
 	color: transparent !important;
 	background-size: 100% 100%;
 }
 .nosel.d-flex.room.r186bca664b2x0ed61ef6xymwdgr {
-    background-image: url(https://up6.cc/2023/03/167822741071891.gif);
+    background-image: url(https://up6.cc/2023/03/167823004092211.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
@@ -93,7 +93,7 @@ var roomiddal='186bca664b2x0ed61ef6xymwdgr';
     font-size: 15px !important;
     font-style: normal;
     font-family: sans-serif;
-    background-image: url(https://up6.cc/2023/03/167822658707631.png);
+    background-image: url(https://up6.cc/2023/03/167823050970461.png);
 	background-size: 100%;
 -webkit-text-fill-color:#000;
     background-size: 100% 100%;
@@ -125,7 +125,7 @@ var roomiddal='186bca664b2x0ed61ef6xymwdgr';
     
     $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${roomiddal}')"]{border: 0px solid #0000;
 
-background-size: 220% auto;border-radius: 10px 0px  10px 0px !important;background-image: url(https://up6.cc/2023/03/167822658707631.png);
+background-size: 220% auto;border-radius: 10px 0px  10px 0px !important;background-image: url(https://up6.cc/2023/03/167823050970461.png);
 	background-size: 100%;
 -webkit-text-fill-color:#000;
 }`);
@@ -139,7 +139,7 @@ $("style").last().append(`
   border-radius:  15px 0 0px!important;
   border: 1px solid #c4c8dc;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2023/03/167822658707631.png);
+  background-image: url(https://up6.cc/2023/03/167823050970461.png);
   background-size: cover;
 }
 #d2.mkhml .uzr .fitimg.u-pic {
@@ -164,10 +164,10 @@ height: 52px;
 #d0.mkhml {
   border-radius:  15px 0 0px!important;
   border: 1px solid #c4c8dc1c;
-  background-image: url(https://up6.cc/2023/03/167822658707631.png);
+  background-image: url(https://up6.cc/2023/03/167823050970461.png);
   background-size: cover;
 }
-#d2.mkhml .label-primary{background-color:#b77c9a!important}#d2.mkhml .bg{background-color:#b77c9a!important}#d2.mkhml .uzr.d-flex.mm.hmsg{border-radius:  15px 0 0px;background-color:#d8dae89e!important}#dpnl.mkhml{background-size: 100%;background-image: url(https://up6.cc/2023/03/167822658707631.png);background-color: #b2b2b2;  }#d0.mkhml .nosel.fl.bg.{background-color:#b77c9a!important;  }#users.mkhml span.uhash{text-transform:uppercase;background-image:linear-gradient(100deg, #5c5c5c 0%, #482d5e 29%, #a07dbc 67%, #5c5c5c 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
+#d2.mkhml .label-primary{background-color:#b77c9a!important}#d2.mkhml .bg{background-color:#b77c9a!important}#d2.mkhml .uzr.d-flex.mm.hmsg{border-radius:  15px 0 0px;background-color:#d8dae89e!important}#dpnl.mkhml{background-size: 100%;background-image: url(https://up6.cc/2023/03/167823050970461.png);background-color: #b2b2b2;  }#d0.mkhml .nosel.fl.bg.{background-color:#b77c9a!important;  }#users.mkhml span.uhash{text-transform:uppercase;background-image:linear-gradient(100deg, #5c5c5c 0%, #482d5e 29%, #a07dbc 67%, #5c5c5c 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
 #users.mkhml .mini.u-msg{text-align:center;}#rooms.mkhml .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius:  15px 0 0px!important}
 #rooms.mkhml .label-primary {
     border-radius:  15px 0 0px!important;
@@ -194,7 +194,7 @@ height: 52px;
     border-radius:  15px 0 0px!important;
     background-color: #b2b2b2;
 	color: #484848;
-	background-image: url(https://up6.cc/2023/03/167822658707631.png);
+	background-image: url(https://up6.cc/2023/03/167823050970461.png);
     background-size: cover;
 }
 #d0.mkhml .label-primary {
@@ -208,7 +208,7 @@ height: 52px;
   border-radius:  15px 0 0px!important;
   border: 1px solid #c4c8dc;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2023/03/167822658707631.png);
+  background-image: url(https://up6.cc/2023/03/167823050970461.png);
   background-size: cover;
   color: black;
 }
@@ -216,7 +216,7 @@ height: 52px;
   border-radius:  15px 0 0px!important;
   border: 1px solid #c4c8dc;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2023/03/167822658707631.png);
+  background-image: url(https://up6.cc/2023/03/167823050970461.png);
   background-size: cover;
   color: black;
 }
@@ -227,7 +227,7 @@ border: 1px solid #ac96bd;
     background-color: #ebe6f0;
 }
 #room.mkhml #mic{
-background-image: url(https://up6.cc/2023/03/167822658707631.png);
+background-image: url(https://up6.cc/2023/03/167823050970461.png);
 background-size: cover;
 border-radius:  15px 0 0px!important;
 }
@@ -279,34 +279,34 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 .corner.border.label.label-primary.mkhml {
   border-radius:  15px 0 0px!important;
   border: 1px solid #c4c8dc;
-  background-image: url(https://up6.cc/2023/03/167822658707631.png);
+  background-image: url(https://up6.cc/2023/03/167823050970461.png);
   background-size: cover;
 }
 .modal-header.label-primary.mkhml {
 	border-radius:  15px 0 0px!important;
     border: 1px solid #c4c8dc;
     background-color: #b2b2b2!important;
-	background-image: url(https://up6.cc/2023/03/167822658707631.png);
+	background-image: url(https://up6.cc/2023/03/167823050970461.png);
     background-size: cover;
 }
 .head.d-flex.nosel.bg.fl.mkhml, .rsave.btn.btn-primary.fr.mkhml, .fa.fa-send.sndpm.fl.btn.btn-primary.mkhml, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.mkhml, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.mkhml, .bdel.corner.btn.minix.btn-primary.fa.fa-times.mkhml, .fa.fa-send.sndbc.fl.btn.btn-primary.mkhml {
     border-radius:  15px 0 0px!important;
     border: 1px solid #f1f1f1;
-    background-image: url(https://up6.cc/2023/03/167822658707631.png);
+    background-image: url(https://up6.cc/2023/03/167823050970461.png);
     color: #484848;
     background-size: 100%;
 }
 .btn.btn-primary.u-nickc.fr.fa.fa-save.mkhml {
     border-radius:  15px 0 0px!important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2023/03/167822658707631.png);
+    background-image: url(https://up6.cc/2023/03/167823050970461.png);
     color: #484848;
     background-size: 100%;
 }
 .label.fl.label-primary.mkhml {
     border-radius:  15px 0 0px!important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2023/03/167822658707631.png);
+    background-image: url(https://up6.cc/2023/03/167823050970461.png);
     color: #484848;
     background-size: 100%;
 }
@@ -358,12 +358,12 @@ button.border.btn.label.label-success.fl.fa.fa-plus.mkhml {
    border-radius:  15px 0 0px;
 }
 button.rsave.btn.btn-primary.fl.mkhml {
-   background-image: url(https://up6.cc/2023/03/167822658707631.png);
+   background-image: url(https://up6.cc/2023/03/167823050970461.png);
    background-size: cover;
    border-radius:  15px 0 0px;
 }
 #d2.mkhml .uzr.d-flex.mm.hmsg {
-        background-color: #3a1e5054 !important;
+        background-color: #3a1e5040 !important;
    border-radius:  15px 0 0px;
 }
 
@@ -374,7 +374,7 @@ button.rsave.btn.btn-primary.fl.mkhml {
 
 #chats.mkhml {
       background-color: #f5f5f5 !important;
-      background-image: url("https://up6.cc/2023/03/167822805670921.gif");
+      background-image: url("https://up6.cc/2023/03/16782306362011.png");
     background-size: 100%;
 background-color: #f5f5f5 !important;
   }
