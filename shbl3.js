@@ -3300,7 +3300,7 @@ margin-left: -40px;
 var l_itvtthkr=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvtthkr);
-        $("#users .uzr:contains('65')").each(function(i,e){ e=$(e); if(e.find('.u-topic').text()=='*تذ+كار'){e.addClass('tthkar1')}})
+        $("#users .uzr:contains('65')").each(function(i,e){ e=$(e); if(e.find('.u-topic').text()=='*تذ+كار.'){e.addClass('tthkar1')}})
 		
 		
 		
