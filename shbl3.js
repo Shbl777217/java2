@@ -763,6 +763,9 @@ $("style").last().append(`
 }
 
 #users .uzr.tot span.uhash{
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
 
 -webkit-text-fill-color: transparent;
 
