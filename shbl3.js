@@ -1,3 +1,130 @@
+
+$("style").last().append(`
+
+#users .uzr.awham img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.awham span.uhash{
+    -webkit-text-fill-color: transparent;
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;}
+
+
+#users .uzr.awham img.u-ico {
+margin-left: 9px;
+
+
+     
+
+      
+    }
+
+#users .uzr.awham img.ustat {
+      width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 14px;
+  z-index: 0 !important;
+  display: none;
+      
+    }
+
+#users .uzr.awham .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 9px !important;
+  height: 52px !important;
+  margin-left: 9px!important;
+  z-index: 0 !important;
+margin-bottom: 11px !important;
+padding: 29px !important;
+border:1px solid #2e2e2e;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000;
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+}
+
+#users .uzr.awham .u-msg {
+-webkit-background-clip: text;
+  
+  font-size: 93% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2022/12/167183568860261.gif);
+  padding: 0px !important;
+	margin-bottom: 20px !important;
+margin-right: 28px !important;
+margin-left: 15px;
+background-size: cover;
+margin-top: 10px !important;
+
+}
+
+
+
+
+
+#users .uzr.awham {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 18px 0px 18px 18px;
+   
+  
+  border: 1px solid #000;
+ background-image: url(https://up6.cc/2023/03/167831001376861.png);
+background-size: 100%;
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 3px rgb(0 0 0), 0 0 0 0px #000;
+    
+}
+
+
+
+#users .uzr.awham .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.awham .u-topic {
+ 
+  margin-left: 5px ;
+
+}
+
+
+
+
+
+`);
+
+const _awh56zznz4 = [
+    { deco: "𝐀𝐖𝐇𝐀𝐌", cls: "awham"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _awh56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+               
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+
+
+
+
 $("style").last().append(`
 
 #users .uzr.hhqq img.co {
