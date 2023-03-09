@@ -3489,44 +3489,71 @@ setInterval(() => {
 
 
 
+
+
 $("style").last().append(`
 
+#users .uzr.Shbl img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.Shbl span.uhash{
+    -webkit-text-fill-color: transparent;
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;}
 
 
+#users .uzr.Shbl img.u-ico {
+margin-left: 9px;
 
-#users .uzr.shbl1 img.ustat {
+
+     
+
+      
+    }
+
+#users .uzr.Shbl img.ustat {
       width: 54px !important;
   border-radius: 0px 50px 50px 50px !important;
   height: 52px !important;
   margin-top: 5px !important;
   min-height: 0% !important;
-  margin-left: 10px;
+  margin-left: 14px;
   z-index: 0 !important;
   display: none;
       
     }
 
-#users .uzr.shbl1 .fitimg.u-pic {
+#users .uzr.Shbl .fitimg.u-pic {
   border-radius: 100px !important;
-  margin-top: 9px !important;
+  margin-top: 6px !important;
   height: 52px !important;
-  margin-left: 12px!important;
+  margin-left: 18px!important;
   z-index: 0 !important;
-margin-bottom: 9px !important;
+margin-bottom: 8px !important;
+padding: 28px !important;
+border:1px solid #2e2e2e;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000;
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 
-#users .uzr.shbl1 .u-msg {
-	text-align: center;
-  -webkit-background-clip: text;
-  padding: 1px !important;
-  font-size: 89% !important;
+#users .uzr.Shbl .u-msg {
+-webkit-background-clip: text;
+  
+  font-size: 93% !important;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2022/12/167226515511691.gif);
+ background-image: url(https://up6.cc/2022/12/167183568860261.gif);
   padding: 0px !important;
-  font-size: 89% !important;
-	margin-bottom: 6px !important;
+	margin-bottom: 7px !important;
+
+margin-left: 2px;
 background-size: cover;
-margin-top: 5px !important;
+margin-top: 7px !important;
 
 }
 
@@ -3534,53 +3561,60 @@ margin-top: 5px !important;
 
 
 
-#users .uzr.shbl1 {
+#users .uzr.Shbl {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 4px;
-  background-image: 
-  background-size: cover;
-  border: 1px solid #fff;
-background-image: linear-gradient(-225deg, rgb(255, 192, 0) 0%, rgba(255, 255, 0, 0.01) 8%, rgba(255, 255, 0, 0.01) 92%, rgb(255, 192, 0) 100%);
+  border-radius: 18px 0px 18px 18px;
+   
+  
+  border: 1px solid #000;
+ background-image: url(https://up6.cc/2023/03/16783998552941.png);
+background-size: 100%;
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 3px rgb(0 0 0), 0 0 0 0px #000;
     
 }
 
 
 
-#users .uzr.shbl1 .d-flex.fl {
+#users .uzr.Shbl .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzr.shbl1 .u-topic {
-  margin-left: 5px;
+#users .uzr.Shbl .u-topic {
+ -webkit-text-fill-color: transparent;
+  margin-left: 5px ;
+
 }
 
-#users .uzr.shbl1 .itar_shbl {
- width: 72px;
-height: 72px;
-margin-top: -10px;
+#users .uzr.Shbl .itarr_Shbl1 {
+ width: 92px;
+height: 92px;
+margin-top: -45px;
 cursor: pointer;
-margin-left: -10px;
+margin-left: -47px;
 }
-
 
 
 
 `);
 
-var l_itvshbl=setInterval(function(){
-    if(myid!=null){
-        clearInterval(l_itvshbl);
-        $("#users .uzr:contains('א')").addClass('shbl1');
-        $("#users .uzr.shbl1 .fitimg.u-pic").append('<img class="itar_shbl" title="اطاري" src="https://up6.cc/2022/12/167209273598672.png">');
-     
+const _Sbl56zznz4 = [
+    { name: "Shbl1", deco: "א", cls: "Shbl", icon: "https://up6.cc/2023/03/167839668797841.gif"}
+];
 
-    }
-}, 20000);
-
-
-
+setInterval(() => {
+    if(myid != null){
+        _Sbl56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
+            } 
+        });
+    }
+}, 3 * 1000);
 
 
 
