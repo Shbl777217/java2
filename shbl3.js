@@ -3491,6 +3491,10 @@ setInterval(() => {
 
 
 
+
+
+
+
 $("style").last().append(`
 
 #users .uzr.Shbl img.co {
@@ -3531,7 +3535,7 @@ margin-left: 9px;
   border-radius: 100px !important;
   margin-top: 6px !important;
   height: 52px !important;
-  margin-left: 18px!important;
+  margin-left: 14px!important;
   z-index: 0 !important;
 margin-bottom: 8px !important;
 padding: 28px !important;
@@ -3601,7 +3605,7 @@ margin-left: -47px;
 `);
 
 const _Sbl56zznz4 = [
-    { name: "Shbl1", deco: "א", cls: "Shbl", icon: "https://up6.cc/2023/03/167839668797841.gif"}
+    { name: "Shbl1", deco: "?", cls: "Shbl", icon: "https://up6.cc/2023/03/167839668797841.gif"}
 ];
 
 setInterval(() => {
@@ -3610,12 +3614,11 @@ setInterval(() => {
             const user = $("#users .uzr:contains('"+item.deco+"')");
             if(user && !user.hasClass(item.cls)) {
                 $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
-                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="?????" src="'+item.icon+'">');
             } 
         });
     }
 }, 3 * 1000);
-
 
 
 
