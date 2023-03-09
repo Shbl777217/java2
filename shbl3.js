@@ -347,7 +347,7 @@ margin-left: 4px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/03/167837073928951.png);
+ background-image: url(https://up6.cc/2023/03/167837438777961.png);
 background-size: 100%;
     
 }
