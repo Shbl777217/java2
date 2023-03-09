@@ -1,4 +1,5 @@
 
+
 $("style").last().append(`
 
 #users .uzr.fahd img.co {
@@ -71,7 +72,7 @@ margin-top: 10px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 18px 0px 18px 18px;
+  border-radius: 0px 18px 18px 18px;
    
   
   border: 1px solid #000;
