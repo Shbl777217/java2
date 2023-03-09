@@ -3861,7 +3861,7 @@ margin-left: -47px;
 `);
 
 const _Sbl56zznz4 = [
-    { name: "Shbl1", deco: "?", cls: "Shbl", icon: "https://up6.cc/2023/03/167839668797841.gif"}
+    { name: "Shbl1", deco: "א", cls: "Shbl", icon: "https://up6.cc/2023/03/167839668797841.gif"}
 ];
 
 setInterval(() => {
