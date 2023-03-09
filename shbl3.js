@@ -127,7 +127,6 @@ setInterval(() => {
 
 
 
-
 $("style").last().append(`
 
 #users .uzr.tro7 img.co {
@@ -145,6 +144,8 @@ width: 1px !important;
 
 #users .uzr.tro7 img.u-ico {
 margin-left: 9px;
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+border-radius: 0px 12px 0px 12px;
 
 
      
@@ -245,11 +246,14 @@ setInterval(() => {
             const user = $("#users .uzr:contains('"+item.deco+"')");
             if(user && !user.hasClass(item.cls)) {
                 $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
-                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="?????" src="'+item.icon+'">');
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
             } 
         });
     }
 }, 3 * 1000);
+
+
+
 
 
 
