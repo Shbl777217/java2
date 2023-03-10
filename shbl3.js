@@ -356,7 +356,7 @@ background-size: 100%;
 `);
 
 const _fhd56zznz4 = [
-    { deco: "𝐅𝐀𝐇𝐀𝐃", cls: "fahd"}
+    { deco: "𝐅𝐀𝐇𝐀𝐃 ⅏", cls: "fahd"}
 ];
 
 setInterval(() => {
