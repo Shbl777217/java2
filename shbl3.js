@@ -5341,6 +5341,8 @@ setInterval(() => {
 
 
 
+
+
 $("style").last().append(`
 
 #users .uzr.meroo img.co {
@@ -5460,11 +5462,10 @@ setInterval(() => {
             const user = $("#users .uzr:contains('"+item.deco+"')");
             if(user && !user.hasClass(item.cls)) {
                 $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
-                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="?????" src="'+item.icon+'">');
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
             } 
         });
     }
 }, 3 * 1000);
-
 
 
