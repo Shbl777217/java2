@@ -5220,13 +5220,14 @@ $("style").last().append(`
 }
 
 #users .uzr.ghsh span.uhash{
-    margin-right: 350px;
-  
-  margin-left: 0px;}
+   -webkit-text-fill-color: transparent;
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;}
 
 
 #users .uzr.ghsh img.u-ico {
-margin-left: 3px;
+margin-left: 0px;
     
      
 
@@ -5247,11 +5248,11 @@ margin-left: 3px;
 
 #users .uzr.ghsh .fitimg.u-pic {
   border-radius: 100px !important;
-  margin-top: 8px !important;
+  margin-top: 6px !important;
   height: 52px !important;
-  margin-left: 5px!important;
+  margin-left: 3px!important;
   z-index: 0 !important;
-margin-bottom: 0px !important;
+margin-bottom: 9px !important;
 padding: 30px !important;
 border:2px solid #b3b3c4;margin-top:3px;border-radius:100px;
 
@@ -5297,7 +5298,7 @@ background-size: 100%;
 }
 
 #users .uzr.ghsh .u-topic {
-
+-webkit-text-fill-color: transparent;
   margin-left: 4px;
 margin-bottom: 33px !important;
 }
