@@ -3519,6 +3519,9 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #5b5b5b}
 
 
 
+
+
+
 $(`<style>
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .fitimg.u-pic.borderg {
   letter-spacing: 1px;
@@ -3530,47 +3533,47 @@ $(`<style>
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .label-primary {letter-spacing: 1px;
   -webkit-text-fill-color: transparent;
 	animation: textclip 3s linear infinite;
-	background-image: linear-gradient(100deg, #000 0%, #00bbea 29%, #007aad 67%, #000 100%);
+	background-image: linear-gradient(100deg, #000 0%, #3e739f 29%, #000 67%, #3e739f 100%);
     background-size: 200% 200%;
 	-webkit-background-clip: text;
 	color: transparent !important;
 	
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
-  margin-top: 10px !important;
+  margin-top: 0px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00;
   text-align: left!important;
-  margin-left: 88px!important;}
+  margin-left: 128px!important;}
 
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 1px;
   -webkit-text-fill-color: transparent;
 	animation: textclip 3s linear infinite;
-	background-image: linear-gradient(100deg, #000 0%, #00bbea 29%, #007aad 67%, #000 100%);
+	background-image: linear-gradient(100deg, #000 0%, #3e739f 29%, #000 67%, #3e739f 100%);
     background-size: 200% 200%;
 	-webkit-background-clip: text;
 	color: transparent !important;
 	
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
-  margin-top: 10px !important;
+  margin-top: 0px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00;
   text-align: left!important;
-  margin-left: 88px!important;
+  margin-left: 128px!important;
 }
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .dots.mini.u-msg {
     text-align: center;
-    margin-top: 80px !important;
+    margin-top: 0px !important;
 	margin-left: 10px;
 	-webkit-text-fill-color: transparent;
 	color: transparent !important;
 	background-size: 100% 100%;
 }
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv {
-    background-image: url(https://up6.cc/2023/03/167840328184531.png);
+    background-image: url(https://up6.cc/2023/03/167864913587151.png);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
@@ -3588,12 +3591,13 @@ $(`<style>
   max-height: 60px !important;
   display: none;
 }
-.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .u-topic.dots {text-transform: uppercase;background-image: linear-gradient(-225deg, #000 0%, #00bbea 29%, #007aad 67%, #000 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;
+.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .u-topic.dots {text-transform: uppercase;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;
 	margin-bottom: 0px !important;
 margin-right: 0px !important;
 margin-left: 70px;
 
-margin-top: 15px !important;
+margin-top: 40px !important;
+-webkit-text-fill-color: transparent;
 }
 
 
@@ -3811,6 +3815,10 @@ d2.aym2.flex-grow-1.break.light{
         } 
     }, 10);
   
+
+
+
+
 
 
 
