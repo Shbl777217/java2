@@ -244,11 +244,7 @@ border-radius:  0px 10px 0px 10px !important;!important;
     border: 1px solid #ac96bd;
     background-color: #ebe6f0;
 }
-#upro.aym .light.fl.pro.break {
-    background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
-    background-image: url(https://up6.cc/2023/03/167822840479131.png);
-    background-size: 100% ;
-}
+
 #mic.aym #muteall {
     border-radius:  0px 10px 0px 10px !important;
     margin-top: 1px;
@@ -370,12 +366,7 @@ button.rsave.btn.btn-primary.fl.aym {
 border-radius:  0px 10px 0px 10px !important;
 }
 
-#chats.aym {
-      background-color: #f5f5f5 !important;
-      background-image: url("https://up6.cc/2023/03/16782306362011.png");
-    background-size: 100%;
-background-color: #f5f5f5 !important;
-  }
+
 `);
 var ayym = false;
 setInterval(function () {
