@@ -92,7 +92,7 @@ var roomiddal='184116e9376x9b7d8297x-7r4mtv';
     font-family: sans-serif;
     background-image: url(https://up6.cc/2023/03/167874441311421.png);
 	background-size: 100%;
--webkit-text-fill-color:#000;
+-webkit-text-fill-color:#fafafa;
     background-size: 100% 100%;
     margin-top: -5px;}`);
     
@@ -124,7 +124,7 @@ var roomiddal='184116e9376x9b7d8297x-7r4mtv';
 
 background-size: 220% auto;border-radius: 10px 0px  10px 0px !important;background-image: url(https://up6.cc/2023/03/167874441311421.png);
 	background-size: 100%;
--webkit-text-fill-color:#000;
+-webkit-text-fill-color:#fafafa;
 }`);
 
 $("style").last().append(`
@@ -190,7 +190,7 @@ height: 52px;
 #users.aym .nosel.ninr.fl.uzr.label.bg {
     border-radius:  0px 10px 0px 10px !important;!important;
     background-color: #b2b2b2;
-	color: #484848;
+	color: #fafafa;
 	background-image: url(https://up6.cc/2023/03/167874441311421.png);
     background-size: cover;
 }
@@ -207,7 +207,7 @@ height: 52px;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/03/167874441311421.png);
   background-size: cover;
-  color: black;
+  color: #fafafa;
 }
 #settings.aym .btn-primary {
   border-radius:  0px 10px 0px 10px !important;!important;
@@ -215,7 +215,7 @@ height: 52px;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/03/167874441311421.png);
   background-size: cover;
-  color: black;
+  color: #fafafa;
 }
 #settings.aym .bg-primary{background-color:#9d8980!important}#d0.aym .btn-primary{background-color:#9d8980!important}
 #users.aym .tbox {
@@ -286,21 +286,21 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
     border-radius:  0px 10px 0px 10px !important;!important;
     border: 1px solid #f1f1f1;
     background-image: url(https://up6.cc/2023/03/167874441311421.png);
-    color: #484848;
+    color: #fafafa;
     background-size: 100%;
 }
 .btn.btn-primary.u-nickc.fr.fa.fa-save.aym {
     border-radius:  0px 10px 0px 10px !important;!important;
     border: 1px solid #e7e7e7;
     background-image: url(https://up6.cc/2023/03/167874441311421.png);
-    color: #484848;
+    color: #fafafa;
     background-size: 100%;
 }
 .label.fl.label-primary.aym {
     border-radius:  0px 10px 0px 10px !important;!important;
     border: 1px solid #e7e7e7;
     background-image: url(https://up6.cc/2023/03/167874441311421.png);
-    color: #484848;
+    color: #fafafa;
     background-size: 100%;
 }
 
