@@ -220,8 +220,8 @@ height: 52px;
 #settings.aym .bg-primary{background-color:#9d8980!important}#d0.aym .btn-primary{background-color:#9d8980!important}
 #users.aym .tbox {
     border-radius:  0px 10px 0px 10px !important;!important;
-border: 1px solid #ac96bd;
-    background-color: #ebe6f0;
+border: 1px solid #000;
+    background-color: #e6ebf0;
 }
 #room.aym #mic{
 background-image: url(https://up6.cc/2023/03/167874441311421.png);
@@ -238,11 +238,11 @@ border-radius:  0px 10px 0px 10px !important;!important;
     color: #fafafa;
     font-size: 14px !important;
 }
-#d2.aym{background-color:#f4f1f7 !important;}
+#d2.aym{background-color:#f1f5f7 !important;}
 #room.aym .tablebox.d-flex.footer.fl.light {
     border-radius:  0px 10px 0px 10px !important;!important;
-    border: 1px solid #ac96bd;
-    background-color: #ebe6f0;
+    border: 1px solid #000;
+    background-color: #e6ebf0;
 }
 
 #mic.aym #muteall {
