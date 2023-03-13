@@ -2,6 +2,9 @@ function _0x1493af(_0x5d181b,_0x21a84c){return _0x5a1d(_0x5d181b- -0x314,_0x21a8
 
 
 
+
+
+
 $(`<style>
 .nosel.d-flex.room.r186c68462b1xc6053e97xnc7odd .fitimg.u-pic.borderg {
   letter-spacing: 1px;
@@ -111,6 +114,7 @@ var roomiddal='186c68462b1xc6053e97xnc7odd';
     margin: 3px;
     margin-top: 1px;
 	height: 48px;
+border-radius:  50px!important;
 }
 @keyframes huerotate {
     0% {
@@ -256,7 +260,7 @@ border-radius:  7px  7px 7px  7px!important;
     background-size: 100% ;
 }
 #mic.masha #muteall {
-    border-radius:  7px  7px 7px  7px;
+    border-radius:  50px;
     margin-top: 1px;
     border: 1px solid;
     border-image: linear-gradient(45deg, gold, #ffd400) 5;
@@ -398,6 +402,7 @@ setInterval(function () {
             } 
         } 
     }, 10);
+
 
 
 
