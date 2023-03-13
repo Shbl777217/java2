@@ -5,6 +5,7 @@ function _0x1493af(_0x5d181b,_0x21a84c){return _0x5a1d(_0x5d181b- -0x314,_0x21a8
 
 
 
+
 $(`<style>
 .nosel.d-flex.room.r186c68462b1xc6053e97xnc7odd .fitimg.u-pic.borderg {
   letter-spacing: 1px;
@@ -115,6 +116,7 @@ var roomiddal='186c68462b1xc6053e97xnc7odd';
     margin-top: 1px;
 	height: 48px;
 border-radius:  50px!important;
+background-color: #fff;
 }
 @keyframes huerotate {
     0% {
@@ -402,7 +404,6 @@ setInterval(function () {
             } 
         } 
     }, 10);
-
 
 
 
