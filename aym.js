@@ -372,7 +372,7 @@ border-radius:  0px 10px 0px 10px !important;
 
 #chats.aym {
       background-color: #f5f5f5 !important;
-      background-image: url("https://up6.cc/2023/03/167882762144831.png");
+      background-image: url("https://up6.cc/2023/03/167882949852691.png");
     background-size: 100%;
 background-color: #f5f5f5 !important;
   }
