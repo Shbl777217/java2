@@ -53,7 +53,7 @@ $(`<style>
 	background-size: 100% 100%;
 }
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv {
-    background-image: url(https://up6.cc/2023/03/167875080557311.png);
+    background-image: url(https://up6.cc/2023/03/167874627754131.png);
     background-size: cover ;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
@@ -244,7 +244,11 @@ border-radius:  0px 10px 0px 10px !important;!important;
     border: 1px solid #000;
     background-color: #e6ebf0;
 }
-
+#upro.aym .light.fl.pro.break {
+    background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
+    background-image: url(https://up6.cc/2023/03/167882875488511.png);
+    background-size: 100% ;
+}
 #mic.aym #muteall {
     border-radius:  0px 10px 0px 10px !important;
     margin-top: 1px;
@@ -366,7 +370,16 @@ button.rsave.btn.btn-primary.fl.aym {
 border-radius:  0px 10px 0px 10px !important;
 }
 
-
+#chats.aym {
+      background-color: #f5f5f5 !important;
+      background-image: url("https://up6.cc/2023/03/167882762144831.png");
+    background-size: 100%;
+background-color: #f5f5f5 !important;
+  }
+#d2.aym .uzr.d-flex.mm{
+background-image: url(https://up6.cc/2023/03/167882739000191.png);
+   background-size: cover;
+   border-radius: 10px 0 10px;}
 `);
 var ayym = false;
 setInterval(function () {
