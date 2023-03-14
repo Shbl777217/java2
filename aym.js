@@ -246,7 +246,7 @@ border-radius:  0px 10px 0px 10px !important;!important;
 }
 #upro.aym .light.fl.pro.break {
     background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
-    background-image: url(https://up6.cc/2023/03/167882875488511.png);
+    background-image: url(https://up6.cc/2023/03/167882930730131.png);
     background-size: 100% ;
 }
 #mic.aym #muteall {
