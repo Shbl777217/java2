@@ -53,7 +53,7 @@ $(`<style>
 	background-size: 100% 100%;
 }
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv {
-    background-image: url(https://up6.cc/2023/03/167883710204291.png);
+    background-image: url(https://up6.cc/2023/03/167890807765251.png);
     background-size: cover ;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
@@ -105,6 +105,7 @@ var roomiddal='184116e9376x9b7d8297x-7r4mtv';
     margin: 3px;
     margin-top: 1px;
 	height: 48px;
+background-color: #b2c7cc ;
 }
 @keyframes huerotate {
     0% {
@@ -386,7 +387,7 @@ background-color: #f5f5f5 !important;
   }
 
 #d2.aym .uzr.d-flex.mm {
-background-image: url(https://up6.cc/2023/03/167883705969391.png);
+background-image: url(https://up6.cc/2023/03/167890834053061.png);
    background-size: 100% ;
    border-radius: 10px 0 10px;}
 
