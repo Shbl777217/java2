@@ -3585,7 +3585,7 @@ $(`<style>
 	background-size: 100% 100%;
 }
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv {
-    background-image: url(https://up6.cc/2023/03/167891829541031.png);
+    background-image: url(https://up6.cc/2023/03/167892066709961.png);
     background-size: cover ;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
