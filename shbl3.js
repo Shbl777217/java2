@@ -61,7 +61,7 @@ text-align:center;
  -webkit-text-fill-color: transparent;
 
   padding: 0px !important;
-	margin-bottom: -2px !important;
+	margin-bottom: 0px !important;
 
 
 margin-top: 15px !important;
