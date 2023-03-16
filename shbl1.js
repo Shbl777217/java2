@@ -3540,6 +3540,9 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #5b5b5b}
 
 
 
+
+
+
 $(`<style>
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .fitimg.u-pic.borderg {
   letter-spacing: 1px;
@@ -3591,7 +3594,7 @@ $(`<style>
 	background-size: 100% 100%;
 }
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv {
-    background-image: url(https://up6.cc/2023/03/167891829541031.png);
+    background-image: url(https://up6.cc/2023/03/167899806024061.png);
     background-size: cover ;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
@@ -3949,8 +3952,6 @@ setInterval(function () {
             } 
         } 
     }, 10);
-
-
 
 
 
