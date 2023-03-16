@@ -3,6 +3,132 @@
 
 
 
+$("style").last().append(`
+
+
+
+#users .uzr.northm span.uhash{
+    width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+-webkit-text-fill-color: transparent;}
+
+
+#users .uzr.northm img.u-ico {
+       width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+      
+    }
+
+#users .uzr.northm img.ico {
+       width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+      
+    }
+
+
+#users .uzr.northm img.ustat {
+      width: 0px !important;
+      border-radius: 100px;
+      height: 0px;
+     
+      
+    }
+
+#users .uzr.northm .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 9px !important;
+  height: 52px !important;
+  margin-left: 12px!important;
+  z-index: 0 !important;
+margin-bottom: 9px !important;
+padding: 27px !important;
+border:1px solid #000;margin-top:2px;border-radius:5px;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #3e3e3e
+}
+
+#users .uzr.northm .u-msg {
+	
+  -webkit-background-clip: text;
+  
+  font-size: 93% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/01/167458934291671.gif);
+  padding: 0px !important;
+	margin-bottom: 10px !important;
+margin-left: 15px;
+background-size: cover;
+margin-top: 10px !important;
+
+}
+
+
+
+
+
+#users .uzr.northm {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px;
+  background-image: 
+  border: 1px solid #fff;
+background-image: url(https://up6.cc/2023/03/167899681133631.png);
+background-size: 100%;
+}
+
+
+#users .uzr.northm .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.northm .u-topic {
+ 
+    -webkit-text-fill-color: transparent;
+
+}
+
+
+
+
+
+`);
+
+
+
+
+const _nortm56zznz4 = [
+    { deco: "*نورثثث*", cls: "northm", }
+];
+
+setInterval(() => {
+    if(myid != null){
+        _nortm56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 $("style").last().append(`
