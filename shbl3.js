@@ -15,8 +15,8 @@ $("style").last().append(`
 
 
 #users .uzr.northm img.u-ico {
-       width: 1px !important;
-    height: 1px !important;
+       width: 0px !important;
+    height: 0px !important;
   margin-right: 1px;
       
     }
