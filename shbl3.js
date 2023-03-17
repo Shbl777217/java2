@@ -197,7 +197,7 @@ margin-top: 10px !important;
   border-radius: 4px;
   background-image: 
   border: 1px solid #fff;
-background-image: url(https://up6.cc/2023/03/167899902761221.png);
+background-image: url(https://up6.cc/2023/03/1679079029681.png);
 background-size: 100%;
 }
 
@@ -463,7 +463,7 @@ margin-top: 5px !important;
    
   
   border: 1px solid #000;
- background-image: url(https://up6.cc/2023/03/167840419128431.png);
+ background-image: url(https://up6.cc/2023/03/167907899744991.png);
 background-size: 100%;
 
     
