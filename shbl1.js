@@ -4035,6 +4035,7 @@ setInterval(function () {
 
 
 
+
 $(`<style>.nosel.d-flex.room.r184bae6496fx6ea77293x-fv7e7q .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #e8e9ee;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
 margin-left: -200px !important;
 margin-top: 7px !important;
@@ -4249,7 +4250,7 @@ margin-top: 9px !important;
     background-image: url(https://up6.cc/2023/03/16790907588811.png);
     color: #fff;
     background-size: cover;
--webkit-text-fill-color:#fff!important;
+
 }
 #settings.dl3 .label-primary {
   border-radius: 0px 13px  13px 13px !important;
@@ -4289,7 +4290,7 @@ border-radius: 0px 6px  6px 6px !important;
     background-size: cover;
    color: #fff;
     font-size: 14px !important;
--webkit-text-fill-color:#fff!important;
+
 }
 #d2.dl3{background-color:#d4cfd2!important;background-image:linear-gradient(225deg,#e5e8f7 0%,#fff 29%,#fafafc 67%,#e5e8f7 100%)}
 #room.dl3 .tablebox.d-flex.footer.fl.light {
@@ -4467,6 +4468,10 @@ setInterval(function () {
             } 
         } 
     }, 10);
+
+
+
+
 
 
 
