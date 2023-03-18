@@ -5229,8 +5229,9 @@ width: 1px !important;
 
 
 #users .uzr.ghsh img.u-ico {
-margin-left: 0px;
-    
+margin-left: 2px;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+border-radius: 0px 2px 2px 9px;  
      
 
       
@@ -5262,7 +5263,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #b3b3c4
 }
 
 #users .uzr.ghsh .u-msg {
-	text-align: center;
+	
   -webkit-background-clip: text;
   
   font-size: 89% !important;
@@ -5270,7 +5271,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #b3b3c4
  background-image: url(https://up6.cc/2023/01/167459183804791.gif);
   padding: 0px !important;
 	margin-bottom: 0px !important;
-margin-left: 5px;
+margin-left: 8px;
 background-size: cover;
 margin-top: 11px !important;
 
@@ -5288,7 +5289,7 @@ margin-top: 11px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/02/167604063947431.png);
+ background-image: url(https://up6.cc/2023/03/167917283121121.png);
 background-size: 100%;
     
 }
@@ -5319,7 +5320,7 @@ margin-left: -39px;
 `);
 
 const _ghsshzznz4 = [
-    {name: "ghsh1", deco: "**غشيم", cls: "ghsh", icon: "https://up6.cc/2023/02/167603901149211.png"}
+    {name: "ghsh1", deco: "**غشيم", cls: "ghsh", icon: "https://up6.cc/2023/03/167917101124521.png"}
 ];
 
 setInterval(() => {
