@@ -1,20 +1,21 @@
 
+
 $("style").last().append(`
 
-#users .uzraymn img.co {
+#users .uzr.aymn img.co {
   width: 1px !important;
     height: 1px !important;
   margin-right: 1px;
 }
 
-#users .uzraymn span.uhash{
+#users .uzr.aymn span.uhash{
     -webkit-text-fill-color: transparent;
 width: 1px !important;
     height: 1px !important;
   margin-right: 1px;}
 
 
-#users .uzraymn img.u-ico {
+#users .uzr.aymn img.u-ico {
 margin-left: 9px;
 width: 0px !important;
     height: 0px !important;
@@ -25,7 +26,7 @@ width: 0px !important;
       
     }
 
-#users .uzraymn img.ustat {
+#users .uzr.aymn img.ustat {
       width: 0px !important;
     height: 0px !important;
     min-height: 0%!important;
@@ -37,7 +38,7 @@ width: 0px !important;
       
     }
 
-#users .uzraymn .fitimg.u-pic {
+#users .uzr.aymn .fitimg.u-pic {
   border-radius: 100px !important;
   margin-top: 5px !important;
   height: 0px !important;
@@ -50,7 +51,7 @@ border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
 }
 
-#users .uzraymn .u-msg {
+#users .uzr.aymn .u-msg {
 text-align:center;
 	
   -webkit-background-clip: text;
@@ -71,14 +72,14 @@ margin-left: -8px !important;
 
 
 
-#users .uzraymn {
+#users .uzr.aymn {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border-radius: 4px 4px 4px 4px;
    
   
-  border: 1px solid #000;
+  border: 1px solid #fff;
  background-image: url(https://up6.cc/2023/03/167934704490681.png);
 background-size: 100%;
 
@@ -87,11 +88,11 @@ background-size: 100%;
 
 
 
-#users .uzraymn .d-flex.fl {
+#users .uzr.aymn .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzraymn .u-topic {
+#users .uzr.aymn .u-topic {
 -webkit-text-fill-color: transparent;
   margin-left: 9px ;
 
@@ -103,7 +104,7 @@ background-size: 100%;
 `);
 
 const _aymmn56zznz4 = [
-    { deco: "َM.", cls: "nrhrmd"}
+    { deco: "َM.", cls: "aymn"}
 ];
 
 setInterval(() => {
@@ -117,6 +118,7 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
 
 
 
