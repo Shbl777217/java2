@@ -13,7 +13,7 @@ margin-top: 7px !important;
 .nosel.d-flex.room.r186a0eb1751x05bc9ec5-x-mvjfyj img.fl {
  
         
-        margin-left: 50px !important;
+        margin-left: 120px !important;
 margin-top: 30px !important;
 	
     }
@@ -22,7 +22,7 @@ margin-top: 30px !important;
     .nosel.d-flex.room.r186a0eb1751x05bc9ec5-x-mvjfyj {
     border-radius: 0px 15px 15px 15px;
     display: inline-block;
-    background-image: url(https://up6.cc/2023/03/167926743619961.png);
+    background-image: url(https://up6.cc/2023/03/167927394225921.gif);
 	background-size: 100%;
 	padding: 5px !important;
 	
@@ -32,12 +32,21 @@ border-radius: 0px 20px 20px 20px !important;
 	
     }
     .nosel.d-flex.room.r186a0eb1751x05bc9ec5-x-mvjfyj .dots.mini.u-msg {
-	margin-bottom: 50px !important;
-margin-top: 30px !important;
-	text-align: right!important;
-	margin-left: 90px !important;
-    font-size: 1px !important;
-    -webkit-text-fill-color: transparent !important;
+text-align: center;
+background-image: url(https://up6.cc/2023/03/167927595196351.png);
+	background-size: cover;
+	margin-bottom: 40px !important;
+margin-top: 55px !important;
+margin-right: 40px !important;
+margin-left: 0px !important;
+
+	
+    font-size: 12px !important;
+   -webkit-text-fill-color: #391136;
+  
+	
+	
+border-radius: 20px 20px 20px 0px !important;
     
     }
     .nosel.d-flex.room.r186a0eb1751x05bc9ec5-x-mvjfyj .fitimg.u-pic.borderg{;background-size: 0% 0%;-webkit-text-fill-color: white;
@@ -169,7 +178,7 @@ height: 52px;
 
 #dpnl.dl3{background-size: 100%;background-image: url(https://up6.cc/2023/03/167926813965791.png);background-color: #b2b2b2;
 background-size: cover;
-color: #fff;
+
 }#d0.dl3 .nosel.fl.bg.{background-color:#465666!important;  }
 
 #users.dl3 span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#000 0,#1645dc 29%,#0f1835 67%,#7f7f7f 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
