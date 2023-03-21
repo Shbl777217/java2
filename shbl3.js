@@ -1,5 +1,6 @@
 
 
+
 $("style").last().append(`
 
 #users .uzr.aymn img.co {
@@ -63,7 +64,7 @@ text-align:center;
 	margin-bottom: -2px !important;
 
 
-margin-top: 15px !important;
+margin-top: 10px !important;
 margin-left: -8px !important;
 
 }
@@ -118,7 +119,6 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
-
 
 
 
