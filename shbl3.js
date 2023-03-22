@@ -1,3 +1,63 @@
+
+
+
+ $("style").last().append(`
+  #users .uzr.thn .u-topic {
+  -webkit-text-fill-color: #000;
+
+}
+#users .uzr.thn .u-msg {
+ 
+  padding: 0px !important;
+  font-size: 89% !important;
+  -webkit-text-fill-color: #000;
+
+}
+#users .uzr.thn {
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px 4px 4px 4px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/03/167943433200421.png);
+background-size: 100%;
+}
+#users .uzr.thn .d-flex.fl {
+  padding-right: 0px !important;
+}
+#users .uzr.thn .u-topic {
+  margin-left: 5px;
+}
+`);
+
+
+
+const _thanzznz4 = [
+    { deco: "ضنإني ، الشوق", cls: "thn"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _thanzznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+               
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+
+
+
+
+
 $("style").last().append(`
 
 #users .uzr.mshs img.co {
