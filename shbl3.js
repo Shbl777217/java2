@@ -1,6 +1,132 @@
 
 
 
+$("style").last().append(`
+
+#users .uzr.bandr img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.bandr span.uhash{
+    -webkit-text-fill-color: transparent;
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;}
+
+
+#users .uzr.bandr img.u-ico {
+margin-left: 9px;
+width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+    
+     
+
+      
+    }
+
+#users .uzr.bandr img.ustat {
+      width: 0px !important;
+    height: 0px !important;
+    min-height: 0%!important;
+    margin-right: 0;
+    z-index: 999999;
+    border-radius: 50px;
+    margin-left: 6px;
+    margin-top: 8px;
+      
+    }
+
+#users .uzr.bandr .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 5px !important;
+  height: 0px !important;
+  margin-left: -80px!important;
+  z-index: 0 !important;
+margin-bottom: 20px !important;
+padding: 0px !important;
+border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
+}
+
+#users .uzr.bandr .u-msg {
+text-align:center;
+	
+  -webkit-background-clip: text;
+  
+  font-size: 90% !important;
+ -webkit-text-fill-color: transparent;
+
+  padding: 0px !important;
+	margin-bottom: -2px !important;
+
+
+margin-top: 10px !important;
+margin-left: -8px !important;
+
+}
+
+
+
+
+
+#users .uzr.bandr {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px 4px 4px 4px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/03/167951769915861.gif);
+background-size: 100%;
+
+    
+}
+
+
+
+#users .uzr.bandr .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.bandr span.u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: -130px ;
+
+}
+
+
+
+
+`);
+
+const _bndr56zznz4 = [
+    { deco: "~Bandar* ", cls: "bandr"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _bndr56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+
+
+
+
  $("style").last().append(`
   #users .uzr.thn .u-topic {
   -webkit-text-fill-color: #000;
