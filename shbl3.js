@@ -105,7 +105,7 @@ background-size: 100%;
 `);
 
 const _bndr56zznz4 = [
-    { deco: "~Bandar* ", cls: "bandr"}
+    { deco: "~Bandar*", cls: "bandr"}
 ];
 
 setInterval(() => {
