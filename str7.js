@@ -1,16 +1,16 @@
 
 
 
-$(`<style>.nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf' .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #e8e9ee;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
+$(`<style>.nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #e8e9ee;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
 margin-left: -200px !important;
-margin-top: 18px !important;
+margin-top: 45px !important;
 }
 
-.nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf' .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #e8e9ee;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;
+.nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #e8e9ee;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;
 margin-left: -200px !important;
-margin-top: 18px !important;
+margin-top: 45px !important;
 }
-.nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf' img.fl {
+.nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf img.fl {
  
         
         margin-left: 50px !important;
@@ -18,8 +18,8 @@ margin-top: 30px !important;
 	
     }
 
-    .nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf'.bord {border-inline: 4px solid #484848 !important;}
-    .nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf' {
+    .nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf.bord {border-inline: 4px solid #484848 !important;}
+    .nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf {
     border-radius: 0px 15px 15px 15px;
     display: inline-block;
     background-image: url(https://up6.cc/2023/03/167958223348931.gif);
@@ -31,7 +31,7 @@ border-radius: 0px 20px 20px 20px !important;
         
 	
     }
-    .nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf' .dots.mini.u-msg {
+    .nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf .dots.mini.u-msg {
 	margin-bottom: 50px !important;
 margin-top: 30px !important;
 	text-align: right!important;
@@ -40,7 +40,7 @@ margin-top: 30px !important;
     -webkit-text-fill-color: transparent !important;
     
     }
-    .nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf' .fitimg.u-pic.borderg{;background-size: 0% 0%;-webkit-text-fill-color: white;
+    .nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf .fitimg.u-pic.borderg{;background-size: 0% 0%;-webkit-text-fill-color: white;
 	
 	height: 0px !important;
 	width : 0px !important;
@@ -49,7 +49,7 @@ margin-top: 30px !important;
 	background-color: transparent !important;
 	border: 2px solid transparent !important;
 	}
-    .nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf' .u-topic.dots {
+    .nosel.d-flex.room.r18698032f5ax4f9097b4-x-49koaf .u-topic.dots {
     text-transform: uppercase;
     -webkit-text-fill-color: transparent;
     animation: textclip 2s linear infinite;
@@ -64,7 +64,7 @@ margin-top: 30px !important;
    }
     @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 
-   var rid='18698032f5ax4f9097b4-x-49koaf'';
+   var rid='18698032f5ax4f9097b4-x-49koaf';
   
     
     
@@ -106,13 +106,7 @@ background-color: #000 !important;
     $("style").last().append(`
 
 	
-      #users.saudr .uzr{
-
-
-    border-radius: 0px 14px 14px 14px;
-    
-    background-color:#d4cfd2!important;background-image: url(https://up6.cc/2023/03/167908867851411.png);
-	background-size: 100%;}
+  
     
     #upro.saudr .border {
   border-radius: 0px 13px  13px 13px !important;
@@ -412,7 +406,7 @@ background-color: #f5f5f5 !important;
          
    var sauudroom = false;
 setInterval(function () {
-    if (myroom == '18698032f5ax4f9097b4-x-49koaf'') {
+    if (myroom == '18698032f5ax4f9097b4-x-49koaf') {
         if (sauudroom == false) {
             sauudroom = true;
                 $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('saudr');
