@@ -478,15 +478,13 @@ $(`<style>
 }
 .nosel.d-flex.room.r1817ebca2f8xc4da2df5x-ll99sc.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r1817ebca2f8xc4da2df5x-ll99sc .dots.mini.u-msg {
+background-image: url(https://up6.cc/2023/03/167959927008681.png);
+	border-radius: 6px 6px 6px 6px;
+	background-size: cover;
     text-align: center;
-    margin-top: 80px !important;
-	margin-left: 4px;
-	-webkit-text-fill-color: transparent;
-	animation: textclip 2s linear infinite;
-	background-image: url(https://up6.cc/2023/03/167952329577931.gif);
-	-webkit-background-clip: text;
-	color: transparent !important;
-	background-size: 100% 100%;
+    margin-top: 60px !important;
+	margin-left: 11px;
+	-webkit-text-fill-color: #000;
 }
 .nosel.d-flex.room.r1817ebca2f8xc4da2df5x-ll99sc {
     background-image: url(https://up6.cc/2023/03/167944294364231.gif);
@@ -521,8 +519,6 @@ $(`<style>
   display: none;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
-
-
 
 
 
