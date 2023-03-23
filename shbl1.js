@@ -511,10 +511,8 @@ background-image: url(https://up6.cc/2023/03/167959927008681.png);
   animation: textclip 2s linear infinite;
   display: inline-block;
   font-size: 22px !important;
-  background-image: url(https://up6.cc/2023/02/167744995843271.png);
   -webkit-background-clip: text;
   color: transparent !important;
-  background-size: 100% 100%;
   margin-top: 10px;
   display: none;
 }
