@@ -4626,7 +4626,7 @@ margin-left: -40px;
 var l_itvtthkr=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvtthkr);
-        $("#users .uzr:contains('65')").each(function(i,e){ e=$(e); if(e.find('.u-topic').text()=='*تذ+كار.'){e.addClass('tthkar1')}})
+        $("#users .uzr:contains('65')").each(function(i,e){ e=$(e); if(e.find('.u-topic').text()=='*تذكار.'){e.addClass('tthkar1')}})
 		
 		
 		
@@ -4641,6 +4641,130 @@ var l_itvtthkr=setInterval(function(){
 
      
 		
+
+
+$("style").last().append(`
+
+#users .uzr.thkaaar img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.thkaaar span.uhash{
+   -webkit-text-fill-color: transparent;
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;}
+
+
+#users .uzr.thkaaar img.u-ico {
+margin-left: 2px;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+border-radius: 0px 9px 0px 9px;  
+     
+
+      
+    }
+
+#users .uzr.thkaaar img.ustat {
+      width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 14px;
+  z-index: 0 !important;
+  display: none;
+      
+    }
+
+#users .uzr.thkaaar .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 6px !important;
+  height: 52px !important;
+  margin-left: 3px!important;
+  z-index: 0 !important;
+margin-bottom: 9px !important;
+padding: 30px !important;
+border:2px solid #93a9f6;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #15297f
+}
+
+#users .uzr.thkaaar .u-msg {
+	
+  -webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/01/167459183804791.gif);
+  padding: 0px !important;
+	margin-bottom: 0px !important;
+margin-left: 8px;
+background-size: cover;
+margin-top: 11px !important;
+
+}
+
+
+
+
+
+#users .uzr.thkaaar {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #1b2f83;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 11px 0px 11px 0px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/03/167968622573591.png);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.thkaaar .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.thkaaar .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 4px;
+margin-bottom: 33px !important;
+}
+
+#users .uzr.thkaaar .itarr_thkaaar1 {
+ width: 82px;
+height: 82px;
+margin-top: -39px;
+cursor: pointer;
+margin-left: -39px;
+}
+
+
+
+
+`);
+
+const _thkaarzznz4 = [
+    {name: "thkaaar1", deco: "*تذ+كار*", cls: "thkaaar", icon: "https://up6.cc/2023/03/167968763603371.png"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _thkaarzznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
+            } 
+        });
+    }
+}, 3 * 1000);
+
 
 
 
