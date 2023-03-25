@@ -1,4 +1,130 @@
 
+$("style").last().append(`
+
+#users .uzr.marv img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.marv span.uhash{
+    -webkit-text-fill-color: transparent;
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;}
+
+
+#users .uzr.marv img.u-ico {
+margin-left: 14px;
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
+
+
+
+     
+
+      
+    }
+
+#users .uzr.marv img.ustat {
+ width: 10px !important;
+  border-radius: 50px !important;
+  height: 10px !important;
+  min-height: 0% !important;
+  z-index: 0 !important;
+margin-left: 2px !important;
+margin-top: 2px !important;
+      
+    }
+
+#users .uzr.marv .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 8px !important;
+  height: 52px !important;
+  margin-left: -4px!important;
+  z-index: 0 !important;
+margin-bottom: 6px !important;
+padding: 25px !important;
+border:1px solid #feb7c0;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #feb7c0;
+
+}
+
+#users .uzr.marv .u-msg {
+-webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/03/167832696716741.gif);
+  padding: 0px !important;
+	margin-bottom: 7px !important;
+margin-right: 28px !important;
+margin-left: 15px;
+background-size: cover;
+margin-top: 7px !important;
+
+}
+
+
+
+
+
+#users .uzr.marv {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 0px 15px 0px 15px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/03/167975433074011.png);
+background-size: 100%;
+
+    
+}
+
+
+
+#users .uzr.marv .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.marv .u-topic {
+     -webkit-text-fill-color: transparent;
+  margin-left: 5px ;
+
+}
+
+
+#users .uzr.marv .itarr_marv {
+ width: 87px;
+height: 87px;
+margin-top: -40px;
+cursor: pointer;
+margin-left: -41px;
+}
+
+
+`);
+
+const _mrv56zznz4 = [
+{ name: "marv", deco: "خَجـ♡ـل الكويت", cls: "marv", icon: "https://up6.cc/2023/03/167975394360781.png"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _mrv56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
 
 
 
