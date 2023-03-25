@@ -4943,9 +4943,9 @@ border-radius: 0px 9px 0px 9px;
   z-index: 0 !important;
 margin-bottom: 9px !important;
 padding: 30px !important;
-border:2px solid #93a9f6;margin-top:3px;border-radius:100px;
+border:2px solid #a8a8a8;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #15297f
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #a8a8a8
 }
 
 #users .uzr.thkaaar .u-msg {
@@ -4968,14 +4968,14 @@ margin-top: 11px !important;
 
 
 #users .uzr.thkaaar {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #1b2f83;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 11px 0px 11px 0px;
+  border-radius: 9px 0px 9px 0px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/03/167968622573591.png);
+ background-image: url(https://up6.cc/2023/03/167977360470771.png);
 background-size: 100%;
     
 }
@@ -5006,7 +5006,7 @@ margin-left: -39px;
 `);
 
 const _thkaarzznz4 = [
-    {name: "thkaaar1", deco: "*تذ+كار*", cls: "thkaaar", icon: "https://up6.cc/2023/03/167968763603371.png"}
+    {name: "thkaaar1", deco: "*تذ+كار*", cls: "thkaaar", icon: "https://up6.cc/2023/03/167977392158551.png"}
 ];
 
 setInterval(() => {
@@ -5020,8 +5020,6 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
-
-
 
 
 
