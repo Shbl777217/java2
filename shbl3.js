@@ -444,7 +444,13 @@ setInterval(() => {
 
 
 
+
  $("style").last().append(`
+
+#users .uzr.baron .u-topic {
+-webkit-text-fill-color: #0000;
+  
+}
 
 #users .uzr.baron .u-msg {
  
