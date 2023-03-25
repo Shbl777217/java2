@@ -442,6 +442,8 @@ setInterval(() => {
 
 
 
+
+
  $("style").last().append(`
 
 #users .uzr.baron .u-msg {
@@ -459,7 +461,7 @@ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/03/167977765181881.png);
+ background-image: url(https://up6.cc/2023/03/167977861982181.png);
 background-size: 100%;
 }
 #users .uzr.baron .d-flex.fl {
