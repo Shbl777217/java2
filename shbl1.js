@@ -2725,7 +2725,7 @@ border-radius: 14px 0px  14px 14px}
     
     
     
-    $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;
+    $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${roomiddal}')"]{border: 0px solid #0000;
 
 background-size: 220% auto;border-radius: 14px 0px  14px 14px !important;background-image: url(https://up6.cc/2023/02/167622710859171.gif);
   background-size: cover;
