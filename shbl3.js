@@ -16,7 +16,7 @@ width: 1px !important;
 
 #users .uzr.marv img.u-ico {
 margin-left: 14px;
-box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
+
 
 
 
@@ -122,6 +122,7 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
 
 
 
