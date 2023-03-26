@@ -1726,7 +1726,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/01/167459183804791.gif);
   padding: 0px !important;
-	margin-bottom: 54px !important;
+	margin-bottom: 55px !important;
 margin-left: -13px;
 background-size: cover;
 margin-top: 5px !important;
