@@ -1679,9 +1679,10 @@ $("style").last().append(`
 }
 
 #users .uzr.hhqq span.uhash{
-    margin-right: 350px;
-  
-  margin-left: 0px;}
+  -webkit-text-fill-color: transparent;
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;}
 
 
 #users .uzr.hhqq img.u-ico {
@@ -1725,7 +1726,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/01/167459183804791.gif);
   padding: 0px !important;
-	margin-bottom: 56px !important;
+	margin-bottom: 54px !important;
 margin-left: -13px;
 background-size: cover;
 margin-top: 5px !important;
