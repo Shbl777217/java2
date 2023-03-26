@@ -5036,7 +5036,7 @@ margin-top: 11px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/03/167977360470771.png);
+ background-image: url(https://up6.cc/2023/03/167984045439531.png);
 background-size: 100%;
     
 }
@@ -5058,7 +5058,7 @@ margin-bottom: 33px !important;
 height: 82px;
 margin-top: -39px;
 cursor: pointer;
-margin-left: -39px;
+margin-left: -41px;
 }
 
 
@@ -5067,7 +5067,7 @@ margin-left: -39px;
 `);
 
 const _thkaarzznz4 = [
-    {name: "thkaaar1", deco: "*تذ+كار*", cls: "thkaaar", icon: "https://up6.cc/2023/03/167977392158551.png"}
+    {name: "thkaaar1", deco: "*تذ+كار*", cls: "thkaaar", icon: "https://up6.cc/2023/03/167983937833081.png"}
 ];
 
 setInterval(() => {
@@ -5081,7 +5081,6 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
-
 
 
 
