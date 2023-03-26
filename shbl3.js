@@ -4977,8 +4977,7 @@ width: 1px !important;
 
 #users .uzr.thkaaar img.u-ico {
 margin-left: 2px;
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-border-radius: 0px 9px 0px 9px;  
+ 
      
 
       
