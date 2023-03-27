@@ -497,6 +497,9 @@ background-image: url(https://up6.cc/2023/03/167959927008681.png);
 
 
 
+
+
+
 $(`<style>.nosel.d-flex.room.r18700b42ce5x137168c7-x-ejgokl .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #fff;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
 margin-left: -80px !important;
 margin-top: 100px !important;
@@ -598,12 +601,12 @@ border-radius: 100px}
 
 
 
-   $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2023/03/167926813965791.png);
+   $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2023/03/167994704224681.png);
 	background-size: cover;
 
 background-color: #000 !important;
 }`);
-$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2023/03/167926813965791.png);
+$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2023/03/167994704224681.png);
 	background-size: cover;
 background-color: #000 !important;
 }`);
@@ -627,7 +630,7 @@ background-color: #000 !important;
   border-radius: 5px 5px  5px 5px !important;
   border: 1px solid #d4cfd2;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2023/03/167926813965791.png);
+  background-image: url(https://up6.cc/2023/03/167994704224681.png);
   background-size: cover;
 	color: #fff;
 }
@@ -653,7 +656,7 @@ height: 52px;
 #d0.tro7 {
   border-radius: 0px 6px  6px 6px !important;
   border: 1px solid #d4cfd21c;
-  background-image: url(https://up6.cc/2023/03/167926813965791.png);
+  background-image: url(https://up6.cc/2023/03/167994704224681.png);
   background-size: cover;
   color: #fff;
 
@@ -673,7 +676,7 @@ height: 52px;
 
 
 
-#dpnl.tro7{background-size: 100%;background-image: url(https://up6.cc/2023/03/167926813965791.png);background-color: #b2b2b2;
+#dpnl.tro7{background-size: 100%;background-image: url(https://up6.cc/2023/03/167994704224681.png);background-color: #b2b2b2;
 background-size: cover;
 
 }#d0.tro7 .nosel.fl.bg.{background-color:#465666!important;  }
@@ -711,7 +714,7 @@ margin-top: 9px !important;
     border-radius: 5px 5px  5px 5px !important;
     background-color: #b2b2b2;
 	color: #484848;
-	background-image: url(https://up6.cc/2023/03/167926813965791.png);
+	background-image: url(https://up6.cc/2023/03/167994704224681.png);
     background-size: cover; color: #fff;
 }
 #d0.tro7 .label-primary {
@@ -726,7 +729,7 @@ margin-top: 9px !important;
   border-radius: 5px 5px  5px 5px !important;
   border: 1px solid #d4cfd2;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2023/03/167926813965791.png);
+  background-image: url(https://up6.cc/2023/03/167994704224681.png);
   background-size: cover;
   color: #fff;
 }
@@ -734,7 +737,7 @@ margin-top: 9px !important;
   border-radius: 5px 5px  5px 5px !important;
   border: 1px solid #d4cfd2;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2023/03/167926813965791.png);
+  background-image: url(https://up6.cc/2023/03/167994704224681.png);
   background-size: cover;
   color: #fff;
 
@@ -746,7 +749,7 @@ margin-top: 9px !important;
     border: 1px solid #000;
 }
 #room.tro7 #mic{
-background-image: url(https://up6.cc/2023/03/167926813965791.png);
+background-image: url(https://up6.cc/2023/03/167994704224681.png);
 background-size: cover;
 border-radius: 100px !important;
 
@@ -810,7 +813,7 @@ margin-right: 2px;
 .corner.border.label.label-primary.tro7 {
   border-radius: 5px 5px  5px 5px !important;
   border: 1px solid #d4cfd2;
-  background-image: url(https://up6.cc/2023/03/167926813965791.png);
+  background-image: url(https://up6.cc/2023/03/167994704224681.png);
   background-size: cover;
   color: #fff;
 }
@@ -818,28 +821,28 @@ margin-right: 2px;
 	border-radius: 5px 5px  5px 5px !important;
     border: 1px solid #d4cfd2;
     background-color: #b2b2b2!important;
-	background-image: url(https://up6.cc/2023/03/167926813965791.png);
+	background-image: url(https://up6.cc/2023/03/167994704224681.png);
     background-size: cover;
     color: #fff;
 }
 .head.d-flex.nosel.bg.fl.tro7, .rsave.btn.btn-primary.fr.tro7, .fa.fa-send.sndpm.fl.btn.btn-primary.tro7, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.tro7, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.tro7, .bdel.corner.btn.minix.btn-primary.fa.fa-times.tro7, .fa.fa-send.sndbc.fl.btn.btn-primary.tro7 {
     border-radius: 5px 5px  5px 5px !important;
     border: 1px solid #f1f1f1;
-    background-image: url(https://up6.cc/2023/03/167926813965791.png);
+    background-image: url(https://up6.cc/2023/03/167994704224681.png);
     color: #fff;
     background-size: cover;
 }
 .btn.btn-primary.u-nickc.fr.fa.fa-save.tro7 {
     border-radius: 5px 5px  5px 5px !important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2023/03/167926813965791.png);
+    background-image: url(https://up6.cc/2023/03/167994704224681.png);
     color: #fff;
     background-size: cover;
 }
 .label.fl.label-primary.tro7 {
     border-radius: 5px 5px  5px 5px !important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2023/03/167926813965791.png);
+    background-image: url(https://up6.cc/2023/03/167994704224681.png);
     color: #fff;
     background-size: cover;
 }
@@ -902,7 +905,7 @@ button.border.btn.label.label-success.fl.fa.fa-plus.tro7 {
    border-radius: 5px 5px  5px 5px ;
 }
 button.rsave.btn.btn-primary.fl.tro7 {
-   background-image: url(https://up6.cc/2023/03/167926813965791.png);
+   background-image: url(https://up6.cc/2023/03/167994704224681.png);
    background-size: cover;
    border-radius: 5px 5px  5px 5px ;
    color: #fff;
