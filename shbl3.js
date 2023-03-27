@@ -5789,10 +5789,16 @@ $("style").last().append(`
 }
 
 #users .uzr.nar span.uhash{
-    -webkit-text-fill-color: transparent;}
+    -webkit-text-fill-color: transparent;
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;}
 
 
 #users .uzr.nar img.u-ico {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;
 margin-left: 9px;
     
      
@@ -5826,19 +5832,18 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #939393
 }
 
 #users .uzr.nar .u-msg {
-text-align:center;
 	
   -webkit-background-clip: text;
-  
-  font-size: 90% !important;
+  padding: 1px !important;
+  font-size: 89% !important;
   -webkit-text-fill-color: #0000;
- -webkit-text-fill-color: transparent;
+ background-image: url(https://up6.cc/2023/01/167278242181111.gif);
   padding: 0px !important;
-	margin-bottom: 20px !important;
-
+  font-size: 89% !important;
+	margin-bottom: 5px !important;
+margin-top: 8px !important;
 background-size: cover;
-margin-top: 11px !important;
-margin-left: 4px !important;
+margin-left: 15px !important;
 
 }
 
@@ -5854,7 +5859,7 @@ margin-left: 4px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/02/167727912542581.png);
+ background-image: url(https://up6.cc/2023/03/167995045426961.png);
 background-size: 100%;
     
 }
@@ -5891,6 +5896,7 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
 
 
 
