@@ -2610,7 +2610,6 @@ setInterval(function () {
 
 
 
-
 $(`<style>.nosel.d-flex.room.r18646e80252x31082751-x-xpp3b9 .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: transparent!important; padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
 margin-left: 170px !important;
 margin-top: 40px !important;
@@ -2702,30 +2701,26 @@ var roomiddal='18646e80252x31082751-x-xpp3b9';
     
     
     $(`<style>#mic.nrth .mic {
-
-         border: 0px solid;
-    animation: .5s linear 1s infinite alternate slidein;
-    filter: hue-rotate(0);
+    border: 0px solid;
+    animation: huerotate 2s infinite linear;
+    filter: hue-rotate(360deg);
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
     margin: 3px;
     margin-top: 1px;
 	height: 48px;
-border-radius: 14px 0px  14px 14px}
-        
-        @keyframes rotate{
-        to {
-            --angle: 360deg;
-        }
+}
+@keyframes huerotate {
+    0% {
+        filter: hue-rotate(0deg);
     }
-    @property --angle {
-        syntax: "<angle>";
-        initial-value: 0deg;
-        inherits: false;
+    100% {
+        filter: hue-rorate(360deg);
+    }
     }</style>`).insertBefore('body');
     
     
     
-    $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${roomiddal}')"]{border: 0px solid #0000;
+    $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;
 
 background-size: 220% auto;border-radius: 14px 0px  14px 14px !important;background-image: url(https://up6.cc/2023/02/167622710859171.gif);
   background-size: cover;
@@ -2733,10 +2728,7 @@ background-size: 220% auto;border-radius: 14px 0px  14px 14px !important;backgro
 }`);
     $("style").last().append(`
 
-	#users.nrth .uzr{
-    border-radius: 0px 14px 14px 14px;
-    
-    background-color:#d4cfd2!important;background-image:linear-gradient(225deg,#d2cac8 0%,#e8e8e8 29%,#f4f4f4 67%,#d2cac8 100%)}
+	
     
     #upro.nrth .border {
   border-radius: 14px 0px  14px 14px !important;
@@ -2791,7 +2783,7 @@ height: 52px;
 margin-right: 22px !important;
 margin-bottom: 15px !important;
 margin-top: 9px !important;
--webkit-text-fill-color: #000 }
+ }
 
 #dpnl.nrth.bg{background-image:linear-gradient(225deg,#cfc6c4 0%,#cfc6c4 29%,#eaeaea 67%,#cfc6c4 100%) */}#rooms.nrth .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 14px 0px  14px 14px !important}
 #rooms.nrth .label-primary {
