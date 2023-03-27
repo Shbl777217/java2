@@ -1717,9 +1717,10 @@ margin-left: -2px;
   z-index: 0 !important;
 margin-bottom: 0px !important;
 padding: 28px !important;
-border:2px solid #fff;margin-top:3px;border-radius:100px;
+border:2px solid #9f9f9f;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 
 #users .uzr.hhqq .u-msg {
@@ -1730,7 +1731,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/01/167459183804791.gif);
   padding: 0px !important;
-	margin-bottom: 55px !important;
+	margin-bottom: 56px !important;
 margin-left: -13px;
 background-size: cover;
 margin-top: 5px !important;
@@ -1767,11 +1768,11 @@ margin-bottom: 33px !important;
 }
 
 #users .uzr.hhqq .itarr_hhhqq1 {
- width: 110px;
-height: 110px;
+ width: 109px;
+height: 109px;
 margin-top: -50px;
 cursor: pointer;
-margin-left: -56px;
+margin-left: -55px;
 }
 
 
