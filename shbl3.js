@@ -5784,7 +5784,6 @@ setInterval(() => {
 
 
 
-
 $("style").last().append(`
 
 #users .uzr.nar img.co {
@@ -5838,11 +5837,11 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #939393
 
 #users .uzr.nar .u-msg {
 	
-  -webkit-background-clip: text;
+ 
   padding: 1px !important;
   font-size: 89% !important;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/01/167278242181111.gif);
+
   padding: 0px !important;
   font-size: 89% !important;
 	margin-bottom: 5px !important;
@@ -5901,8 +5900,6 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
-
-
 
 
 
