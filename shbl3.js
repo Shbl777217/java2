@@ -6346,7 +6346,7 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
   -webkit-text-fill-color: #0000;
  -webkit-background-clip: text;
 -webkit-text-fill-color: #0000;
-background-image: linear-gradient(-225deg,#787878 0%,#c223c2 29%,#787878 67%,#8e1c92 100%);
+background-image: url(https://up6.cc/2023/01/167459183804791.gif);
   padding: 0px !important;
 	margin-bottom: 10px !important;
 margin-right: 5px !important;
@@ -6364,11 +6364,11 @@ margin-top: 10px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 18px 0px 18px 18px;
+  border-radius: 0px 8px 8px 8px;
    
   
   border: 1px solid #000;
- background-image: url(https://up6.cc/2023/03/167857200934241.png);
+ background-image: url(https://up6.cc/2023/03/168021613028911.png);
 background-size: 100%;
 
     
@@ -6390,7 +6390,7 @@ background-size: 100%;
 #users .uzr.meroo .itarr_meroo {
  width: 92px;
 height: 92px;
-margin-top: -42px;
+margin-top: -41px;
 cursor: pointer;
 margin-left: -43px;
 }
@@ -6399,7 +6399,7 @@ margin-left: -43px;
 `);
 
 const _mer56zznz4 = [
-{ name: "meroo", deco: "مِـيَرو .", cls: "meroo", icon: "https://up6.cc/2023/03/167857200936352.png"}
+{ name: "meroo", deco: "مِـيَرو .", cls: "meroo", icon: "https://up6.cc/2023/03/168021544142391.png"}
 ];
 
 setInterval(() => {
@@ -6408,10 +6408,11 @@ setInterval(() => {
             const user = $("#users .uzr:contains('"+item.deco+"')");
             if(user && !user.hasClass(item.cls)) {
                 $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
-                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="?????" src="'+item.icon+'">');
             } 
         });
     }
 }, 3 * 1000);
+
 
 
