@@ -6021,7 +6021,7 @@ background-size: 100%;
 
 
 const _areb56zznz4 = [
-    { deco: "أَرِيـب", cls: "arib"}
+    { deco: "أَرِيَـب", cls: "arib"}
 ];
 
 setInterval(() => {
