@@ -1,4 +1,134 @@
 
+
+$("style").last().append(`
+
+#users .uzr.nar img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.nar span.uhash{
+    -webkit-text-fill-color: transparent;
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;}
+
+
+#users .uzr.nar img.u-ico {
+width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;
+margin-left: 9px;
+    
+     
+
+      
+    }
+
+#users .uzr.nar img.ustat {
+      width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 14px;
+  z-index: 0 !important;
+  display: none;
+      
+    }
+
+#users .uzr.nar .fitimg.u-pic {
+
+
+
+
+  border-radius: 5px 5px 5px 5px !important;
+  margin-top: 6px !important;
+  height: 52px !important;
+  margin-left: 10px!important;
+  z-index: 0 !important;
+margin-bottom: 10px !important;
+padding: 27px !important;
+border:1px solid #fff;margin-top:3px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #939393
+}
+
+#users .uzr.nar .u-msg {
+	
+  
+  padding: 1px !important;
+  font-size: 89% !important;
+
+  -webkit-text-fill-color: #0000;
+
+  padding: 0px !important;
+  font-size: 89% !important;
+	margin-bottom: 5px !important;
+margin-top: 8px !important;
+background-size: cover;
+margin-left: 15px !important;
+
+}
+
+
+
+
+
+#users .uzr.nar {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 10px 0px 10px 0px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/04/16803043168541.gif);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.nar .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.nar .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 4px ;
+
+}
+
+
+
+
+`);
+
+const _nrtb56zznz4 = [
+    {deco: "نُنورثثثثث", cls: "nar"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _nrtb56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+             
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+
+
+
+
 $("style").last().append(`
 
 #users .uzr.mosn img.co {
