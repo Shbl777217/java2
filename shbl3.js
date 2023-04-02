@@ -5999,7 +5999,7 @@ background-size: 100%;
 }
 
 #users .uzr.sigmm .u-topic {
--webkit-text-fill-color: transparent;
+
   margin-left: 5px;
 }
 
@@ -6018,7 +6018,7 @@ margin-left: -65px;
 `);
 
 const _sa56zznz2 = [
-    {name: "sigmaa", deco: "sigm+a1", cls: "sigmm", icon: "https://up6.cc/2023/03/167778788074871.png"}
+    {name: "sigmaa", deco: " ّطائِـــش", cls: "sigmm", icon: "https://up6.cc/2023/03/167778788074871.png"}
 ];
 
 setInterval(() => {
