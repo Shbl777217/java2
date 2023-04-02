@@ -4951,7 +4951,7 @@ margin-top:2px;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000}#d0.rmosos{ba
 background-image:linear-gradient(225deg,#ccc4e3 0#f0edfd 29%,#f4f4f4 67%,#dddbf9 100%);}
 #users.rmosos span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#000 0,#3e3e3e 29%,#a1a1a1 67%,#000 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
 #users.rmosos .mini.u-msg{text-align:center;
-background-image:-webkit-linear-gradient(75deg,rgb(0 0 0 / 53%) 25%,#000 25%,#000 50%,#a1a1a1 50%,#000 75%);background-size:200% auto;-webkit-background-clip:text;-webkit-text-fill-color:#0000}
+}
 #dpnl.rmosos.bg{background-color:#202020 !important; background-color: #000 ; }
 #rooms.rmosos .label-primary{background-color:#000 !important;border-radius:10px 10px 10px 10px!important}#rooms.rmosos .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius:10px 10px 10px 10px!important}
 #users.rmosos img.ustat{width:12px!important;height:12px!important;min-height:0%!important;margin-right:0;z-index:999999;border-radius:50px;border:1px solid #fff0}
