@@ -4282,7 +4282,7 @@ background-size: 100%;
 
 #users .uzr.siggm .u-topic {
 -webkit-text-fill-color: transparent;
-  margin-left: 5px;
+  margin-left: 0px;
 }
 
 #users .uzr.siggm .itarr_siggma {
@@ -5931,7 +5931,7 @@ $("style").last().append(`
 
 
 #users .uzr.sigmm img.u-ico {
-    margin-left: 6px;
+    margin-left: 2px;
      
 
       
@@ -6000,7 +6000,7 @@ background-size: 100%;
 
 #users .uzr.sigmm .u-topic {
 
-  margin-left: 5px;
+  margin-left: 0px;
 }
 
 #users .uzr.sigmm .itarr_sigmaa {
