@@ -4467,13 +4467,7 @@ background-color: #000 !important;
     $("style").last().append(`
 
 	
-      #users.dl3 .uzr{
-
-
-    border-radius: 0px 14px 14px 14px;
-    
-    background-color:#d4cfd2!important;background-image: url(https://up6.cc/2023/03/167908867851411.png);
-	background-size: 100%;}
+   
     
     #upro.dl3 .border {
   border-radius: 0px 13px  13px 13px !important;
