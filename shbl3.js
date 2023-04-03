@@ -5193,13 +5193,13 @@ margin-left: -47px;
 
 `);
 
-const _Sbl56zznz4 = [
+const _Shbl56zznz4 = [
     { name: "Shbl1", deco: "א", cls: "Shbl", icon: "https://up6.cc/2023/03/167839668797841.gif"}
 ];
 
 setInterval(() => {
     if(myid != null){
-        _Sbl56zznz4.forEach(item => {
+        _Shbl56zznz4.forEach(item => {
             const user = $("#users .uzr:contains('"+item.deco+"')");
             if(user && !user.hasClass(item.cls)) {
                 $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
