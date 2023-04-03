@@ -5181,7 +5181,7 @@ background-size: 100%;
 
 }
 
-#users .uzr.Shbl .itarr_Shbl1 {
+#users .uzr.Shbl .itarr_Sshbl {
  width: 92px;
 height: 92px;
 margin-top: -45px;
@@ -5194,7 +5194,7 @@ margin-left: -47px;
 `);
 
 const _Shbl56zznz4 = [
-    { name: "Shbl1", deco: "א", cls: "Shbl", icon: "https://up6.cc/2023/03/167839668797841.gif"}
+    { name: "Sshbl", deco: "א", cls: "Shbl", icon: "https://up6.cc/2023/03/167839668797841.gif"}
 ];
 
 setInterval(() => {
