@@ -1,6 +1,134 @@
 
 
 
+
+
+$("style").last().append(`
+
+#users .uzr.nado img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.nado span.uhash{
+   -webkit-text-fill-color: transparent;
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;}
+
+
+#users .uzr.nado img.u-ico {
+margin-left: 5px;
+ 
+     
+
+      
+    }
+
+#users .uzr.nado img.ustat {
+    width: 11px !important;
+  border-radius: 50px !important;
+  height: 11px !important;
+  min-height: 0% !important;
+  z-index: 0 !important;
+margin-left: 2px !important;
+margin-top: 2px !important;
+      
+    }
+
+#users .uzr.nado .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 8px !important;
+  height: 52px !important;
+  margin-left: 4px!important;
+  z-index: 0 !important;
+margin-bottom: 13px !important;
+padding: 26px !important;
+border:1px solid #fff;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #000
+}
+
+#users .uzr.nado .u-msg {
+	
+  -webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/01/167459183804791.gif);
+  padding: 0px !important;
+	margin-bottom: 0px !important;
+margin-left: 11px;
+background-size: cover;
+margin-top: 7px !important;
+
+}
+
+
+
+
+
+#users .uzr.nado {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 0px 5px 0px 5px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/04/168072624270641.png);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.nado .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.nado .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 4px;
+margin-bottom: 33px !important;
+}
+
+#users .uzr.nado .itarr_nado1 {
+  width: 82px;
+height: 82px;
+margin-top: -38px;
+cursor: pointer;
+margin-left: -42px;
+}
+
+
+
+
+`);
+
+const _ndozznz4 = [
+    {name: "nado1", deco: "نَــدوّ", cls: "nado", icon: "https://up6.cc/2023/04/16807285698551.png"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _ndozznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+
+
+
 $("style").last().append(`
 
 #users .uzr.ayyya img.co {
