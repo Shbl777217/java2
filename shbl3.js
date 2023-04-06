@@ -472,7 +472,7 @@ margin-left: 15px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/04/16803043168541.gif);
+ background-image: url(https://up6.cc/2023/04/168081902010521.gif);
 background-size: 100%;
     
 }
