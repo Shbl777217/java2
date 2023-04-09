@@ -4846,12 +4846,12 @@ setInterval(function () {
 
 
 $(`<style>.nosel.d-flex.room.r185046848c7xcc763e51-x-5bmu3g .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #e8e9ee;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
-margin-left: -50px !important;
+margin-left: -35px !important;
 margin-top: 40px !important;
 }
 
 .nosel.d-flex.room.r185046848c7xcc763e51-x-5bmu3g .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #e8e9ee;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;
-margin-left: -50px !important;
+margin-left: -35px !important;
 margin-top: 40px !important;
 }
 .nosel.d-flex.room.r185046848c7xcc763e51-x-5bmu3g img.fl {
