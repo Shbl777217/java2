@@ -4946,19 +4946,21 @@ background-size: 100%;
 
 `);
 
-var l_itvfaten=setInterval(function(){
-    if(myid!=null){
-        clearInterval(l_itvfaten);
-        $("#users .uzr:contains('86')").each(function(i,e){ e=$(e); if(e.find('.u-topic').text()=='فاتن..'){e.addClass('faten')}})
-		
-		
-		
-		
-        
-     
+const _fatten56zznz4 = [
+    { deco: "فاتن..", cls: "faten", }
+];
 
-    }
-}, 20000);
+setInterval(() => {
+    if(myid != null){
+        _fatten56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                
+            } 
+        });
+    }
+}, 3 * 1000);
 
 
 
