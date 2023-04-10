@@ -4936,12 +4936,12 @@ border-radius: 14px 0px  14px 14px}
 
 
 
-   $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2023/04/168098537670572.png);
+   $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2023/04/16811580931611.png);
 	background-size: cover;
 
 background-color: #000 !important;
 }`);
-$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2023/04/168098537670572.png);
+$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2023/04/16811580931611.png);
 	background-size: cover;
 background-color: #000 !important;
 }`);
@@ -4960,7 +4960,7 @@ background-color: #000 !important;
   border-radius: 10px 0px  10px 10px !important;
   border: 1px solid #d4cfd2;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2023/04/168098537670572.png);
+  background-image: url(https://up6.cc/2023/04/16811580931611.png);
   background-size: cover;
 	color: #fff;
 }
@@ -4986,7 +4986,7 @@ height: 52px;
 #d0.mosr {
   border-radius: 0px 6px  6px 6px !important;
   border: 1px solid #d4cfd21c;
-  background-image: url(https://up6.cc/2023/04/168098537670572.png);
+  background-image: url(https://up6.cc/2023/04/168115822546642.png);
   background-size: cover;
   color: #fff;
 
@@ -5006,7 +5006,7 @@ height: 52px;
 
 
 
-#dpnl.mosr{background-size: 100%;background-image: url(https://up6.cc/2023/04/168098537670572.png);background-color: #b2b2b2;
+#dpnl.mosr{background-size: 100%;background-image: url(https://up6.cc/2023/04/16811580931611.png);background-color: #b2b2b2;
 background-size: cover;
 
 }#d0.mosr .nosel.fl.bg.{background-color:#465666!important;  }
@@ -5024,7 +5024,7 @@ margin-top: 9px !important;
     border-radius: 10px 0px  10px 10px !important;
      border-radius: 10px 0px  10px 10px !important;
     border: 1px solid #585858;
-    background-image: url(https://up6.cc/2023/04/168098551105512.png);
+    background-image: url(https://up6.cc/2023/04/168115822546642.png);
     background-size: cover;
 }
 #users.mosr img.ustat {
@@ -5044,7 +5044,7 @@ margin-top: 9px !important;
     border-radius: 10px 0px  10px 10px !important;
     background-color: #b2b2b2;
 	color: #484848;
-	background-image: url(https://up6.cc/2023/04/168098537670572.png);
+	background-image: url(https://up6.cc/2023/04/16811580931611.png);
     background-size: cover; color: #fff;
 }
 #d0.mosr .label-primary {
@@ -5059,7 +5059,7 @@ margin-top: 9px !important;
   border-radius: 10px 0px  10px 10px !important;
   border: 1px solid #d4cfd2;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2023/04/168098537670572.png);
+  background-image: url(https://up6.cc/2023/04/16811580931611.png);
   background-size: cover;
   color: #fff;
 }
@@ -5067,7 +5067,7 @@ margin-top: 9px !important;
   border-radius: 10px 0px  10px 10px !important;
   border: 1px solid #d4cfd2;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2023/04/168098537670572.png);
+  background-image: url(https://up6.cc/2023/04/16811580931611.png);
   background-size: cover;
   color: #fff;
 
@@ -5079,7 +5079,7 @@ margin-top: 9px !important;
     border: 1px solid #585858;
 }
 #room.mosr #mic{
-background-image: url(https://up6.cc/2023/04/168098537670572.png);
+background-image: url(https://up6.cc/2023/04/16811580931611.png);
 background-size: cover;
 border-radius: 0px 6px  6px 6px !important;
 
@@ -5136,7 +5136,7 @@ margin-right: 2px;
 .corner.border.label.label-primary.mosr {
   border-radius: 10px 0px  10px 10px !important;
   border: 1px solid #d4cfd2;
-  background-image: url(https://up6.cc/2023/04/168098537670572.png);
+  background-image: url(https://up6.cc/2023/04/16811580931611.png);
   background-size: cover;
   color: #fff;
 }
@@ -5144,28 +5144,28 @@ margin-right: 2px;
 	border-radius: 10px 0px  10px 10px !important;
     border: 1px solid #d4cfd2;
     background-color: #b2b2b2!important;
-	background-image: url(https://up6.cc/2023/04/168098537670572.png);
+	background-image: url(https://up6.cc/2023/04/16811580931611.png);
     background-size: cover;
     color: #fff;
 }
 .head.d-flex.nosel.bg.fl.mosr, .rsave.btn.btn-primary.fr.mosr, .fa.fa-send.sndpm.fl.btn.btn-primary.mosr, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.mosr, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.mosr, .bdel.corner.btn.minix.btn-primary.fa.fa-times.mosr, .fa.fa-send.sndbc.fl.btn.btn-primary.mosr {
     border-radius: 10px 0px  10px 10px !important;
     border: 1px solid #f1f1f1;
-    background-image: url(https://up6.cc/2023/04/168098537670572.png);
+    background-image: url(https://up6.cc/2023/04/16811580931611.png);
     color: #fff;
     background-size: cover;
 }
 .btn.btn-primary.u-nickc.fr.fa.fa-save.mosr {
     border-radius: 10px 0px  10px 10px !important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2023/04/168098537670572.png);
+    background-image: url(https://up6.cc/2023/04/16811580931611.png);
     color: #fff;
     background-size: cover;
 }
 .label.fl.label-primary.mosr {
     border-radius: 10px 0px  10px 10px !important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2023/04/168098537670572.png);
+    background-image: url(https://up6.cc/2023/04/16811580931611.png);
     color: #fff;
     background-size: cover;
 }
@@ -5229,7 +5229,7 @@ button.border.btn.label.label-success.fl.fa.fa-plus.mosr {
    border-radius: 10px 0px  10px 10px ;
 }
 button.rsave.btn.btn-primary.fl.mosr {
-   background-image: url(https://up6.cc/2023/04/168098537670572.png);
+   background-image: url(https://up6.cc/2023/04/16811580931611.png);
    background-size: cover;
    border-radius: 10px 0px  10px 10px ;
    color: #fff;
