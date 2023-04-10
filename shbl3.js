@@ -108,7 +108,7 @@ background-size: 100%;
 `);
 
 const _dannab56zznz4 = [
-    {deco: "da~na*", cls: "dana"}
+    {deco: "َdana", cls: "dana"}
 ];
 
 setInterval(() => {
