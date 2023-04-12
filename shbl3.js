@@ -2,6 +2,138 @@
 
 
 
+
+
+
+$("style").last().append(`
+
+#users .uzr.soltan img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.soltan span.uhash{
+    -webkit-text-fill-color: transparent;
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;}
+
+
+#users .uzr.soltan img.u-ico {
+    
+     margin-left: 2px;
+      
+    }
+
+#users .uzr.soltan img.ustat {
+      width: 11px !important;
+  border-radius: 50px !important;
+  height: 11px !important;
+  min-height: 0% !important;
+  z-index: 0 !important;
+margin-left: 2px !important;
+margin-top: 2px !important;
+     
+      
+    }
+
+#users .uzr.soltan .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 11px !important;
+  height: 52px !important;
+  margin-left: 3px!important;
+  z-index: 0 !important;
+margin-bottom: 15px !important;
+padding: 29px !important;
+border:2px solid #000;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
+}
+
+#users .uzr.soltan .u-msg {
+	
+  -webkit-background-clip: text;
+  
+  font-size: 93% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/01/167399285478731.gif);
+  padding: 0px !important;
+	margin-bottom: 12px !important;
+margin-left: 15px;
+background-size: cover;
+margin-top: 8px !important;
+
+}
+
+
+
+
+
+#users .uzr.soltan {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px;
+  background-image: 
+  border: 1px solid #fff;
+background-image: url(https://up6.cc/2023/04/168133323346872.png);
+background-size: 100%;
+}
+
+
+#users .uzr.soltan .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.soltan .u-topic {
+
+  margin-left: 5px;
+}
+
+#users .uzr.soltan .itarr_soltan1 {
+ width: 94px;
+
+margin-top: -38px;
+cursor: pointer;
+margin-left: -48px;
+}
+
+
+
+
+`);
+
+
+
+const _soltaanzznz4 = [
+    {name: "soltan1", deco: "ضَمـايّ", cls: "soltan", icon: "https://up6.cc/2023/04/168133522113153.gif"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _soltaanzznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+
+
+
+
+
+
+
+
+
 $("style").last().append(`
 
 #users .uzr.dana img.co {
