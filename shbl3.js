@@ -118,7 +118,7 @@ margin-left: -0px;
 `);
 
 const _maramb56zznz4 = [
-    {name: "mram1", deco: "ً𝑀𝐴𝑅𝐴𝑀 ..", cls: "mram", icon: "https://up6.cc/2023/04/168141949862121.png"}
+    {name: "mram1", deco: " ّ𝑀𝐴𝑅𝐴𝑀 ..", cls: "mram", icon: "https://up6.cc/2023/04/168141949862121.png"}
 ];
 
 setInterval(() => {
