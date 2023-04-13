@@ -118,7 +118,7 @@ margin-left: -0px;
 `);
 
 const _maramb56zznz4 = [
-    {name: "mram1", deco: "ّMARAM", cls: "mram", icon: "https://up6.cc/2023/04/168141949862121.png"}
+    {name: "mram1", deco: "ً𝑀𝐴𝑅𝐴𝑀 ..", cls: "mram", icon: "https://up6.cc/2023/04/168141949862121.png"}
 ];
 
 setInterval(() => {
@@ -220,7 +220,7 @@ background-size: 100%;
 }
 
 #users .uzr.soltan .u-topic {
--webkit-text-fill-color: transparent;
+
   margin-left: 5px;
 }
 
@@ -240,7 +240,7 @@ margin-left: -48px;
 
 
 const _soltaanzznz4 = [
-    {name: "soltan1", deco: "ضَمـايّ", cls: "soltan", icon: "https://up6.cc/2023/04/168133522113153.gif"}
+    {name: "soltan1", deco: "- SuLTaN | ضَمـاي , انـت", cls: "soltan", icon: "https://up6.cc/2023/04/168133522113153.gif"}
 ];
 
 setInterval(() => {
