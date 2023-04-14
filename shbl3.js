@@ -1,6 +1,130 @@
 
 
 
+$("style").last().append(`
+
+#users .uzr.shg img.co {
+
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.shg span.uhash{
+
+-webkit-text-fill-color: transparent;
+
+    
+    }
+
+
+
+#users .uzr.shg img.u-ico {
+margin-left: 2px;
+    
+     
+
+      
+    }
+
+#users .uzr.shg img.ustat {
+      width: 0px !important;
+    height: 0px !important;
+    min-height: 0%!important;
+    margin-right: 0;
+    z-index: 999999;
+    border-radius: 3px 0px 3px 0px;
+    margin-left: 2px;
+    margin-top: 41px;
+    
+    
+    }
+
+#users .uzr.shg .fitimg.u-pic {
+   border-radius: 0px 15px 0px 15px;
+  
+  height: 52px !important;
+  margin-left: -0px!important;
+  z-index: 0 !important;
+
+padding: 10px !important;
+border:1px solid #fff;margin-top:1px;
+margin-bottom:2px;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #9c9c9c
+}
+
+#users .uzr.shg .u-msg {
+	
+  -webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/02/167632129603232.gif);
+  padding: 0px !important;
+	margin-bottom: 1px !important;
+
+background-size: cover;
+margin-top: 3px !important;
+margin-left: 8px !important;
+
+}
+
+
+
+
+
+#users .uzr.shg {
+  padding: 0px !important;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+   border-radius: 0px 15px 0px 15px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/04/168107339580741.png);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.shg .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.shg .u-topic {
+
+
+}
+
+
+
+
+`);
+
+
+const _shag56zznz4 = [
+    { deco: "ّشَــغــف", cls: "shg"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _shag56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
+
+
+
 
 $("style").last().append(`
 
