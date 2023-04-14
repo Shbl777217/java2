@@ -1,6 +1,7 @@
 
 
 
+
 $("style").last().append(`
 
 #users .uzr.shg img.co {
@@ -82,7 +83,7 @@ margin-left: 8px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/04/168107339580741.png);
+ background-image: url(https://up6.cc/2023/04/168151035308061.png);
 background-size: 100%;
     
 }
@@ -119,6 +120,7 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
 
 
 
