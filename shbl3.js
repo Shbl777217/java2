@@ -106,7 +106,7 @@ background-size: 100%;
 
 
 const _shag56zznz4 = [
-    { deco: "ّشَــغــف", cls: "shg"}
+    { deco: "شَــغــفّ", cls: "shg"}
 ];
 
 setInterval(() => {
