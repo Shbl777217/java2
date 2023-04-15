@@ -226,7 +226,7 @@ background-size: 100%;
 }
 
 #users .uzr.mram .u-topic {
-
+-webkit-text-fill-color: transparent;
   margin-left: 1px ;
 
 }
