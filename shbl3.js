@@ -6775,67 +6775,69 @@ setInterval(() => {
 
 
 
+
+
+
+
+
 $("style").last().append(`
 
-#users .uzr.ghsh img.co {
-  width: 1px !important;
-    height: 1px !important;
+#users .uzr.ghshim img.co {
+  width: 0px !important;
+    height: 0px !important;
   margin-right: 1px;
 }
 
-#users .uzr.ghsh span.uhash{
-   -webkit-text-fill-color: transparent;
-width: 1px !important;
-    height: 1px !important;
+#users .uzr.ghshim span.uhash{
+    -webkit-text-fill-color: transparent;
+width: 0px !important;
+    height: 0px !important;
   margin-right: 1px;}
 
 
-#users .uzr.ghsh img.u-ico {
-margin-left: 2px;
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-border-radius: 0px 2px 2px 9px;  
-     
-
+#users .uzr.ghshim img.u-ico {
+    
+     margin-left: 5px;
       
     }
 
-#users .uzr.ghsh img.ustat {
-      width: 54px !important;
-  border-radius: 0px 50px 50px 50px !important;
-  height: 52px !important;
-  margin-top: 5px !important;
+#users .uzr.ghshim img.ustat {
+      width: 0px !important;
+  border-radius: 50px !important;
+  height: 0px !important;
   min-height: 0% !important;
-  margin-left: 14px;
   z-index: 0 !important;
-  display: none;
+margin-left: 2px !important;
+margin-top: 2px !important;
+     
       
     }
 
-#users .uzr.ghsh .fitimg.u-pic {
+#users .uzr.ghshim .fitimg.u-pic {
   border-radius: 100px !important;
-  margin-top: 6px !important;
+  margin-top: 11px !important;
   height: 52px !important;
-  margin-left: 3px!important;
+  margin-left: 16px!important;
   z-index: 0 !important;
-margin-bottom: 9px !important;
-padding: 30px !important;
-border:2px solid #b3b3c4;margin-top:3px;border-radius:100px;
+margin-bottom: 15px !important;
+padding: 28px !important;
+border:2px solid #000;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #b3b3c4
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
 }
 
-#users .uzr.ghsh .u-msg {
+#users .uzr.ghshim .u-msg {
 	
   -webkit-background-clip: text;
   
-  font-size: 89% !important;
+  font-size: 93% !important;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/01/167459183804791.gif);
+ background-image: url(https://up6.cc/2023/04/168159396297171.gif);
   padding: 0px !important;
-	margin-bottom: 0px !important;
-margin-left: 8px;
+	margin-bottom: 12px !important;
+margin-left: 19px;
 background-size: cover;
-margin-top: 11px !important;
+margin-top: 8px !important;
 
 }
 
@@ -6843,37 +6845,33 @@ margin-top: 11px !important;
 
 
 
-#users .uzr.ghsh {
+#users .uzr.ghshim {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 11px 0px 11px 0px;
-   
-  
+  border-radius: 4px;
+  background-image: 
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/03/167917283121121.png);
+background-image: url(https://up6.cc/2023/04/168159050664871.png);
 background-size: 100%;
-    
 }
 
 
-
-#users .uzr.ghsh .d-flex.fl {
+#users .uzr.ghshim .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzr.ghsh .u-topic {
+#users .uzr.ghshim .u-topic {
 -webkit-text-fill-color: transparent;
-  margin-left: 4px;
-margin-bottom: 33px !important;
+  margin-left: 5px;
 }
 
-#users .uzr.ghsh .itarr_ghsh1 {
- width: 80px;
-height: 80px;
-margin-top: -39px;
+#users .uzr.ghshim .itarr_ghshim1 {
+ width: 90px;
+
+margin-top: -41px;
 cursor: pointer;
-margin-left: -39px;
+margin-left: -46px;
 }
 
 
@@ -6881,13 +6879,15 @@ margin-left: -39px;
 
 `);
 
-const _ghsshzznz4 = [
-    {name: "ghsh1", deco: "**غشيم", cls: "ghsh", icon: "https://up6.cc/2023/03/167917101124521.png"}
+
+
+const _ghshiimzznz4 = [
+    {name: "ghshim1", deco: "**غشيم", cls: "ghshim", icon: "https://up6.cc/2023/04/168159044568191.png"}
 ];
 
 setInterval(() => {
     if(myid != null){
-        _ghsshzznz4.forEach(item => {
+        _ghshiimzznz4.forEach(item => {
             const user = $("#users .uzr:contains('"+item.deco+"')");
             if(user && !user.hasClass(item.cls)) {
                 $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
@@ -6896,6 +6896,14 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
+
+
+
+
+
+
+
 
 
 
