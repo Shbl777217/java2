@@ -434,7 +434,7 @@ $(`<style>
   margin-bottom: 0px !important;
   background-color: #d9534f00;
   text-align: left!important;
-  margin-left: 137px!important;}
+  margin-left: 115px!important;}
 
 .nosel.d-flex.room.r1878ba542dcxfbbbc331xdld537 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 2px;
@@ -451,7 +451,7 @@ $(`<style>
   margin-bottom: 0px !important;
   background-color: #d9534f00;
   text-align: left!important;
-  margin-left: 137px!important;
+  margin-left: 115px!important;
 }
 .nosel.d-flex.room.r1878ba542dcxfbbbc331xdld537.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r1878ba542dcxfbbbc331xdld537 .dots.mini.u-msg {
