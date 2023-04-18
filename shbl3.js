@@ -1,6 +1,127 @@
 
 
 
+$("style").last().append(`
+
+#users .uzr.sher img.co {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.sher span.uhash{
+    -webkit-text-fill-color: transparent;
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;}
+
+
+#users .uzr.sher img.u-ico {
+
+margin-left: 4px;
+    
+     
+
+      
+    }
+
+#users .uzr.sher img.ustat {
+      width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 14px;
+  z-index: 0 !important;
+  display: none;
+      
+    }
+
+#users .uzr.sher .fitimg.u-pic {
+
+
+
+
+  border-radius: 5px 5px 5px 5px !important;
+  margin-top: 6px !important;
+  height: 52px !important;
+  margin-left: 10px!important;
+  z-index: 0 !important;
+margin-bottom: 10px !important;
+padding: 27px !important;
+border:1px solid #fff;margin-top:3px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #bddde9
+}
+
+#users .uzr.sher .u-msg {
+	
+  
+   -webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/04/168176583497231.gif);
+  padding: 0px !important;
+	margin-bottom: 0px !important;
+margin-left: 5px;
+background-size: cover;
+margin-top: 11px !important;
+
+}
+
+
+
+
+
+#users .uzr.sher {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 5px 5px 5px 5px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/04/168186010483631.png);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.sher .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.sher .u-topic {
+
+  margin-left: 1px ;
+
+}
+
+
+
+
+`);
+
+const _sheerb56zznz4 = [
+    {deco: " َ𝐒𝐇𝐄𝐑𝐑𝐘", cls: "sher"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _sheerb56zznz4.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+             
+            } 
+        });
+    }
+}, 3 * 1000);
+
+
+
 
 
 
