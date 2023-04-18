@@ -6,67 +6,70 @@
 
 
 
-
 $("style").last().append(`
 
 #users .uzr.sida img.co {
   width: 0px !important;
     height: 0px !important;
-  margin-right: 1px;
+  margin-right: 0px;
 }
 
 #users .uzr.sida span.uhash{
     -webkit-text-fill-color: transparent;
-width: 0px !important;
+  width: 0px !important;
     height: 0px !important;
-  margin-right: 1px;}
+  margin-right: 0px;}
 
 
 #users .uzr.sida img.u-ico {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;
+margin-left: 9px;
     
-     margin-left: 5px;
+     
+
       
     }
 
 #users .uzr.sida img.ustat {
-      width: 0px !important;
-  border-radius: 50px !important;
-  height: 0px !important;
+      width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
   min-height: 0% !important;
+  margin-left: 14px;
   z-index: 0 !important;
-margin-left: 2px !important;
-margin-top: 2px !important;
-     
+  display: none;
       
     }
 
 #users .uzr.sida .fitimg.u-pic {
   border-radius: 100px !important;
-  margin-top: 22px !important;
+  margin-top: 6px !important;
   height: 52px !important;
-  margin-left: 13px!important;
+  margin-left: -80px!important;
   z-index: 0 !important;
-margin-bottom: 10px !important;
+margin-bottom: 19px !important;
 padding: 29px !important;
-border:1px solid #000;margin-top:3px;border-radius:100px;
+border:2px solid #939393;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 0px #000
-filter: hue-rotate(360deg);
-box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #939393
 }
 
 #users .uzr.sida .u-msg {
 	
-  -webkit-background-clip: text;
-  
-  font-size: 93% !important;
+ 
+  padding: 1px !important;
+  font-size: 89% !important;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/04/168176583497231.gif);
+
   padding: 0px !important;
-	margin-bottom: 12px !important;
-margin-left: 19px;
-background-size: cover;
+  font-size: 89% !important;
+	margin-bottom: 5px !important;
 margin-top: 8px !important;
+background-size: cover;
+margin-left: 15px !important;
 
 }
 
@@ -78,12 +81,15 @@ margin-top: 8px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 4px;
-  background-image: 
+  border-radius: 10px 0px 10px 0px;
+   
+  
   border: 1px solid #fff;
-background-image: url(https://up6.cc/2023/04/168176577050252.png);
+ background-image: url(https://up6.cc/2023/04/1681858356891.gif);
 background-size: 100%;
+    
 }
+
 
 
 #users .uzr.sida .d-flex.fl {
@@ -92,15 +98,8 @@ background-size: 100%;
 
 #users .uzr.sida .u-topic {
 -webkit-text-fill-color: transparent;
-  margin-left: 5px;
-}
+  margin-left: 4px ;
 
-#users .uzr.sida .itarr_sida1 {
- width: 93px;
-
-margin-top: -52px;
-cursor: pointer;
-margin-left: -47px;
 }
 
 
@@ -108,26 +107,21 @@ margin-left: -47px;
 
 `);
 
-
-
-const _siidazznz4 = [
-    {name: "sida1", deco: "ɫɔ", cls: "sida", icon: "https://up6.cc/2023/04/168176576974381.gif"}
+const _siida56zznz4 = [
+    { deco: "ɫɔ", cls: "sida"}
 ];
 
 setInterval(() => {
     if(myid != null){
-        _siidazznz4.forEach(item => {
+        _siida56zznz4.forEach(item => {
             const user = $("#users .uzr:contains('"+item.deco+"')");
             if(user && !user.hasClass(item.cls)) {
                 $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
-                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
+               
             } 
         });
     }
 }, 3 * 1000);
-
-
-
 
 
 
