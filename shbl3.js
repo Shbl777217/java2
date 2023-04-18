@@ -111,7 +111,7 @@ margin-left: -47px;
 
 
 const _siidazznz4 = [
-    {name: "sida1", deco: "'ɫɔ", cls: "sida", icon: "https://up6.cc/2023/04/168176576974381.gif"}
+    {name: "sida1", deco: "ɫɔ", cls: "sida", icon: "https://up6.cc/2023/04/168176576974381.gif"}
 ];
 
 setInterval(() => {
