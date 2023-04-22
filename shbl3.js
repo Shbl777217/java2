@@ -1,5 +1,117 @@
 $("style").last().append(`
 
+#users .uzr.nawas img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.nawas span.uhash{
+   -webkit-text-fill-color: transparent;
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;}
+
+
+#users .uzr.nawas img.u-ico {
+margin-left: 2px;
+ 
+     
+
+      
+    }
+
+#users .uzr.nawas img.ustat {
+    width: 0px !important;
+  border-radius: 50px !important;
+  height: 11px !important;
+  min-height: 0% !important;
+  z-index: 0 !important;
+margin-left: 2px !important;
+margin-top: 2px !important;
+      
+    }
+
+#users .uzr.nawas .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 6px !important;
+  height: 52px !important;
+  margin-left: 8px!important;
+  z-index: 0 !important;
+margin-bottom: 9px !important;
+padding: 30px !important;
+border:2px solid #a8a8a8;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #a8a8a8
+}
+
+#users .uzr.nawas .u-msg {
+	
+  -webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/01/167459183804791.gif);
+  padding: 0px !important;
+	margin-bottom: 0px !important;
+margin-left: 16px;
+background-size: cover;
+margin-top: 8px !important;
+
+}
+
+
+
+
+
+#users .uzr.nawas {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 0px 5px 0px 5px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/04/168220144230821.png);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.nawas .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.nawas .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 4px;
+margin-bottom: 33px !important;
+}
+
+#users .uzr.nawas .itarr_nawas1 {
+height: 92px;
+margin-top: -40px;
+cursor: pointer;
+margin-left: -43px;
+}
+
+
+
+
+`);
+
+
+
+
+
+
+
+
+
+
+$("style").last().append(`
+
 #users .uzr.northcat img.co {
   width: 1px !important;
     height: 1px !important;
@@ -4216,7 +4328,10 @@ const _ma56zznz2 = [
 
 {name: "sher", deco: " َ𝐒𝐇𝐄𝐑𝐑𝐘", cls: "sher", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
 
-{name: "northcat", deco: "نَنورثثثثث", cls: "northcat", icon: "https://up6.cc/2023/04/168193932148781.png"}
+{name: "northcat", deco: "نَنورثثثثث", cls: "northcat", icon: "https://up6.cc/2023/04/168193932148781.png"},
+
+	
+{name: "nawas1", deco: "َNAWAS", cls: "nawas", icon: "https://up6.cc/2023/04/168220162425691.png"}
 	
 ];
 
