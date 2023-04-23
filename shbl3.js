@@ -1,3 +1,113 @@
+$("style").last().append(`
+
+#users .uzr.troh img.co {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;
+}
+
+#users .uzr.troh span.uhash{
+    -webkit-text-fill-color: transparent;
+width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;}
+
+
+#users .uzr.troh img.u-ico {
+margin-left: 9px;
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #505050;
+border-radius: 2px 2px 2px 2px;
+
+
+     
+
+      
+    }
+
+#users .uzr.troh img.ustat {
+ width: 10px !important;
+  border-radius: 50px !important;
+  height: 10px !important;
+  min-height: 0% !important;
+  z-index: 0 !important;
+margin-left: 5px !important;
+margin-top: 4px !important;
+      
+    }
+
+#users .uzr.troh .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 9px !important;
+  height: 52px !important;
+  margin-left: -4px!important;
+  z-index: 0 !important;
+margin-bottom: 12px !important;
+padding: 27px !important;
+border:1px solid #2e2e2e;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000;
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+}
+
+#users .uzr.troh .u-msg {
+-webkit-background-clip: text;
+  
+  font-size: 93% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/03/167832696716741.gif);
+  padding: 0px !important;
+	margin-bottom: 5px !important;
+margin-right: 28px !important;
+margin-left: 15px;
+background-size: cover;
+margin-top: 8px !important;
+
+}
+
+
+
+
+
+#users .uzr.troh {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 0px 0px 0px 0px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/04/16822874202881.png);
+background-size: 100%;
+
+    
+}
+
+
+
+#users .uzr.troh .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.troh .u-topic {
+     -webkit-text-fill-color: transparent;
+  margin-left: 5px ;
+
+}
+
+
+#users .uzr.troh .itarr_troh {
+ width: 96px;
+height: 96px;
+margin-top: -45px;
+cursor: pointer;
+margin-left: -46px;
+}
+
+
+`);
+
+
 
 
 $("style").last().append(`
