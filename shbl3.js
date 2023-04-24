@@ -4573,7 +4573,9 @@ const _ma56zznz2 = [
 	
  {name: "ova1", deco: "ＯＶＡ", cls: "ova", icon: "https://up6.cc/2023/04/168141949862121.png"},
 
-{ name: "troh", deco: "t-ro7", cls: "troh", icon: "https://up6.cc/2023/04/168228729914391.png"}
+{ name: "troh", deco: "t-roh", cls: "troh", icon: "https://up6.cc/2023/04/168228729914391.png"},
+	
+{ name: "tro7", deco: "t-ro7", cls: "tro7", icon: "https://up6.cc/2023/03/16783258845491.png"}
 	
 ];
 
