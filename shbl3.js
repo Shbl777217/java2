@@ -457,72 +457,73 @@ margin-left: -41px;
 
 
 
+
+
 $("style").last().append(`
 
-#users .uzr.sher img.co {
+#users .uzr.anida img.co {
   width: 0px !important;
     height: 0px !important;
-  margin-right: 1px;
+  margin-right: 0px;
 }
 
-#users .uzr.sher span.uhash{
+#users .uzr.anida span.uhash{
     -webkit-text-fill-color: transparent;
-  width: 0px !important;
+width: 0px !important;
     height: 0px !important;
   margin-right: 0px;}
 
 
-#users .uzr.sher img.u-ico {
-
-margin-left: 4px;
+#users .uzr.anida img.u-ico {
+margin-left: 9px;
+width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
     
      
 
       
     }
 
-#users .uzr.sher img.ustat {
-      width: 54px !important;
-  border-radius: 0px 50px 50px 50px !important;
-  height: 52px !important;
-  margin-top: 5px !important;
-  min-height: 0% !important;
-  margin-left: 14px;
-  z-index: 0 !important;
-  display: none;
+#users .uzr.anida img.ustat {
+      width: 0px !important;
+    height: 0px !important;
+    min-height: 0%!important;
+    margin-right: 0;
+    z-index: 999999;
+    border-radius: 50px;
+    margin-left: 6px;
+    margin-top: 8px;
       
     }
 
-#users .uzr.sher .fitimg.u-pic {
-
-
-
-
-  border-radius: 5px 5px 5px 5px !important;
-  margin-top: 6px !important;
-  height: 52px !important;
-  margin-left: 10px!important;
+#users .uzr.anida .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 5px !important;
+  height: 0px !important;
+  margin-left: -80px!important;
   z-index: 0 !important;
 margin-bottom: 10px !important;
-padding: 27px !important;
-border:1px solid #fff;margin-top:3px;
+padding: 0px !important;
+border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #bddde9
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
 }
 
-#users .uzr.sher .u-msg {
+#users .uzr.anida .u-msg {
+text-align:center;
 	
+  -webkit-background-clip: text;
   
-   -webkit-background-clip: text;
-  
-  font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/04/168176583497231.gif);
+  font-size: 90% !important;
+ -webkit-text-fill-color: transparent;
+
   padding: 0px !important;
-	margin-bottom: 0px !important;
-margin-left: 5px;
-background-size: cover;
-margin-top: 11px !important;
+	margin-bottom: -2px !important;
+
+
+margin-top: 10px !important;
+margin-left: -8px !important;
 
 }
 
@@ -530,42 +531,42 @@ margin-top: 11px !important;
 
 
 
-#users .uzr.sher {
+#users .uzr.anida {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 5px 5px 5px 5px;
+  border-radius: 4px 4px 4px 4px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/04/168186010483631.png);
+ background-image: url(https://up6.cc/2023/04/168236394666981.png);
 background-size: 100%;
+
     
 }
 
 
 
-#users .uzr.sher .d-flex.fl {
+#users .uzr.anida .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzr.sher .u-topic {
-
-  margin-left: 1px ;
+#users .uzr.anida .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 9px ;
 
 }
 
+#users .uzr.anida .itarr_anida1 {
+ width: 0px;
 
-#users .uzr.sher .itarr_sher {
-height: 0px;
-margin-top: -40px;
+margin-top: -0px;
 cursor: pointer;
-margin-left: -41px;
+margin-left: -0px;
 }
+
 
 `);
-
-
 
 
 
@@ -4563,7 +4564,7 @@ const _ma56zznz2 = [
 
 {name: "sida", deco: "ɫɔ", cls: "sida", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
 
-{name: "sher", deco: " َ𝐒𝐇𝐄𝐑𝐑𝐘", cls: "sher", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
+ {name: "anida1", deco: "روَح عَنيــــــدهـ", cls: "anida", icon: "https://up6.cc/2023/04/168141949862121.png"},
 
 {name: "northcat", deco: "نَنورثثثثث", cls: "northcat", icon: "https://up6.cc/2023/04/168193932148781.png"},
 
