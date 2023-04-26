@@ -2900,29 +2900,26 @@ setInterval(function () {
 
 
 
-
-
-
 $(`<style>.nosel.d-flex.room.r18646e80252x31082751-x-xpp3b9 .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: transparent!important; padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
 margin-left: 170px !important;
-margin-top: 40px !important;
+margin-top: -50px !important;
 }
 
 .nosel.d-flex.room.r18646e80252x31082751-x-xpp3b9 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: transparent!important;padding: 0px !important;border-radius: 50px !important;background-color: transparent;
 margin-left: 170px !important;
-margin-top: 40px !important;
+margin-top: -50px !important;
 }
 
 
     .nosel.d-flex.room.r18646e80252x31082751-x-xpp3b9.bord {border-inline: 4px solid #3cb089 !important;}
     .nosel.d-flex.room.r18646e80252x31082751-x-xpp3b9 {
-    border-radius: 0px 15px 15px 15px;
+    border-radius: 0px 0px 0px 0px;
     display: inline-block;
-    background-image: url(https://up6.cc/2023/02/167623282853071.gif);
-	background-size: Cover;
-	padding: 5px !important;
+    background-image: url(https://up6.cc/2023/04/168246562698071.gif);
+	background-size: 100%;
+	padding: 0px !important;
 	
-border-radius: 0px 20px 20px 20px !important;
+
         
         
 	
@@ -2942,7 +2939,7 @@ border-radius: 0px 20px 20px 20px !important;
 
     .nosel.d-flex.room.r18646e80252x31082751-x-xpp3b9 .dots.mini.u-msg {
 	margin-bottom: 50px !important;
-margin-top: 30px !important;
+margin-top: 25px !important;
 	text-align: right!important;
 	margin-left: 90px !important;
     font-size: 14px !important;
@@ -3013,7 +3010,7 @@ var roomiddal='18646e80252x31082751-x-xpp3b9';
     
     
     
-    $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;
+    $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${roomiddal}')"]{border: 0px solid #0000;
 
 background-size: 220% auto;border-radius: 14px 0px  14px 14px !important;background-image: url(https://up6.cc/2023/02/167622710859171.gif);
   background-size: cover;
@@ -3326,10 +3323,6 @@ button.rsave.btn.btn-primary.fl.nrth {
             } 
         } 
     }, 10);
-
-
-
-
 
 
 
