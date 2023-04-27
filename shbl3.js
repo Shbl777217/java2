@@ -663,7 +663,7 @@ margin-left: -8px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/04/168236394666981.png);
+ background-image: url(https://up6.cc/2023/04/168256739759111.png);
 background-size: 100%;
 
     
@@ -4688,7 +4688,7 @@ const _ma56zznz2 = [
 
 {name: "sida", deco: "ɫɔ", cls: "sida", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
 
- {name: "anida1", deco: "روَح عَنيــــــدهـ", cls: "anida", icon: "https://up6.cc/2023/04/168141949862121.png"},
+ {name: "anida1", deco: "ŋɛʷ#", cls: "anida", icon: "https://up6.cc/2023/04/168141949862121.png"},
 
 {name: "northcat", deco: "نَنورثثثثث", cls: "northcat", icon: "https://up6.cc/2023/04/168193932148781.png"},
 
