@@ -751,18 +751,18 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #939393
 }
 
 #users .uzr.sida .u-msg {
-	
+	text-align: center;
  
-  padding: 1px !important;
-  font-size: 89% !important;
+  -webkit-background-clip: text;
+  
+  font-size: 93% !important;
   -webkit-text-fill-color: #0000;
-
+ background-image: url(https://up6.cc/2023/04/168272313655821.gif);
   padding: 0px !important;
-  font-size: 89% !important;
-	margin-bottom: 5px !important;
-margin-top: 8px !important;
+	margin-bottom: 20px !important;
+margin-left: 0px;
 background-size: cover;
-margin-left: 15px !important;
+margin-top: 15px !important;
 
 }
 
@@ -796,16 +796,9 @@ background-size: 100%;
 }
 
 
-#users .uzr.sida .itarr_sida {
-height: 0px;
-margin-top: -40px;
-cursor: pointer;
-margin-left: -41px;
-}
+
 
 `);
-
-
 
 
 
