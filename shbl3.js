@@ -1,3 +1,82 @@
+$("style").last().append(`
+  #users .uzr.mqam .u-topic {
+  -webkit-text-fill-color: #000;
+
+}
+
+#users .uzr.mqam .u-msg {
+
+  -webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/04/168288636106471.gif);
+margin-top: 2px;
+margin-left: 3px;
+background-size: cover;
+
+
+}
+
+#users .uzr.mqam .fitimg.u-pic {
+  border-radius: 5px !important;
+  margin-top: 0px !important;
+  height: 52px !important;
+  margin-left: 0px!important;
+  z-index: 0 !important;
+margin-bottom: 2px !important;
+padding: 0px !important;
+border:1px solid #fff;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #e46ae4
+}
+
+
+#users .uzr.mqam {
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 2px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/04/16828848264852.jpg);
+background-size: 100%;
+}
+#users .uzr.mqam .d-flex.fl {
+  padding-right: 0px !important;
+}
+#users .uzr.mqam .u-topic {
+  margin-left: 5px;
+-webkit-text-fill-color: #0000;
+}
+
+#users .uzr.mqam img.co {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;
+}
+
+#users .uzr.mqam span.uhash{
+    -webkit-text-fill-color: transparent;
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;}
+
+
+
+#users .uzr.mqam .itarr_mqam1 {
+ width: 0px;
+
+margin-top: -0px;
+cursor: pointer;
+margin-left: -0px;
+}
+
+
+
+`);
+
 
 
 
@@ -4345,7 +4424,9 @@ const _ma56zznz2 = [
 	
 { name: "tro7", deco: "t-ro7", cls: "tro7", icon: "https://up6.cc/2023/03/16783258845491.png"},
 
-{name: "mshail1", deco: "مAغّـر", cls: "mshail", icon: "https://up6.cc/2023/04/168236496562091.png"}
+{name: "mshail1", deco: "مAغّـر", cls: "mshail", icon: "https://up6.cc/2023/04/168236496562091.png"},
+	
+{name: "mqam1", deco: "صَاحبة المقامA", cls: "mqam" ,icon: "https://up6.cc/2023/04/168141949862121.png"}
 ];
 
 setInterval(() => {
