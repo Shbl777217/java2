@@ -16,7 +16,7 @@ $("style").last().append(`
 
 
 #users .uzr.nawarh img.u-ico {
-box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #ffe700;
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #ffc100;
 border-radius: 0px 5px 5px 5px;
 margin-left: 3px;
     
@@ -51,7 +51,7 @@ padding: 27px !important;
 margin-top:3px;
 
 
-box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #ffd400;
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #ffc100;
 
    
   
@@ -76,7 +76,7 @@ margin-top: 7px !important;
 
 
 #users .uzr.nawarh {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #ffe700;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #ffc100;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border-radius: 0px 10px 10px 10px;
