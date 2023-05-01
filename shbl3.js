@@ -1,3 +1,120 @@
+
+
+$("style").last().append(`
+
+#users .uzr.nawarh img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.nawarh span.uhash{
+    -webkit-text-fill-color: transparent;
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;}
+
+
+#users .uzr.nawarh img.u-ico {
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #ffe700;
+border-radius: 0px 5px 5px 5px;
+margin-left: 3px;
+    
+     
+
+      
+    }
+
+#users .uzr.nawarh img.ustat {
+      width: 10px !important;
+  border-radius: 0px 10px 50px 50px !important;
+  height: 10px !important;
+  min-height: 0% !important;
+  z-index: 0 !important;
+margin-left: -1px !important;
+margin-top: 0px !important;
+      
+    }
+
+#users .uzr.nawarh .fitimg.u-pic {
+
+
+
+
+  border-radius: 0px 10px 10px 10px !important;
+  margin-top: 6px !important;
+  height: 52px !important;
+  margin-left: 0px!important;
+  z-index: 0 !important;
+margin-bottom: 8px !important;
+padding: 27px !important;
+margin-top:3px;
+
+
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #ffd400;
+
+   
+  
+  border: 1px solid #fff;
+}
+
+#users .uzr.nawarh .u-msg {
+	
+  
+   -webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/04/168271454577411.gif);
+  padding: 0px !important;
+	margin-bottom: 0px !important;
+margin-left: 7px;
+background-size: cover;
+margin-top: 7px !important;
+
+}
+
+
+#users .uzr.nawarh {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #ffe700;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 0px 10px 10px 10px;
+   
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/04/168271538506331.png);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.nawarh .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.nawarh .u-topic {
+
+  margin-left: 1px ;
+
+}
+
+
+
+#users .uzr.nawarh .itarr_nawarh1 {
+ width: 0px;
+
+margin-top: -0px;
+cursor: pointer;
+margin-left: -0px;
+}
+
+`);
+
+
+
+
+
 $("style").last().append(`
   #users .uzr.mqam .u-topic {
   -webkit-text-fill-color: #000;
@@ -4426,7 +4543,10 @@ const _ma56zznz2 = [
 
 {name: "mshail1", deco: "مAغّـر", cls: "mshail", icon: "https://up6.cc/2023/04/168236496562091.png"},
 	
-{name: "mqam1", deco: "صَاحبة المقامA", cls: "mqam" ,icon: "https://up6.cc/2023/04/168141949862121.png"}
+{name: "mqam1", deco: "صَاحبة المقامA", cls: "mqam" ,icon: "https://up6.cc/2023/04/168141949862121.png"},
+	
+{name: "nawarh1", deco: "نَـــــــواره", cls: "nawarh", icon: "https://up6.cc/2023/04/168141949862121.png"}
+	
 ];
 
 setInterval(() => {
