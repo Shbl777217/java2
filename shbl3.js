@@ -1,5 +1,108 @@
 
 
+
+$("style").last().append(`
+
+
+
+#users .uzr.northm span.uhash{
+    width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;
+-webkit-text-fill-color: transparent;}
+
+
+#users .uzr.northm img.u-ico {
+       width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+      
+    }
+
+#users .uzr.northm img.ico {
+       width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+      
+    }
+
+
+#users .uzr.northm img.ustat {
+      width: 0px !important;
+      border-radius: 100px;
+      height: 0px;
+     
+      
+    }
+
+#users .uzr.northm .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 9px !important;
+  height: 52px !important;
+  margin-left: 12px!important;
+  z-index: 0 !important;
+margin-bottom: 9px !important;
+padding: 27px !important;
+border:1px solid #000;margin-top:2px;border-radius:5px;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #3e3e3e
+}
+
+#users .uzr.northm .u-msg {
+	
+  -webkit-background-clip: text;
+  
+  font-size: 93% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/01/167458934291671.gif);
+  padding: 0px !important;
+	margin-bottom: 10px !important;
+margin-left: 15px;
+background-size: cover;
+margin-top: 10px !important;
+
+}
+
+
+
+
+
+#users .uzr.northm {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px;
+  background-image: 
+  border: 1px solid #fff;
+background-image: url(https://up6.cc/2023/03/1679079029681.png);
+background-size: 100%;
+}
+
+
+#users .uzr.northm .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.northm .u-topic {
+ 
+    -webkit-text-fill-color: transparent;
+
+}
+
+#users .uzr.northm .itarr_northm1 {
+ width: 0px;
+
+margin-top: -0px;
+cursor: pointer;
+margin-left: -0px;
+}
+
+
+
+`);
+
+
+
+
 $("style").last().append(`
 
 #users .uzr.nawarh img.co {
@@ -4436,7 +4539,9 @@ const _ma56zznz2 = [
 	
 {name: "mqam1", deco: "صَاحبة المقامA", cls: "mqam" ,icon: "https://up6.cc/2023/04/168141949862121.png"},
 	
-{name: "nawarh1", deco: "نَـــــــواره", cls: "nawarh", icon: "https://up6.cc/2023/04/168141949862121.png"}
+{name: "nawarh1", deco: "نَـــــــواره", cls: "nawarh", icon: "https://up6.cc/2023/04/168141949862121.png"},
+	
+{name: "northm1", deco: "نور1ث", cls: "northm", icon: "https://up6.cc/2023/04/168141949862121.png"}
 	
 ];
 
