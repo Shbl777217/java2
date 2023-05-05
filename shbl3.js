@@ -156,7 +156,7 @@ width: 0px !important;
   height: 0px !important;
   margin-left: -80px!important;
   z-index: 0 !important;
-margin-bottom: 20px !important;
+margin-bottom: 30px !important;
 padding: 0px !important;
 border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
 
@@ -192,7 +192,7 @@ margin-left: -8px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/05/168332346210211.jpg);
+ background-image: url(https://up6.cc/2023/05/168332829332771.jpg);
 background-size: 100%;
 
     
