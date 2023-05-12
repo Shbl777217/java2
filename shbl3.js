@@ -10,7 +10,9 @@ $("style").last().append(`
 }
 
 #users .uzr.arib span.uhash{
-
+width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
 -webkit-text-fill-color: transparent;
 
     
