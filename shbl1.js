@@ -1,3 +1,7 @@
+
+
+
+
 $(`<style>.nosel.d-flex.room.r187fd597e60xed8fa3a5-xhlvz2q .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
 margin-top: 30px!important;}
 
@@ -53,12 +57,13 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
     
     $(`<style>#mic.arib .mic {
     border: 0px solid;
-    animation: huerotate 2s infinite linear;
+    animation: huerotate 0s infinite linear;
     filter: hue-rotate(360deg);
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
     margin: 3px;
     margin-top: 1px;
 	height: 48px;
+background-color: #876f65;
 }
 @keyframes huerotate {
     0% {
@@ -137,9 +142,14 @@ margin-top: 3px !important;
 
 #dpnl.arib.bg{background-image:linear-gradient(225deg,#cfc6c4 0%,#cfc6c4 29%,#eaeaea 67%,#cfc6c4 100%) */}#rooms.arib .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 14px 0px  14px 14px !important}
 #rooms.arib .label-primary {
-    border-radius: 14px 0px  14px 14px !important;
-    background-color: #cfc6c4!important;
-    border: 1px solid #efefef!important;
+     border-radius: 14px 0px  14px 14px !important;
+    border: 1px solid #000;
+    background-color: #876f65!important;
+    background-size: cover;
+    color: #f7f4f2;
+
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 #users.arib img.ustat {
     width: 13px !important;
@@ -243,13 +253,7 @@ box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
 }
-#rooms.arib .fitimg.u-pic.borderg{
-height: 52px !important;
-border: 1px solid;
-border-image: linear-gradient(45deg, gold, deeppink) 0;
-filter: hue-rotate(360deg);
-box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
-}
+
 .corner.border.label.label-primary.arib {
   border-radius: 14px 0px  14px 14px !important;
   border: 1px solid #d4cfd2;
@@ -408,6 +412,9 @@ button.rsave.btn.btn-primary.fl.arib {
             } 
         } 
     }, 10);
+
+
+
 
 
 
