@@ -100,6 +100,7 @@ margin-right: 2px;
 }
 #users.arib .fitimg.u-pic {
 border: 1px solid;
+filter: hue-rotate(360deg);
 box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
 margin-bottom: 2px !important;
 margin-top: 4px !important;
@@ -237,7 +238,8 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 height: 52px !important;
 border: 1px solid;
 border-radius: 14px 0px  14px 14px ;
-box-shadow: 0 0 0px rgb(140, 140, 140), inset 0 0 4px rgb(140, 140, 140), 0 0 0 0px #707070;
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
 }
@@ -246,7 +248,7 @@ height: 52px !important;
 border: 1px solid;
 border-image: linear-gradient(45deg, gold, deeppink) 0;
 filter: hue-rotate(360deg);
-box-shadow: 0 0 0px rgb(140, 140, 140), inset 0 0 4px rgb(140, 140, 140), 0 0 0 0px #707070;
+box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
 }
 .corner.border.label.label-primary.arib {
   border-radius: 14px 0px  14px 14px !important;
@@ -324,7 +326,8 @@ box-shadow: 0 0 0px rgb(140, 140, 140), inset 0 0 10px rgb(140, 140, 140), 0 0 0
 
 #users.arib .inroom .fitimg.u-pic {
 border: 1px solid;
-box-shadow: 0 0 0px rgb(140, 140, 140), inset 0 0 4px rgb(140, 140, 140), 0 0 0 0px #707070;
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
 margin-left: -12px;
@@ -405,7 +408,6 @@ button.rsave.btn.btn-primary.fl.arib {
             } 
         } 
     }, 10);
-
 
 
 
