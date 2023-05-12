@@ -1,4 +1,3 @@
-
 $(`<style>.nosel.d-flex.room.r187fd597e60xed8fa3a5-xhlvz2q .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
 margin-top: 30px!important;}
 
@@ -102,7 +101,8 @@ margin-right: 2px;
 #users.arib .fitimg.u-pic {
 border: 1px solid;
 box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
-margin-top: 2px;
+margin-bottom: 2px !important;
+margin-top: 4px !important;
 margin-right: 2px;
 border-radius: 100%;
 margin-left: -12px;
@@ -128,10 +128,10 @@ height: 52px;
 }
 
 
-#users.arib .mini.u-msg{text-align:center;
-margin-right: 22px !important;
-margin-bottom: 15px !important;
-margin-top: 9px !important;
+#users.arib .mini.u-msg{
+margin-right: 5px !important;
+margin-bottom: 2px !important;
+margin-top: 3px !important;
  }
 
 #dpnl.arib.bg{background-image:linear-gradient(225deg,#cfc6c4 0%,#cfc6c4 29%,#eaeaea 67%,#cfc6c4 100%) */}#rooms.arib .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 14px 0px  14px 14px !important}
