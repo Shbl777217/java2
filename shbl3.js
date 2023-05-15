@@ -4285,7 +4285,7 @@ margin-left: 9px;
 
 padding: 30px !important;
 border:0px solid #fff;margin-top:5px;border-radius:100px;
-margin-bottom:-15px;
+margin-bottom:10px;
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #ffc000
 }
 
