@@ -113,7 +113,7 @@ cursor: pointer;
 margin-left: -0px;
 }
 
-
+`);
 
 
 $("style").last().append(`
