@@ -3210,14 +3210,17 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #5b5b5b}
 
 
 
+
+
+
 $(`<style>.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #7c090a;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
 margin-left: 110px !important;
-margin-top: 20px !important;
+margin-top: 7px !important;
 }
 
 .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #7c090a;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;
 margin-left: 110px !important;
-margin-top: 20px !important;
+margin-top: 7px !important;
 }
 
 
@@ -3597,6 +3600,10 @@ setInterval(function () {
             } 
         } 
     }, 10);
+
+
+
+
 
 
 
