@@ -3208,86 +3208,66 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #5b5b5b}
 
 
 
-$(`<style>
-.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .fitimg.u-pic.borderg {
-  letter-spacing: 1px;
-  background-size: 108% 108%;
-  -webkit-text-fill-color: white;
-  animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
+
+
+$(`<style>.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #7c090a;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
+margin-left: 110px !important;
+margin-top: 20px !important;
 }
 
-.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .label-primary {letter-spacing: 1px;
-  -webkit-text-fill-color: transparent;
-	animation: textclip 3s linear infinite;
-	background-image: linear-gradient(100deg, #000 0%, #3e739f 29%, #000 67%, #3e739f 100%);
-    background-size: 200% 200%;
-	-webkit-background-clip: text;
-	color: transparent !important;
-	
-  border-radius: 15px 0px 15px 0px !important;
-  height: 27px;
-  margin-top: 0px !important;
-  margin-bottom: 0px !important;
-  background-color: #d9534f00;
-  text-align: left!important;
-  margin-left: 128px!important;}
+.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #7c090a;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;
+margin-left: 110px !important;
+margin-top: 20px !important;
+}
 
-.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
-  letter-spacing: 1px;
-  -webkit-text-fill-color: transparent;
-	animation: textclip 3s linear infinite;
-	background-image: linear-gradient(100deg, #000 0%, #3e739f 29%, #000 67%, #3e739f 100%);
-    background-size: 200% 200%;
-	-webkit-background-clip: text;
-	color: transparent !important;
-	
-  border-radius: 15px 0px 15px 0px !important;
-  height: 27px;
-  margin-top: 0px !important;
-  margin-bottom: 0px !important;
-  background-color: #d9534f00;
-  text-align: left!important;
-  margin-left: 128px!important;
-}
-.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv.bord {border-inline: 0px solid #4c121e !important;}
-.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .dots.mini.u-msg {
-    text-align: center;
-    margin-top: 0px !important;
-	margin-left: 10px;
-	-webkit-text-fill-color: transparent;
-	color: transparent !important;
-	background-size: 100% 100%;
-}
-.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv {
-    background-image: url(https://up6.cc/2023/03/167899806024061.png);
-    background-size: cover ;
-    border-radius: 15px 0px 15px 0px;
+
+    .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv.bord {border-inline: 4px solid #484848 !important;}
+    .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv {
+    border-radius: 0px 15px 15px 15px;
     display: inline-block;
-}
-.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .fitimg.u-pic.borderg {
-  border-radius: 100px;
-  border: 2px solid #cc8321;
-  letter-spacing: 1px;
-  background-size: 108% 108%;
-  -webkit-text-fill-color: white;
-  animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
-  min-width: 62px !important;
-  width: 62px !important;
-  min-height: 60px !important;
-  max-height: 60px !important;
-  display: none;
-}
-.nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .u-topic.dots {text-transform: uppercase;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;
-	margin-bottom: 0px !important;
-margin-right: 0px !important;
-margin-left: 70px;
+    background-image: url(https://up6.cc/2023/05/168513103283471.gif);
+	background-size: 100%;
+	padding: 5px !important;
+	
+border-radius: 0px 20px 20px 20px !important;
+        
+        
+	
+    }
+    .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .dots.mini.u-msg {
+	margin-bottom: 50px !important;
+margin-top: 30px !important;
+	text-align: right!important;
+	margin-left: 90px !important;
+    font-size: 14px !important;
+    -webkit-text-fill-color: #transparent;
+    
+    }
+    .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .fitimg.u-pic.borderg{;background-size: 0% 0%;-webkit-text-fill-color: white;
+	
+	height: 0px !important;
+	width : 0px !important;
+	padding: 5px !important;
+	background-color: #transparent !important;
+	background-color: transparent !important;
+	border: 2px solid transparent !important;
+	}
+    .nosel.d-flex.room.r184116e9376x9b7d8297x-7r4mtv .u-topic.dots {
+    text-transform: uppercase;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+    font-size: 20px !important;
+    font-style: normal;
+    font-family: sans-serif;
+	
+    color: transparent !important;
+    background-size: 100% 100%;
+	margin-top: -11% !important;
+   }
+    @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 
-margin-top: 40px !important;
--webkit-text-fill-color: transparent;
-}
-
-
-@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+    
 var roomiddal='184116e9376x9b7d8297x-7r4mtv';
     $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${roomiddal}')"]{padding: 2px !important;
     animation: textclip 5s linear infinite;
@@ -3587,13 +3567,13 @@ border-radius:  0px 10px 0px 10px !important;
 
 #chats.aym {
       background-color: #f5f5f5 !important;
-      background-image: url("https://up6.cc/2023/03/167899377671761.png");
+      background-image: url("https://up6.cc/2023/05/168513155026111.jpg");
     background-size: 100%;
 background-color: #f5f5f5 !important;
   }
 
 #d2.aym .uzr.d-flex.mm {
-background-image: url(https://up6.cc/2023/03/167899377675742.png);
+background-image: url(https://up6.cc/2023/05/168513181497071.png);
    background-size: 100% ;
    border-radius: 10px 0 10px;}
 
