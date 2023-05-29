@@ -3547,7 +3547,7 @@ background-color: #f5f5f5 !important;
   }
 
 #d2.aym .uzr.d-flex.mm {
-background-image: url(https://up6.cc/2023/05/168530379248481.jpg);
+background-image: url(https://up6.cc/2023/05/168538270961151.png);
    background-size: 100% ;
    border-radius: 10px 0 10px;}
 
