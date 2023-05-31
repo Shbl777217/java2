@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 $(`<style>
 .nosel.d-flex.room.r186df6d70a2x66ca33f7-xdxtcyp .fitimg.u-pic.borderg {
   letter-spacing: 1px;
@@ -196,19 +202,9 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #838383}
 background-color: #f5f5f5 !important;
   }
 
-#d2bc.rashiq.d2.light.d2bc.flex-grow-1.break {
-      background-color: #f5f5f5 !important;
-      background-image: url("https://up6.cc/2023/03/167778367826041.png");
-    background-size: 100%;
-background-color: #f5f5f5 !important;
-  }
 
-#rooms.rashiq {
-      background-color: #f5f5f5 !important;
-      background-image: url("https://up6.cc/2023/03/167778367826041.png");
-    background-size: 100%;
-background-color: #f5f5f5 !important;
-  }
+
+
 
 button.blike.corner.btn.minix.btn-danger.fa.fa-heart.rashiq {
    border-radius: 0px 10px 10px 0px;
@@ -291,6 +287,13 @@ setInterval(function () {
             } 
         } 
     }, 10);
+
+
+
+
+
+
+
 
 
 
