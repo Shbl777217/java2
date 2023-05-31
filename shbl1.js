@@ -163,10 +163,7 @@ margin-top:2px;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #838383}#d0.rashiq
 #room.rashiq .btn-primary{background-color:#838383 !important;border-radius:0px 10px 10px 0px!important;border:1px solid #f8f8f8}
 #d2.rashiq{background-color:#ececec!important}
 #room.rashiq .tablebox.d-flex.footer.fl.light{background-color:#797979;}
-#upro.rashiq .light.fl.pro.break{background-color: #f5f5f5 !important;
-      background-image: url("https://up6.cc/2023/03/167770251930441.png");
-    background-size: 100%;
-background-color: #f5f5f5 !important;}
+
 #wall.rashiq .fitimg.u-pic.borderg{border-radius:0px 10px 10px 0px;
 height:52px!important;
 border:1px solid #fff;margin-top:2px;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #838383}
