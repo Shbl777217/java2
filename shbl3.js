@@ -1,6 +1,8 @@
 
 
 
+
+
 $("style").last().append(`
 
 #users .uzr.athhb img.co {
@@ -79,7 +81,7 @@ margin-top: 7px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/05/168538294259931.jpg);
+ background-image: url(https://up6.cc/2023/05/168556234848422.jpg);
 background-size: 100%;
 
     
@@ -108,6 +110,7 @@ margin-left: -50px;
 
 
 `);
+
 
 
 
