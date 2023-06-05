@@ -2628,7 +2628,6 @@ margin-left: -46px;
 
 
 
-
 $("style").last().append(`
 
 #users .uzr.hhqq img.co {
@@ -2670,7 +2669,7 @@ margin-left: -2px;
   height: 52px !important;
   margin-left: 23px!important;
   z-index: 0 !important;
-margin-bottom: 0px !important;
+margin-bottom: 27px !important;
 padding: 28px !important;
 border:2px solid #9f9f9f;margin-top:3px;border-radius:100px;
 
@@ -2734,8 +2733,6 @@ margin-left: -55px;
 
 
 `);
-
-
 
     
 
