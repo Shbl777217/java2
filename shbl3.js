@@ -72,14 +72,14 @@ margin-top: 11px !important;
 
 
 #users .uzr.mnal {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+    box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 4px;
+  border-radius: 0px 17px 0px 17px;
   background-image: 
-  background-size: cover;
   border: 1px solid #fff;
-background-image: linear-gradient(-225deg, rgb(202, 202, 202) 0%, rgba(255, 0, 143, 0) 29%, rgba(151, 101, 127, 0.04) 67%, rgb(198, 198, 198) 100%);
+background-image: url(https://up6.cc/2023/06/168659468722361.jpg);
+background-size: 100%;
     
 }
 
