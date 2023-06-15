@@ -2673,6 +2673,8 @@ setInterval(function () {
 
 
 
+
+
 $(`<style>.nosel.d-flex.room.r1842551c39dxfdf8fb54-xknl4vz.bord {border-inline: 4px solid #62457f !important;}
 
 .nosel.d-flex.room.r1842551c39dxfdf8fb54-xknl4vz {display: inline-block;
@@ -2743,18 +2745,12 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
 
  $("style").last().append(`
     
-    #users.pyo1 .inroom.uzr img.ustat {
-      width: 54px !important;
-      border-radius: 15px 0px 15px 0px;
-      height: 52px;
-      margin-top: -1px;
-      min-height: 0% !important;
-    }
+  
     #users.pyo1 .inroom.uzr .fitimg.u-pic {
       border-radius: 15px 0px 15px 0px;
     margin-top: 0px;
     z-index: 0;
-    margin-left: -51px;
+
     min-width: 50px;
     width: 50px;
     min-height: 48px;
@@ -2771,13 +2767,7 @@ background-color: #000;
     border: 2px solid;
 background-color: #000;}
 
-    #users.pyo1 .uzr .u-msg{
-        -webkit-text-fill-color: #0000;
-        text-transform:uppercase;
-        background-image: url(https://up6.cc/2022/11/16693863893971.gif);
-    background-size: 400% 400%;
-    -webkit-background-clip: text;
-    color: transparent !important;}
+ 
 
     #users.pyo1 .inroom.uzr span.uhash{
     text-transform:uppercase;
