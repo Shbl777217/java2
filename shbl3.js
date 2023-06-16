@@ -100,9 +100,9 @@ background-size: 100%;
 #users .uzr.fast .itarr_fast {
  width: 100px;
 
-margin-top: -30px;
+margin-top: -37px;
 cursor: pointer;
-margin-left: -20px;
+margin-left: -19px;
 }
 
 
