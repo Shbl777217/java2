@@ -18,7 +18,7 @@ width: 0px !important;
 
 #users .uzr.fast img.u-ico {
 margin-left: 3px;
-margin-top: 5px !important;
+
 
 
      
