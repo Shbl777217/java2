@@ -2784,7 +2784,7 @@ margin-top: 10px !important;
    
   
   border: 1px solid #000;
- background-image: url(https://up6.cc/2023/03/167832605924131.png);
+ background-image: url(https://up6.cc/2023/06/168703267530961.jpg);
 background-size: 100%;
 
     
