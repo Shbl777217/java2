@@ -1,5 +1,7 @@
 
 
+
+
 $("style").last().append(`
 
 #users .uzr.tro7sm img.co {
@@ -41,7 +43,7 @@ margin-top: 1px !important;
   border-radius: 100px !important;
   margin-top: 9px !important;
   height: 52px !important;
-  margin-left: 0px!important;
+  margin-left: 3px!important;
   z-index: 0 !important;
 margin-bottom: 11px !important;
 padding: 27px !important;
@@ -100,14 +102,18 @@ background-size: 100%;
 
 #users .uzr.tro7sm .itarr_tro7sm {
 
-height: 73px;
-margin-top: -39px;
+height: 74px;
+margin-top: -40px;
 cursor: pointer;
 margin-left: -36px;
 }
 
 
 `);
+
+
+
+
 
 
 
