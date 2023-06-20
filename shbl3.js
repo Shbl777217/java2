@@ -333,6 +333,9 @@ margin-left: -50px;
 
 
 
+
+
+
 $("style").last().append(`
 
 #users .uzr.northabarh img.co {
@@ -360,28 +363,27 @@ width: 0px !important;
     }
 
 #users .uzr.northabarh img.ustat {
-      width: 0px !important;
-    height: 0px !important;
-    min-height: 0%!important;
-    margin-right: 0;
-    z-index: 999999;
-    border-radius: 50px;
-    margin-left: 6px;
-    margin-top: 8px;
+     width: 10px !important;
+  border-radius: 0px 0px 5px 5px !important;
+  height: 10px !important;
+  min-height: 0% !important;
+  z-index: 0 !important;
+margin-left: 0px !important;
+margin-top: 0px !important;
       
     }
 
 #users .uzr.northabarh .fitimg.u-pic {
-  border-radius: 100px !important;
-  margin-top: 5px !important;
-  height: 0px !important;
-  margin-left: -80px!important;
+border-radius: 4px !important;
+  margin-top: 7px !important;
+  height: 52px !important;
+  margin-left: 6px!important;
   z-index: 0 !important;
-margin-bottom: 17px !important;
-padding: 0px !important;
-border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
+margin-bottom: 15px !important;
+padding: 27px !important;
+border:1px solid #e8e2e1;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000;
 }
 
 #users .uzr.northabarh .u-msg {
@@ -441,6 +443,9 @@ margin-left: -0px;
 }
 
 `);
+
+
+
 
 
 
