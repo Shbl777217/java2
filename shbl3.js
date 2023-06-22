@@ -92,7 +92,7 @@ background-size: 100%;
 }
 
 #users .uzr.anosa .u-topic {
- 
+ -webkit-text-fill-color: transparent;
   margin-left: 5px ;
 
 }
