@@ -46,7 +46,7 @@ margin-bottom: 15px !important;
 padding: 28px !important;
 border:1px solid #e8e2e1;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #5d0001;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #b30002;
 
 }
 
