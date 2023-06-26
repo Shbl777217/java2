@@ -278,7 +278,7 @@ margin-top: 1px !important;
   height: 52px !important;
   margin-left: 4px!important;
   z-index: 0 !important;
-margin-bottom: 11px !important;
+margin-bottom: 16px !important;
 padding: 27px !important;
 border:1px solid #959493;margin-top:3px;border-radius:100px;
 
@@ -296,7 +296,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #959493;
   padding: 0px !important;
 	margin-bottom: 20px !important;
 margin-right: 28px !important;
-margin-left: 15px;
+margin-left: 25px;
 background-size: cover;
 margin-top: 10px !important;
 
@@ -314,7 +314,7 @@ margin-top: 10px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/06/168754976644422.jpg);
+ background-image: url(https://up6.cc/2023/06/168780591391641.jpg);
 background-size: 100%;
 
     
