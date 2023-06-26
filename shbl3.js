@@ -314,7 +314,7 @@ margin-top: 10px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/06/168780591391641.jpg);
+ background-image: url(https://up6.cc/2023/06/168780836310611.jpg);
 background-size: 100%;
 
     
