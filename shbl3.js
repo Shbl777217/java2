@@ -4300,7 +4300,7 @@ background-size: 100%;
 }
 
 #users .uzr.majed .u-topic {
--webkit-text-fill-color: #d9b070;
+-webkit-text-fill-color: #fbb03b;
   margin-left: 12px ;
 
 }
