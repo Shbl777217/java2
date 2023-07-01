@@ -4091,6 +4091,10 @@ margin-left: -46px;
 
 
 
+
+
+
+
 $("style").last().append(`
 
 #users .uzr.dl3 img.co {
@@ -4171,7 +4175,7 @@ margin-left: -8px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/06/168789549637511.gif);
+ background-image: url(https://up6.cc/2023/07/168824343706493.jpg);
 background-size: 100%;
 
     
@@ -4184,7 +4188,10 @@ background-size: 100%;
 }
 
 #users .uzr.dl3 .u-topic {
--webkit-text-fill-color: #fbb03b;
+-webkit-background-clip: text;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/07/168824368877031.gif);
+background-size: cover;
   margin-left: 12px ;
 
 }
@@ -4199,6 +4206,8 @@ margin-left: -0px;
 }
 
 `);
+
+
 
 
 
@@ -4287,7 +4296,7 @@ margin-left: -8px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/06/168789549637511.gif);
+ background-image: url(https://up6.cc/2023/07/168824343706493.jpg);
 background-size: 100%;
 
     
@@ -4300,7 +4309,10 @@ background-size: 100%;
 }
 
 #users .uzr.majed .u-topic {
--webkit-text-fill-color: #fbb03b;
+-webkit-background-clip: text;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/07/168824368877031.gif);
+background-size: cover;
   margin-left: 12px ;
 
 }
