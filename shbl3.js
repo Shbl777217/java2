@@ -2,7 +2,6 @@
 
 
 
-
 $("style").last().append(`
 
 #users .uzr.khald img.co {
@@ -39,16 +38,18 @@ margin-top: 0px !important;
     }
 
 #users .uzr.khald .fitimg.u-pic {
-  border-radius: 0px 4px 0px 4px !important;
-  margin-top: 7px !important;
+  border-radius: 100px !important;
+  margin-top: 6px !important;
   height: 52px !important;
-  margin-left: 6px!important;
+  margin-left: 8px!important;
   z-index: 0 !important;
 margin-bottom: 15px !important;
-padding: 27px !important;
-border:1px solid #c7c7c7;margin-top:3px;border-radius:100px;
+padding: 28px !important;
+border:1px solid #2e2e2e;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000;
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 
 }
 
@@ -98,16 +99,23 @@ background-size: 100%;
 }
 
 #users .uzr.khald .itarr_khald {
- width: 0px;
-
-margin-top: -37px;
+ width: 92px;
+height: 92px;
+margin-top: -45px;
 cursor: pointer;
-margin-left: -19px;
+margin-left: -47px;
 }
 
 
 
 `);
+
+
+
+
+
+
+
 
 
 
