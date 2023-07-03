@@ -3174,11 +3174,6 @@ margin-left: -41px;
 
 
 
-
-
-
-
-
 $("style").last().append(`
 
 #users .uzr.neew img.co {
@@ -3223,7 +3218,6 @@ width: 0px !important;
   height: 0px !important;
   margin-left: -80px!important;
   z-index: 0 !important;
-
 margin-bottom: 20px !important;
 padding: 0px !important;
 border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
@@ -3259,8 +3253,8 @@ margin-left: -8px !important;
   border-radius: 4px 4px 4px 4px;
    
   
-  border: 1px solid #f0b80d;
- background-image: url(https://up6.cc/2023/03/167959540537841.png);
+  border: 1px solid #f1e25d;
+ background-image: url(https://up6.cc/2023/07/168838336541341.jpg);
 background-size: 100%;
 
     
@@ -3278,17 +3272,10 @@ background-size: 100%;
 
 }
 
-#users .uzr.neew .itarr_neew {
-height: 0px;
-margin-top: -40px;
-cursor: pointer;
-margin-left: -41px;
-}
 
 
 
 `);
-
 
     
 
