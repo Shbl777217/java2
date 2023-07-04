@@ -2019,6 +2019,10 @@ margin-left: -53px;
 
 
 
+
+
+
+
 $("style").last().append(`
 
 #users .uzr.athhb img.co {
@@ -2075,7 +2079,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #cccccc;
   
   font-size: 93% !important;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/05/168530438615771.gif);
+ background-image: url(https://up6.cc/2023/01/167459183804791.gif);
   padding: 0px !important;
 	margin-bottom: 7px !important;
 
@@ -2097,7 +2101,7 @@ margin-top: 7px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/05/168556234848422.jpg);
+ background-image: url(https://up6.cc/2023/07/168850444357771.jpg);
 background-size: 100%;
 
     
