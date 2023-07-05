@@ -56,7 +56,7 @@ padding: 25px !important;
 margin-top:3px;
 
 
-box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #0099af;
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #648278;
 
    
   
@@ -70,7 +70,7 @@ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #0099af;
   
   font-size: 89% !important;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/04/168141960588572.gif);
+ background-image: url(https://up6.cc/2023/01/167459183804791.gif);
   padding: 0px !important;
 	margin-bottom: 0px !important;
 margin-left: 5px;
@@ -84,14 +84,14 @@ margin-top: 11px !important;
 
 
 #users .uzr.jana {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #0099af;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #5f6b5c;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border-radius: 0px 10px 0px 10px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/07/168841210397161.jpg);
+ background-image: url(https://up6.cc/2023/07/168859362978041.jpg);
 background-size: 100%;
     
 }
@@ -103,7 +103,7 @@ background-size: 100%;
 }
 
 #users .uzr.jana .u-topic {
-
+-webkit-text-fill-color: transparent;
   margin-left: 1px ;
 
 }
@@ -119,6 +119,9 @@ margin-left: -0px;
 }
 
 `);
+
+
+
 
 
 
