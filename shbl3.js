@@ -2,11 +2,20 @@
 
 
 
+
+
 $("style").last().append(`
 
 
+#users .uzr.northbset img.u-ico {
+width: 0px !important;
+ 
+    }
+
+
+
 #users .uzr.northbset {
- background-image: url(https://up6.cc/2023/07/168867037345721.jpg);
+ background-image: url(https://up6.cc/2023/07/16886707960661.jpg);
 background-size: 100%;
     
 }
@@ -33,6 +42,8 @@ height: 0px;
 
 
 `);
+
+
 
 
 
