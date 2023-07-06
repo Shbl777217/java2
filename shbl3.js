@@ -1,8 +1,15 @@
 
 
 
+
 $("style").last().append(`
 
+
+#users .uzr.northbset {
+ background-image: url(https://up6.cc/2023/07/168867037345721.jpg);
+background-size: 100%;
+    
+}
 
 
 #users .uzr.northbset .u-msg {
@@ -12,7 +19,7 @@ $("style").last().append(`
   
 
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/07/168859544386821.gif);
+ background-image: url(https://up6.cc/2023/07/168866943829111.gif);
 
 background-size: cover;
 
@@ -26,6 +33,7 @@ height: 0px;
 
 
 `);
+
 
 
 
