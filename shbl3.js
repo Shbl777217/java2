@@ -126,6 +126,12 @@ margin-left: 14px;
 
 
 
+
+
+
+
+
+
 #users .uzr.soltanotb img.co {
   width: 0px !important;
     height: 0px !important;
@@ -217,7 +223,12 @@ background-size: 100%;
 }
 
 #users .uzr.soltanotb .u-topic {
--webkit-text-fill-color: #f3844e;
+ -webkit-background-clip: text;
+  
+
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/07/168954312362321.gif);
+background-size: cover;
   margin-left: 12px ;
 
 }
@@ -230,6 +241,8 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
 
 
 
