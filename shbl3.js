@@ -12,6 +12,114 @@ $("style").last().append(`
 
 
 
+#users .uzr.tro7re img.co {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.tro7re span.uhash{
+    -webkit-text-fill-color: transparent;
+width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;}
+
+
+#users .uzr.tro7re img.u-ico {
+margin-left: 7px;
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 0px #000;
+border-radius: 0px 5px 0px 5px;
+
+
+     
+
+      
+    }
+
+#users .uzr.tro7re img.ustat {
+ width: 10px !important;
+  border-radius: 0px 0px 5px 5px !important;
+  height: 10px !important;
+  min-height: 0% !important;
+  z-index: 0 !important;
+margin-left: 1px !important;
+margin-top: 1px !important;
+      
+    }
+
+#users .uzr.tro7re .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 9px !important;
+  height: 52px !important;
+  margin-left: 3px!important;
+  z-index: 0 !important;
+margin-bottom: 13px !important;
+padding: 27px !important;
+border:1px solid #2e2e2e;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000;
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+}
+
+#users .uzr.tro7re .u-msg {
+text-align:center;
+	
+  -webkit-background-clip: text;
+  
+  font-size: 90% !important;
+ -webkit-text-fill-color: transparent;
+
+  padding: 0px !important;
+	margin-bottom: -2px !important;
+
+
+margin-top: 15px !important;
+margin-left: -8px !important;
+
+}
+
+
+
+
+
+#users .uzr.tro7re {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 0px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/07/169031608221281.jpg);
+background-size: 100%;
+
+    
+}
+
+
+
+#users .uzr.tro7re .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.tro7re .u-topic {
+     -webkit-text-fill-color: transparent;
+  margin-left: 5px ;
+
+}
+
+
+#users .uzr.tro7re .itarr_tro7re {
+
+height: 74px;
+margin-top: -40px;
+cursor: pointer;
+margin-left: -36px;
+}
+
+
+
 
 
 
