@@ -26,7 +26,7 @@ width: 0px !important;
 
 
 #users .uzr.tro7re img.u-ico {
-margin-left: 7px;
+margin-left: 5px;
 box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 0px #000;
 border-radius: 0px 5px 0px 5px;
 
