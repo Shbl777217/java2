@@ -155,8 +155,8 @@ height:52px!important;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #adadad;bor
 height: 52px !important;
 height:52px!important;border:1px solid #fff;
 margin-top:2px;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #adadad}#d0.rashiq{background-color:#a1a1a1 !important;}
-#d2.rashiq .uzr.d-flex.mm.hmsg{background-color:#c8c8c82e!important}
-#d2.rashiq .uzr.d-flex.mm.pmsgc{background-color:#d7d7d72e!important}
+#d2.rashiq .uzr.d-flex.mm.hmsg{background-color:#c8c8c838!important}
+#d2.rashiq .uzr.d-flex.mm.pmsgc{background-color:#d7d7d7b5!important}
 
 #users.rashiq span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#adadad 0,#3e3e3e 29%,#a1a1a1 67%,#adadad 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
 #users.rashiq .mini.u-msg{text-align:center;
@@ -294,6 +294,7 @@ setInterval(function () {
             } 
         } 
     }, 10);
+
 
 
 
