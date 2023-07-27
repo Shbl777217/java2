@@ -926,6 +926,7 @@ margin-left: -38px;
 
 
 
+
 #users .uzr.milaco img.co {
   width: 0px !important;
     height: 0px !important;
@@ -964,30 +965,30 @@ margin-top: 0px !important;
 #users .uzr.milaco .fitimg.u-pic {
 border-radius: 100px !important;
   margin-top: 7px !important;
-  height: 52px !important;
-  margin-left: 6px!important;
+  height: 0px !important;
+  margin-left: -80px!important;
   z-index: 0 !important;
-margin-bottom: 15px !important;
-padding: 25px !important;
+margin-bottom: 30px !important;
+padding: 0px !important;
 border:2px solid #000;margin-top:3px;border-radius:100px;
 
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #dfdfdf;
 }
 
 #users .uzr.milaco .u-msg {
-text-align:center;
+text-align:right;
 	
   -webkit-background-clip: text;
   
   font-size: 90% !important;
- -webkit-text-fill-color: transparent;
+ -webkit-text-fill-color: #0000;
 
   padding: 0px !important;
 	margin-bottom: -2px !important;
 
 
-margin-top: 10px !important;
-margin-left: -8px !important;
+margin-top: 20px !important;
+margin-left: 30px !important;
 
 }
 
@@ -1003,7 +1004,7 @@ margin-left: -8px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/06/168772372199171.gif);
+ background-image: url(https://up6.cc/2023/07/169049572668331.gif);
 background-size: 100%;
 
     
