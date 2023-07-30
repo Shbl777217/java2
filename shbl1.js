@@ -25,7 +25,7 @@ margin-top: 30px !important;
     .nosel.d-flex.room.r1899da394b8x5af5e954-x684efs {
     border-radius: 4px!important;
     display: inline-block;
-    background-image: url(https://up6.cc/2023/07/169066968952521.gif);
+    background-image: url(https://up6.cc/2023/07/169072645012381.gif);
 	background-size: 100%;
 	padding: 5px !important;
 	
