@@ -14,6 +14,7 @@ $("style").last().append(`
 
 
 
+
 #users .uzr.doish .fitimg.u-pic {
   border: 1px solid #fff;
   border-radius: 5px;
@@ -47,7 +48,7 @@ text-align: center;
 #users .uzr.doish .u-topic {
 -webkit-background-clip: text;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2022/12/167183568860261.gif);
+ background-image: url(https://up6.cc/2023/01/167459183804791.gif);
 background-size: cover;
   margin-left: 5px;
 }
