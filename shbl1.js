@@ -19,7 +19,7 @@ $(`<style>
   margin-bottom: 150px!important;
   background-color: #d9534f00;
   text-align: right!important;
-  margin-right: 110px!important;}
+  margin-right: 90px!important;}
 
 .nosel.d-flex.room.r189b82d959bx87f93373-x-fhvkq1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 2px;
@@ -35,7 +35,7 @@ $(`<style>
   margin-bottom: 150px!important;
   background-color: #d9534f00;
   text-align: right!important;
-  margin-right: 110px!important;
+  margin-right: 90px!important;
 }
 .nosel.d-flex.room.r189b82d959bx87f93373-x-fhvkq1.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r189b82d959bx87f93373-x-fhvkq1 .dots.mini.u-msg {
