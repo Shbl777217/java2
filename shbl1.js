@@ -154,7 +154,6 @@ border-radius:  100px;
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
-border-radius:  8px 0 8px;
 margin-left: -12px;
 height: 52px;
 }
