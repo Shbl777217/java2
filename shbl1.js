@@ -142,7 +142,7 @@ $("style").last().append(`
 #d2.roh .uzr .fitimg.u-pic {
 height: 52px !important;
 border: 1px solid;
-border-radius:  8px 0 8px;
+border-radius:  100px;
 filter: hue-rotate(360deg);
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 margin-top: 2px;
@@ -150,7 +150,7 @@ margin-right: 2px;
 }
 #users.roh .fitimg.u-pic {
 border: 1px solid;
-border-radius:  8px 0 8px;
+border-radius:  100px;
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
