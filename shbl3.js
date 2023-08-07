@@ -37,7 +37,8 @@ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border-radius: 4px 4px 4px 4px;
-   
+     background-image: url(https://up6.cc/2023/08/16914410275741.jpg);
+background-size: cover;
   
   border: 1px solid #fff;
 
