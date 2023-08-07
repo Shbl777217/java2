@@ -4,6 +4,8 @@
 
 
 
+
+
 $(`<style>
 .nosel.d-flex.room.r18700b42ce5x137168c7-x-ejgokl .fitimg.u-pic.borderg {
   letter-spacing: 1px;
@@ -405,8 +407,6 @@ setInterval(function () {
 
 
 
-
-
 $(`<style>
 .nosel.d-flex.room.r189b82d959bx87f93373-x-fhvkq1 .fitimg.u-pic.borderg {
   letter-spacing: 1px;
@@ -610,7 +610,14 @@ background-color: #000 !important;
 
     $("style").last().append(`
 
-	
+	#wall.roh .fitimg.u-pic.borderg {
+height: 52px !important;
+border: 1px solid;
+border-radius: 100px ;
+box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #707070;
+margin-top: 2px;
+margin-right: 2px;
+}
   
     
     #upro.melaaco .border {
