@@ -380,7 +380,7 @@ setInterval(function () {
     if (myroom == '18700b42ce5x137168c7-x-ejgokl') {
         if (truoh == false) {
             truoh = true;
-                $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #d2bc, #muteall, #wall, #fz, #upro, #chats').addClass('roh');
+                $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #d2bc, #muteall, #wall, #dpnl, #upro, #chats').addClass('roh');
 		$('input, bdel.corner.btn.minix.btn-primary.fa.fa-times, button.rsave.btn.btn-primary.fl, button.border.btn.label.label-success.fl.fa.fa-plus, button.blike.corner.btn.minix.btn-danger.fa.fa-heart, .fl.borderg, .fl.u-pic.fitimg, .dots, .tc, .label.fl.label-primary, .btn.btn-primary.u-nickc.fr.fa.fa-save, .modal-header.label-primary, .corner.border.label.label-primary,.head.d-flex.nosel.bg.fl, .rsave.btn.btn-primary.fr, .fa.fa-send.sndpm.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary, .bdel.corner.btn.minix.btn-primary.fa.fa-times, .fa.fa-send.sndbc.fl.btn.btn-primary').addClass('roh');
         }
     } else {
