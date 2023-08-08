@@ -185,7 +185,7 @@ background-size: 100%;
 }
 
 #users .uzr.masalh .u-topic {
-
+-webkit-text-fill-color: transparent;
   margin-left: 2px;
 margin-bottom: 33px !important;
 }
