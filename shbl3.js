@@ -93,6 +93,14 @@ margin-left: -0px;
 
 
 
+
+
+
+
+
+
+
+
 #users .uzr.masalh img.co {
   width: 0px !important;
     height: 0px !important;
@@ -129,7 +137,7 @@ margin-top: 1px !important;
   border-radius: 100px !important;
   margin-top: 6px !important;
   height: 52px !important;
-  margin-left: 4px!important;
+  margin-left: 2px!important;
   z-index: 0 !important;
 margin-bottom: 9px !important;
 padding: 30px !important;
@@ -147,10 +155,10 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #a8a8a8
  background-image: url(https://up6.cc/2023/01/167459183804791.gif);
   padding: 0px !important;
 	margin-bottom: 14px !important;
-margin-left: 16px;
+margin-left: 10px;
 background-size: cover;
 margin-top: 8px !important;
-
+margin-right: 55px;
 }
 
 
@@ -188,6 +196,8 @@ margin-top: -40px;
 cursor: pointer;
 margin-left: -45px;
 }
+
+
 
 
 
