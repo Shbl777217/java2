@@ -16,7 +16,6 @@ $("style").last().append(`
 
 
 
-
 #users .uzr.rgawi img.co {
   width: 0px !important;
     height: 0px !important;
@@ -59,7 +58,7 @@ width: 0px !important;
   height: 0px !important;
   margin-left: -80px!important;
   z-index: 0 !important;
-margin-bottom: 25px !important;
+margin-bottom: 27px !important;
 padding: 0px !important;
 border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
 
@@ -95,7 +94,7 @@ margin-left: -8px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/08/169161709527671.jpg);
+ background-image: url(https://up6.cc/2023/08/16916222707071.png);
 background-size: 100%;
 
     
@@ -121,6 +120,8 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
 
 
 
