@@ -101,6 +101,10 @@ margin-left: -0px;
 
 
 
+
+
+
+
 #users .uzr.masalh img.co {
   width: 0px !important;
     height: 0px !important;
@@ -143,7 +147,7 @@ margin-bottom: 9px !important;
 padding: 30px !important;
 border:2px solid #a8a8a8;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #a8a8a8
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #ffa800
 }
 
 #users .uzr.masalh .u-msg {
@@ -166,7 +170,7 @@ margin-right: 55px;
 
 
 #users .uzr.masalh {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #ffa800;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border-radius: 0px 5px 0px 5px;
@@ -191,11 +195,15 @@ margin-bottom: 33px !important;
 }
 
 #users .uzr.masalh .itarr_masalh1 {
-height: 89px;
-margin-top: -40px;
+ width: 0px;
+
+margin-top: -0px;
 cursor: pointer;
-margin-left: -45px;
+margin-left: -0px;
 }
+
+
+
 
 
 
