@@ -177,7 +177,7 @@ margin-right: 55px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/08/169152761452181.jpg);
+ background-image: url(https://up6.cc/2023/08/169161574225361.jpg);
 background-size: 100%;
     
 }
