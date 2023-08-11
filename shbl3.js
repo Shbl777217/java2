@@ -545,6 +545,13 @@ margin-left: -0px;
 
 
 
+
+
+
+
+
+
+
 #users .uzr.northqd .fitimg.u-pic {
   border: 1px solid #fff;
   border-radius: 5px;
@@ -570,9 +577,12 @@ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border-radius: 4px 4px 4px 4px;
-     background-image: url(https://up6.cc/2023/08/16914410275741.jpg);
-background-size: cover;
+   
+  background-size: cover;
   
+background-image: linear-gradient(-225deg, rgb(210, 210, 210)
+ 0%, rgba(209, 209, 214, 0) 15%, rgba(240, 240, 240, 0) 85%, rgb(210, 210, 210)
+ 100%);
   border: 1px solid #fff;
 
 }
@@ -588,6 +598,11 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
+
+
+
 
 
 
