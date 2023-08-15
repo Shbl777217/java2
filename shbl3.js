@@ -16,10 +16,19 @@ $("style").last().append(`
 
 
 
+
+
+#users .uzr.northblack span.uhash{
+    text-transform:uppercase;
+    -webkit-text-fill-color:#fff;
+    display:inline-block;}
+
+
+
 #users .uzr.northblack .fitimg.u-pic {
-  border: 1px solid #000;
+  border: 1px solid #616161;
   border-radius: 5px;
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #616161;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
 
 }
 
@@ -27,14 +36,12 @@ $("style").last().append(`
 
 #users .uzr.northblack .u-msg {
  
-   -webkit-background-clip: text;
+   
   margin-right: 16px !important;
 margin-left: 2px !important;
 
-  -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/07/168866943829111.gif);
+  -webkit-text-fill-color: #f8f8f8;
 
-background-size: cover;
 
 }
 #users .uzr.northblack {
@@ -44,7 +51,10 @@ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
 
   border-radius: 4px 4px 4px 4px;
    
-  background-color: #000;
+  background-color: #0000;
+ background-image: url(https://up6.cc/2023/08/169198556974581.jpg);
+
+background-size: cover;
   border: 1px solid #fff;
 
 }
@@ -60,6 +70,9 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
+
 
 
 
