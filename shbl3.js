@@ -1240,7 +1240,7 @@ width: 0px !important;
  
    -webkit-background-clip: text;
   
-
+ margin-left: 5px !important;
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/01/167459183804791.gif);
 
