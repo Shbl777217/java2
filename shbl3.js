@@ -63,6 +63,16 @@ background-size: cover;
 }
 
 
+
+#users .uzr.northblack .u-topic {
+-webkit-text-fill-color: transparent;
+
+}
+
+
+
+
+
 #users .uzr.northblack .itarr_northblack1 {
  width: 0px;
 
