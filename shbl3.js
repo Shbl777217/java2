@@ -2109,7 +2109,7 @@ background-size: 100%;
 
 #users .uzr.roout .u-topic {
 margin-bottom: 40px !important;
-
+-webkit-text-fill-color: transparent;
   margin-left: 4px;
 
 }
