@@ -796,7 +796,7 @@ border-radius: 0px 6px  6px 6px !important;
 #wall.melaaco .fitimg.u-pic.borderg {
 height: 52px !important;
 border: 1px solid;
-border-radius: 0px 100px ;
+border-radius:  100px ;
 box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #707070;
 margin-top: 2px;
 margin-right: 2px;
