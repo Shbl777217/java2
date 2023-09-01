@@ -10,6 +10,9 @@ $("style").last().append(`
 
 
 
+
+
+
 #users .uzr.joy img.co {
   width: 0px !important;
     height: 0px !important;
@@ -35,9 +38,9 @@ width: 0px !important;
     }
 
 #users .uzr.joy img.ustat {
-     width: 10px !important;
+     width: 8px !important;
   border-radius: 0px 0px 5px 5px !important;
-  height: 10px !important;
+  height: 8px !important;
   min-height: 0% !important;
   z-index: 0 !important;
 margin-left: 0px !important;
@@ -83,7 +86,7 @@ margin-left: 30px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 4px 4px 4px 4px;
+  border-radius: 0px 4px 4px 4px;
    
   
   border: 1px solid #fff;
@@ -113,6 +116,12 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
+
+
+
+
 
 
 
