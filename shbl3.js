@@ -90,7 +90,7 @@ margin-left: 30px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/09/169360896610491.gif);
+ background-image: url(https://up6.cc/2023/09/169361143598981.gif);
 background-size: 100%;
 
     
