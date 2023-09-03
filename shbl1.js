@@ -7,12 +7,12 @@
 
 $(`<style>.nosel.d-flex.room.r18a117c1b86x9bcbb516xwpmml .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #a8a9ab;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;
 margin-left: -160px !important;
-margin-top: 40px !important;
+margin-top: 30px !important;
 }
 
 .nosel.d-flex.room.r18a117c1b86x9bcbb516xwpmml .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #a8a9ab;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;
 margin-left: -160px !important;
-margin-top: 40px !important;
+margin-top: 30px !important;
 }
 .nosel.d-flex.room.r18a117c1b86x9bcbb516xwpmml img.fl {
  
