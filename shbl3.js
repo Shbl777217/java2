@@ -2908,7 +2908,7 @@ margin-top: 7px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 10px 0px 10px 10px;
+  border-radius: 14px 0px 14px 14px;
    
   
   border: 1px solid #000;
