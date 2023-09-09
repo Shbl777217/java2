@@ -86,7 +86,7 @@ margin-left: -8px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
 
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/09/169423414957071.gif);
+ background-image: url(https://up6.cc/2023/09/169429299317021.gif);
 background-size: cover;
 
     
