@@ -44,7 +44,7 @@ width: 11px !important;
     border-radius: 0px 3px 0px 3px;
     margin-left: 1px;
     margin-top: 1px;
-    border: 1px solid #fff;
+    border: 1px solid #0000;
       
     }
 
