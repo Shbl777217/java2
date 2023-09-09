@@ -11,6 +11,10 @@ $("style").last().append(`
 
 
 
+
+
+
+
 #users .uzr.jackroz img.co {
   width: 0px !important;
     height: 0px !important;
@@ -44,7 +48,7 @@ width: 11px !important;
     border-radius: 0px 3px 0px 3px;
     margin-left: 1px;
     margin-top: 1px;
-    border: 1px solid #0000;
+    border: 1px solid #fff;
       
     }
 
@@ -52,13 +56,13 @@ width: 11px !important;
   border-radius: 100px !important;
   margin-top: 6px !important;
   height: 52px !important;
-  margin-left: -6px!important;
+  margin-left: 0px!important;
   z-index: 0 !important;
 margin-bottom: 9px !important;
 padding: 30px !important;
-border:1px solid #a8a8a8;margin-top:3px;border-radius:100px;
+border:1px solid #000;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #000
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff
 }
 
 #users .uzr.jackroz .u-msg {
@@ -86,7 +90,7 @@ margin-left: -8px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
 
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/09/169429299317021.gif);
+ background-image: url(https://up6.cc/2023/09/16942971736781.gif);
 background-size: cover;
 
     
@@ -112,6 +116,8 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
 
 
 
