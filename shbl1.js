@@ -1663,7 +1663,7 @@ button.rsave.btn.btn-primary.fl.roh {
 #chats.roh{
     background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
     background-image: url(https://up6.cc/2023/09/16943744959431.jpg);
-    background-size: 100%;
+    background-size: cover;
 
 }
 `);
