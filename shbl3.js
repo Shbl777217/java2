@@ -11,6 +11,23 @@ $("style").last().append(`
 
 
 
+users .uzr.linda .u-topic {
+
+  margin-left: 5px;
+
+  
+
+  -webkit-text-fill-color: #0000;
+
+}
+
+#users .uzr.linda img.u-ico {
+margin-left: 2px;
+ 
+     
+
+      
+    }
 
 #users .uzr.linda img.co {
   width: 0px !important;
@@ -25,80 +42,41 @@ width: 0px !important;
   margin-right: 1px;}
 
 
-#users .uzr.linda img.u-ico {
-margin-left: 2px;
- 
-     
-
-      
-    }
-
-#users .uzr.linda img.ustat {
-width: 10px !important;
-  border-radius: 0px 0px 5px 5px !important;
-  height: 10px !important;
-  min-height: 0% !important;
-  z-index: 0 !important;
-margin-left: 1px !important;
-margin-top: 1px !important;
-      
-    }
-
 #users .uzr.linda .fitimg.u-pic {
-  border-radius: 100px !important;
-  margin-top: 6px !important;
-  height: 52px !important;
-  margin-left: 2px!important;
-  z-index: 0 !important;
-margin-bottom: 9px !important;
-padding: 30px !important;
-border:1px solid #f7f2ec;margin-top:3px;border-radius:100px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #a0175d
 }
+
+
 
 #users .uzr.linda .u-msg {
-	
-  -webkit-background-clip: text;
+ 
+   -webkit-background-clip: text;
   
-  font-size: 89% !important;
+
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/01/167459183804791.gif);
-  padding: 0px !important;
-	margin-bottom: 14px !important;
-margin-left: 10px;
+
 background-size: cover;
-margin-top: 8px !important;
-margin-right: 55px;
+
 }
-
-
-
-
-
 #users .uzr.linda {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #a0175d;
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 0px 5px 0px 5px;
+  border-radius: 4px 4px 4px 4px;
    
-  
+  background-image: url(https://up6.cc/2023/09/1694379193521.gif);
+background-size: cover;
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/09/169437178164061.jpg);
-background-size: 100%;
-    
+
 }
-
-
-
 #users .uzr.linda .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzr.linda .u-topic {
-
-  margin-left: 5px ;
-}
 
 #users .uzr.linda .itarr_linda1 {
  width: 0px;
@@ -107,8 +85,6 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
-
-
 
 
 
