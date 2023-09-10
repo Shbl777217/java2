@@ -368,7 +368,7 @@ button.rsave.btn.btn-primary.fl.mohbin {
 #chats.mohbin {
       background-color: #f5f5f5 !important;
       background-image: url("https://up6.cc/2023/09/169429240270291.png");
-    background-size: cover;
+    background-size: 100%;
 background-color: #f5f5f5 !important;
   }
 `);
@@ -1877,7 +1877,7 @@ background-color: #000 !important;
 #chats.mohbin {
       background-color: #f5f5f5 !important;
       background-image: url("https://up6.cc/2023/09/169429240270291.png");
-    background-size: cover;
+    background-size: 100%;
 background-color: #f5f5f5 !important;
   }
 
