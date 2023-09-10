@@ -10,8 +10,7 @@ $("style").last().append(`
 
 
 
-
-users .uzr.linda .u-topic {
+#users .uzr.linda .u-topic {
 
   margin-left: 5px;
 
