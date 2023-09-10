@@ -1560,13 +1560,7 @@ margin-right: 2px;
 #wall.roh {
 
 }
-#rooms.roh .fitimg.u-pic.borderg{
-height: 52px !important;
-border: 1px solid;
-border-image: linear-gradient(45deg, gold, deeppink) 0;
-filter: hue-rotate(360deg);
-box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #707070;
-}
+
 .corner.border.label.label-primary.roh {
   border-radius: 0px 8px  8px 8px !important;
   border: 1px solid #d7d2c4;
@@ -1687,6 +1681,7 @@ setInterval(function () {
             } 
         } 
     }, 10);
+
 
 
 
