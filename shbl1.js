@@ -18,7 +18,7 @@ $(`<style>
 	
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
-  margin-top: 15px !important;
+  margin-top: 5px !important;
   margin-bottom: 25px !important;
   background-color: #d9534f00;
   text-align: left!important;
@@ -31,7 +31,7 @@ $(`<style>
 	
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
-  margin-top: 15px !important;
+  margin-top: 5px !important;
   margin-bottom: 25px !important;
   background-color: #d9534f00;
   text-align: left!important;
@@ -373,7 +373,7 @@ button.rsave.btn.btn-primary.fl.mohbin {
 #chats.mohbin {
       background-color: #f5f5f5 !important;
       background-image: url("https://up6.cc/2023/09/169429240270291.png");
-    background-size: 100%;
+    background-size: cover;
 background-color: #f5f5f5 !important;
   }
 `);
@@ -393,6 +393,10 @@ setInterval(function () {
             } 
         } 
     }, 10);
+
+
+
+
 
 
 
