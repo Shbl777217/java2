@@ -1607,6 +1607,7 @@ margin-left: -39px;
 
 
 
+
 #users .uzr.merofr .u-topic {
 
   -webkit-text-fill-color: #0000;
@@ -1635,7 +1636,7 @@ width: 0px !important;
 
 
 #users .uzr.merofr .fitimg.u-pic {
-  border: 1px solid #0000;
+  border: 1px solid #f1eae5;
   border-radius: 5px;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
 
@@ -1647,7 +1648,7 @@ width: 0px !important;
  
    -webkit-background-clip: text;
   
- margin-left: 10px !important;
+
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/01/167459183804791.gif);
 
@@ -1660,7 +1661,7 @@ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
   margin-top: 2px !important;
   border-radius: 4px 4px 4px 4px;
    
-  background-image: url(https://up6.cc/2023/08/169230514029781.jpg);
+  background-image: url(https://up6.cc/2023/09/16946451989621.jpg);
 background-size: cover;
   border: 1px solid #fff;
 
@@ -1677,6 +1678,7 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
 
 
 
