@@ -2777,7 +2777,7 @@ margin-left: -2px;
   border-radius: 100px !important;
   margin-top: 15px !important;
   height: 52px !important;
-  margin-left: 23px!important;
+  margin-left: 19px!important;
   z-index: 0 !important;
 margin-bottom: 15px !important;
 padding: 24px !important;
