@@ -2754,7 +2754,7 @@ width: 1px !important;
 
 
 #users .uzr.hhqq img.u-ico {
-margin-left: -2px;
+margin-left: 2px;
     border-radius: 0px 8px 0px 8px;
      
 
