@@ -2593,10 +2593,6 @@ margin-left: -50px;
 
 
 
-  #users .uzr.mqam .u-topic {
-  -webkit-text-fill-color: #000;
-
-}
 
 #users .uzr.mqam .u-msg {
 
@@ -2642,7 +2638,7 @@ background-size: 100%;
 }
 #users .uzr.mqam .u-topic {
   margin-left: 5px;
--webkit-text-fill-color: #0000;
+
 }
 
 #users .uzr.mqam img.co {
