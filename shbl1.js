@@ -1900,12 +1900,12 @@ border-radius: 100px!important;}
 
 
 
-   $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2023/07/169066710266081.jpg);
+   $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2023/09/169482281680611.gif);
 	background-size: cover;
 
 background-color: #000 !important;
 }`);
-$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2023/07/169066710266081.jpg);
+$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: url(https://up6.cc/2023/09/169482281680611.gif);
 	background-size: cover;
 background-color: #000 !important;
 }`);
