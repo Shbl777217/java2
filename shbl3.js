@@ -3217,7 +3217,7 @@ margin-top: 10px !important;
 }
 
 #users .uzr.mazn .u-topic {
--webkit-text-fill-color: transparent;
+
   margin-left: 5px;
 }
 
