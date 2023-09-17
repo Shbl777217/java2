@@ -187,11 +187,10 @@ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
   margin-top: 2px !important;
   border-radius: 0px 10px 10px 0px;
    
-  background-image: url(https://up6.cc/2023/09/16947317310211.jpg);
-background-size: cover;
+  
   border: 1px solid #fff;
-filter: hue-rotate(360deg);
-box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 3px rgb(0 0 0), 0 0 0 0px #000;
+ background-image: url(https://up6.cc/2023/03/167977861982181.png);
+background-size: 100%;
 }
 #users .uzr.zan .d-flex.fl {
   padding-right: 0px !important;
