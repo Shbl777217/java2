@@ -205,7 +205,7 @@ background-size: 100%;
 
     -webkit-text-fill-color: transparent;
 
-    margin-left: 7px;
+    margin-left: 40px;
  
 
 }
