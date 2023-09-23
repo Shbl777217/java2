@@ -117,10 +117,22 @@ margin-left: -47px;
 
 
 
+
+
+
+
+
+#users .uzr.sad img.co {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+}
+
 #users .uzr.sad span.uhash{
-    text-transform:uppercase;
-    -webkit-text-fill-color:#fff;
-    display:inline-block;}
+    -webkit-text-fill-color: transparent;
+width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;}
 
 
 #users .uzr.sad img.u-ico {
@@ -137,7 +149,7 @@ margin-left: -47px;
   z-index: 0 !important;
 margin-left: 1px !important;
 margin-top: 1px !important;
-border:1px solid #000;
+
      
       
     }
@@ -146,11 +158,11 @@ border:1px solid #000;
   border-radius: 5px 5px 5px 5px !important;
   margin-top: 9px !important;
   height: 52px !important;
-  margin-left: 2px!important;
+  margin-left: 4px!important;
   z-index: 0 !important;
 margin-bottom: 9px !important;
 padding: 29px !important;
-border:1px solid #000;margin-top:2px;border-radius:5px;
+border:1px solid #eaeaea;margin-top:2px;border-radius:5px;
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #000
 }
 
@@ -160,7 +172,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #000
   
   font-size: 93% !important;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/01/167458934291671.gif);
+ background-image: url(https://up6.cc/2023/01/167459183804791.gif);
   padding: 0px !important;
 	margin-bottom: 20px !important;
 margin-left: 15px;
@@ -180,7 +192,7 @@ margin-top: 10px !important;
   border-radius: 0px 4px 4px 4px;
   background-image: 
   border: 1px solid #fff;
-background-image: url(https://up6.cc/2023/09/169506852067551.jpg);
+background-image: url(https://up6.cc/2023/09/169542939370191.jpg);
 background-size: 100%;
 }
 
@@ -190,16 +202,12 @@ background-size: 100%;
 }
 
 #users .uzr.sad .u-topic {
-  text-transform: uppercase;
+
     -webkit-text-fill-color: transparent;
-    display: inline-block;
-    
-    
+
     margin-left: 7px;
-    background-image: url(https://up6.cc/2023/01/167458823850831.gif);
-    -webkit-background-clip: text;
-    color: transparent !important;
-    background-size: cover;
+ 
+
 }
 
 #users .uzr.sad .itarr_sad1 {
@@ -209,6 +217,8 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
 
 
 
