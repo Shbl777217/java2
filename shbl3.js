@@ -2112,7 +2112,7 @@ margin-left: 30px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/08/169084124996761.gif);
+ background-image: url(https://up6.cc/2023/09/169586064713961.gif);
 background-size: 100%;
 
     
