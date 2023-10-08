@@ -11,6 +11,10 @@ $("style").last().append(`
 
 
 
+
+
+
+
 #users .uzr.tro7rm img.co {
   width: 0px !important;
     height: 0px !important;
@@ -56,7 +60,8 @@ margin-left: 3px;
 border:1px solid #fbfcfc;margin-top:1px;
 margin-bottom:0px;
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000
-
+filter: hue-rotate(360deg);
+box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 
 #users .uzr.tro7rm .u-msg {
@@ -105,6 +110,11 @@ margin-top: 31px;
 cursor: pointer;
 margin-left: 31px;
 }
+
+
+
+
+
 
 
 
