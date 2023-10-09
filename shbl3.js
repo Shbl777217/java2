@@ -311,7 +311,7 @@ background-size: 100%;
 
 #users .uzr.ghram .u-topic {
   margin-left: 1px ;
-
+-webkit-text-fill-color: transparent;
 }
 
 
