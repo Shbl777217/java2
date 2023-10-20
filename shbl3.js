@@ -537,13 +537,14 @@ margin-left: -0px;
   width: 0px !important;
     height: 0px !important;
   margin-right: 1px;
+
 }
 
 #users .uzr.mwazi span.uhash{
-    -webkit-text-fill-color: transparent;
+-webkit-text-fill-color: transparent;
 width: 0px !important;
     height: 0px !important;
-  margin-right: 1px;}
+}
 
 
 #users .uzr.mwazi img.u-ico {
@@ -558,44 +559,44 @@ width: 0px !important;
     }
 
 #users .uzr.mwazi img.ustat {
-     width: 10px !important;
-  border-radius: 0px 0px 5px 5px !important;
-  height: 10px !important;
-  min-height: 0% !important;
-  z-index: 0 !important;
-margin-left: 0px !important;
-margin-top: 0px !important;
+      width: 0px !important;
+    height: 0px !important;
+    min-height: 0%!important;
+    margin-right: 0;
+    z-index: 999999;
+    border-radius: 50px;
+    margin-left: 6px;
+    margin-top: 8px;
       
     }
 
 #users .uzr.mwazi .fitimg.u-pic {
-border-radius: 100px !important;
-  margin-top: 7px !important;
+  border-radius: 100px !important;
+  margin-top: 5px !important;
   height: 0px !important;
   margin-left: -80px!important;
   z-index: 0 !important;
-margin-bottom: 30px !important;
+margin-bottom: 27px !important;
 padding: 0px !important;
-border:2px solid #000;margin-top:3px;border-radius:100px;
+border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #dfdfdf;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
 }
 
 #users .uzr.mwazi .u-msg {
-	text-align: right;
+text-align:center;
+	
   -webkit-background-clip: text;
   
-  font-size: 70% !important;
-  -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/09/169481759312131.gif);
+  font-size: 90% !important;
+ -webkit-text-fill-color: transparent;
+
   padding: 0px !important;
+	margin-bottom: -2px !important;
 
-	margin-top: 20px !important;
-margin-left: 20px;
-margin-right: 10px;
-background-size: cover;
-	
 
+margin-top: 10px !important;
+margin-left: -8px !important;
 
 }
 
@@ -607,11 +608,11 @@ background-size: cover;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 4px 4px 4px 4px;
+  border-radius: 0px 4px 0px 4px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/09/169481796251791.jpg);
+ background-image: url(https://up6.cc/2023/10/169765470958781.gif);
 background-size: 100%;
 
     
@@ -623,9 +624,12 @@ background-size: 100%;
   padding-right: 0px !important;
 }
 
-#users .uzr.mwazi span.u-topic {
--webkit-text-fill-color: transparent;
-  margin-left: -130px ;
+#users .uzr.mwazi .u-topic {
+
+  margin-left: 12px ;
+
+
+  -webkit-text-fill-color: #0000;
 
 }
 
@@ -637,6 +641,7 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
 
 
 
