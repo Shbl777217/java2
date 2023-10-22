@@ -660,7 +660,7 @@ margin-left: -0px;
 
   
 
-  -webkit-text-fill-color: #0000;
+ 
 
 }
 
