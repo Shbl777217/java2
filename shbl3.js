@@ -726,7 +726,7 @@ margin-bottom: 3px !important;
 background-image: linear-gradient(-225deg,#000 0%,#e000df 29%,#990098 67%,#8e8e8e 100%);
 margin-top: 2px;
 background-size: cover;
-
+margin-left: 3px;
 }
 #users .uzr.zan {
 box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #990098;
