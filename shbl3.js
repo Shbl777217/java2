@@ -656,7 +656,6 @@ margin-left: -0px;
 
 
 
-
 #users .uzr.zan img.ustat {
     width: 13px !important;
     height: 13px !important;
@@ -727,6 +726,7 @@ background-image: linear-gradient(-225deg,#000 0%,#e000df 29%,#990098 67%,#8e8e8
 margin-top: 2px;
 background-size: cover;
 margin-left: 3px;
+margin-bottom: 3px !important;
 }
 #users .uzr.zan {
 box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #990098;
@@ -737,7 +737,7 @@ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #990098;
   
   border: 1px solid #fff;
  background-image: url(https://up6.cc/2023/10/169808608953751.jpg);
-background-size: 100%;
+background-size: cover;
 }
 #users .uzr.zan .d-flex.fl {
   padding-right: 0px !important;
@@ -751,6 +751,7 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
 
 
 
