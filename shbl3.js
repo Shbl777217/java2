@@ -710,7 +710,7 @@ box-shadow: 0 0 4px rgb(153, 0, 152), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000
 margin-top: 2px;
 margin-right: 2px;
 border-radius: 100px ;
-margin-left: -12px;
+margin-left: -10px;
 height: 52px !important;
 margin-bottom: 3px !important;
 }
@@ -724,7 +724,7 @@ margin-bottom: 3px !important;
 
   -webkit-text-fill-color: #0000;
 background-image: linear-gradient(-225deg,#000 0%,#e000df 29%,#990098 67%,#8e8e8e 100%);
-
+margin-top: 2px;
 background-size: cover;
 
 }
