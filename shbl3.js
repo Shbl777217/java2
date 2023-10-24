@@ -2216,6 +2216,9 @@ margin-left: -46px;
 
 
 
+
+
+
 #users .uzr.hhqq img.co {
   width: 1px !important;
     height: 1px !important;
@@ -2230,7 +2233,7 @@ width: 1px !important;
 
 
 #users .uzr.hhqq img.u-ico {
-margin-left: 2px;
+margin-left: 5px;
     border-radius: 0px 8px 0px 8px;
      
 
@@ -2253,10 +2256,10 @@ margin-left: 2px;
   border-radius: 100px !important;
   margin-top: 15px !important;
   height: 52px !important;
-  margin-left: 19px!important;
+  margin-left: 23px!important;
   z-index: 0 !important;
 margin-bottom: 15px !important;
-padding: 24px !important;
+padding: 20px !important;
 border:2px solid #000;margin-top:3px;border-radius:100px;
 
 filter: hue-rotate(360deg);
@@ -2289,9 +2292,10 @@ margin-top: 5px !important;
   border-radius: 0px 11px 0px 11px;
    
   
-  border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/09/169472495809231.jpg);
+  border: 1px solid #f0eeef;
+ background-image: url(https://up6.cc/2023/10/169818156958081.jpg);
 background-size: 100%;
+box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 2px rgb(0 0 0), 0 0 0 0px #000;
     
 }
 
@@ -2308,11 +2312,11 @@ margin-bottom: 33px !important;
 }
 
 #users .uzr.hhqq .itarr_hhhqq1 {
- width: 94px;
+ width: 92px;
 
-margin-top: -43px;
+margin-top: -38px;
 cursor: pointer;
-margin-left: -47px;
+margin-left: -42px;
 }
 
 
