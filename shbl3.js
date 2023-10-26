@@ -72,7 +72,7 @@ padding: 26px !important;
  background-image: url(https://up6.cc/2023/03/167832696716741.gif);
   padding: 0px !important;
 	margin-bottom: 3px !important;
-margin-right: 28px !important;
+margin-right: 8px !important;
 margin-left: 5px;
 background-size: cover;
 margin-top: 2px !important;
