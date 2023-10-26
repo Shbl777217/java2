@@ -73,9 +73,9 @@ padding: 26px !important;
   padding: 0px !important;
 	margin-bottom: 3px !important;
 margin-right: 28px !important;
-margin-left: 15px;
+margin-left: 5px;
 background-size: cover;
-margin-top: 5px !important;
+margin-top: 2px !important;
 
 }
 
