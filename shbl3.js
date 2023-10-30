@@ -72,7 +72,7 @@ padding: 26px !important;
 
   padding: 0px !important;
 	margin-bottom: 3px !important;
-margin-right: 28px !important;
+margin-right: 8px !important;
 margin-left: 10px;
 background-size: cover;
 margin-top: 4px !important;
