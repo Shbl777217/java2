@@ -110,7 +110,7 @@ background-size: 100%;
 
 #users .uzr.zooz .itarr_zooz {
 
-  width: 33px;
+  width: 0px;
 
 margin-top: -5px;
 cursor: pointer;
