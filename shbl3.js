@@ -95,7 +95,7 @@ border: 1px solid #fff;
    
   
   
- background-image: url(https://up6.cc/2023/11/169965231195061.gif);
+ background-image: url(https://up6.cc/2023/11/169965392425031.gif);
 background-size: 100%;
     
 }
