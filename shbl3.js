@@ -1209,6 +1209,7 @@ margin-left: -0px;
 
 
 
+
 #users .uzr.mwazi img.co {
   width: 0px !important;
     height: 0px !important;
@@ -1235,28 +1236,32 @@ width: 0px !important;
     }
 
 #users .uzr.mwazi img.ustat {
-      width: 0px !important;
-    height: 0px !important;
+   height: 11px !important;
+width: 11px !important;
     min-height: 0%!important;
     margin-right: 0;
     z-index: 999999;
-    border-radius: 50px;
-    margin-left: 6px;
-    margin-top: 8px;
+    border-radius: 0px 0px 0px 0px;
+    margin-left: 155px;
+    margin-top: 5px;
+    border: 1px solid #000;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff;
+transform:rotate(45deg);
+
       
     }
 
 #users .uzr.mwazi .fitimg.u-pic {
   border-radius: 100px !important;
-  margin-top: 5px !important;
-  height: 0px !important;
-  margin-left: -80px!important;
+  margin-top: 13px !important;
+  height: 52px !important;
+  margin-left: -37px!important;
   z-index: 0 !important;
-margin-bottom: 27px !important;
-padding: 0px !important;
-border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
+margin-bottom: 20px !important;
+padding: 30px !important;
+border:2px solid #000;margin-top:3px;border-radius:100px;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff
 }
 
 #users .uzr.mwazi .u-msg {
