@@ -57,7 +57,7 @@ border-radius: 100px !important;
   height: 0px !important;
   margin-left: -80px!important;
   z-index: 0 !important;
-margin-bottom: 18px !important;
+margin-bottom: 14px !important;
 padding: 0px !important;
 border:2px solid #000;margin-top:3px;border-radius:100px;
 
