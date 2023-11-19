@@ -1210,7 +1210,6 @@ margin-left: -0px;
 
 
 
-
 #users .uzr.mwazi img.co {
   width: 0px !important;
     height: 0px !important;
@@ -1243,7 +1242,7 @@ width: 11px !important;
     margin-right: 0;
     z-index: 999999;
     border-radius: 0px 0px 0px 0px;
-    margin-left: 155px;
+    margin-left: 135px;
     margin-top: 5px;
     border: 1px solid #000;
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff;
@@ -1258,7 +1257,7 @@ transform:rotate(45deg);
   height: 52px !important;
   margin-left: -37px!important;
   z-index: 0 !important;
-margin-bottom: 15px !important;
+margin-bottom: 10px !important;
 padding: 30px !important;
 border:2px solid #000;margin-top:3px;border-radius:100px;
 
@@ -1295,7 +1294,7 @@ margin-left: -8px !important;
   
   border: 1px solid #fff;
  background-image: url(https://up6.cc/2023/10/169765470958781.gif);
-background-size: 100%;
+background-size: cover;
 
     
 }
@@ -1308,7 +1307,7 @@ background-size: 100%;
 
 #users .uzr.mwazi .u-topic {
 
-  margin-left: 12px ;
+  margin-left: 100px ;
 
 
   -webkit-text-fill-color: #0000;
@@ -1323,7 +1322,6 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
-
 
 
 
