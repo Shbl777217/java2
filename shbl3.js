@@ -1243,7 +1243,7 @@ width: 11px !important;
     z-index: 999999;
     border-radius: 0px 0px 0px 0px;
     margin-left: 140px;
-    margin-top: 5px;
+    margin-top: 3px;
     border: 1px solid #000;
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff;
 transform:rotate(45deg);
