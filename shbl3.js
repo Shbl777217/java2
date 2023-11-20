@@ -234,6 +234,7 @@ margin-left: -0px;
 
 
 
+
 #users .uzr.abdullahvi2 img.co {
   width: 0px !important;
     height: 0px !important;
@@ -275,9 +276,9 @@ width: 11px !important;
   border-radius: 100px !important;
   margin-top: 8px !important;
   height: 52px !important;
-  margin-left: 105px!important;
+  margin-left: -120px!important;
   z-index: 0 !important;
-margin-bottom: 20px !important;
+margin-bottom: 10px !important;
 padding: 29px !important;
 border:2px solid #000;margin-top:3px;border-radius:100px;
 
@@ -313,8 +314,8 @@ border: 1px solid #fff;
    
   
   
- background-image: url(https://up6.cc/2023/11/169965392425031.gif);
-background-size: 100%;
+ background-image: url(https://up6.cc/2023/11/170050644128021.gif);
+background-size: cover;
     
 }
 
@@ -338,7 +339,6 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
-
 
 
 
