@@ -14,6 +14,8 @@ $("style").last().append(`
 
 
 
+
+
 #users .uzr.qdr img.ustat {
     width: 13px !important;
     height: 13px !important;
@@ -25,7 +27,7 @@ $("style").last().append(`
     margin-top: 1px;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
-box-shadow: 0 0 3px rgb(178, 135, 154), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
+box-shadow: 0 0 3px rgb(218, 88, 155), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
 }
 
 
@@ -63,7 +65,7 @@ width: 0px !important;
 #users .uzr.qdr .fitimg.u-pic {
 border: 1px solid #fff ;
 border-radius: 8px 0px  8px 8px ;
-box-shadow: 0 0 4px rgb(178, 135, 154), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
+box-shadow: 0 0 4px rgb(218, 88, 155), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
 border-radius: 100px ;
@@ -109,6 +111,8 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
 
 
 
