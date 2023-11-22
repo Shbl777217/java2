@@ -197,8 +197,8 @@ margin-bottom: 3px !important;
    -webkit-background-clip: text;
   
 
-  -webkit-text-fill-color: #0000;
-background-image: linear-gradient(-225deg,#a8a8a8 0%,#939393 29%,#d84b95 67%,#8e8e8e 100%);
+color: #000!important;
+
 margin-top: 2px;
 background-size: cover;
 margin-left: 3px;
