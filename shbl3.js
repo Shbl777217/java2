@@ -722,7 +722,9 @@ margin-bottom: 2px !important;
 #users .uzr.vel .u-msg {
  
    -webkit-background-clip: text;
-  
+  margin-top: 2px;
+
+margin-left: 3px;
 
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/01/167459183804791.gif);
