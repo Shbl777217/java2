@@ -691,7 +691,8 @@ margin-left: -0px;
 #users .uzr.vel img.u-ico {
 margin-left: 2px;
  
-     
+        border-radius: 0px 5px 5px 0px;
+ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #8b8b8b;
 
       
     }
