@@ -676,6 +676,26 @@ margin-left: -0px;
 
 
 
+
+
+#users .uzr.vel .u-topic {
+
+  margin-left: 5px;
+
+  
+
+  -webkit-text-fill-color: #0000;
+
+}
+
+#users .uzr.vel img.u-ico {
+margin-left: 2px;
+ 
+     
+
+      
+    }
+
 #users .uzr.vel img.co {
   width: 0px !important;
     height: 0px !important;
@@ -683,94 +703,46 @@ margin-left: -0px;
 }
 
 #users .uzr.vel span.uhash{
-    -webkit-text-fill-color: transparent;
+   -webkit-text-fill-color: transparent;
 width: 0px !important;
     height: 0px !important;
   margin-right: 1px;}
 
 
-#users .uzr.vel img.u-ico {
-margin-left: 9px;
-width: 0px !important;
-    height: 0px !important;
-  margin-right: 1px;
-    
-     
-
-      
-    }
-
-#users .uzr.vel img.ustat {
-     width: 10px !important;
-  border-radius: 0px 0px 5px 5px !important;
-  height: 10px !important;
-  min-height: 0% !important;
-  z-index: 0 !important;
-margin-left: 0px !important;
-margin-top: 0px !important;
-border: 1px solid #fff;
-box-shadow: 0 0 3px rgb(255, 255, 255), inset 0 0 4px rgb(255, 255, 255), 0 0 0 0px #000;
-      
-    }
-
 #users .uzr.vel .fitimg.u-pic {
-border-radius: 100px !important;
-  margin-top: 7px !important;
-  height: 0px !important;
-  margin-left: -80px!important;
-  z-index: 0 !important;
-margin-bottom: 12px !important;
-padding: 0px !important;
-border:2px solid #000;margin-top:3px;border-radius:100px;
+  border: 1px solid #ececec;
+  border-radius: 0px 8px 8px 0px;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
+margin-bottom: 2px !important;
 
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #dfdfdf;
 }
+
+
 
 #users .uzr.vel .u-msg {
-text-align:right;
-	
-  -webkit-background-clip: text;
+ 
+   -webkit-background-clip: text;
   
-  font-size: 90% !important;
- -webkit-text-fill-color: #0000;
 
-  padding: 0px !important;
-	margin-bottom: 0px !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/01/167459183804791.gif);
 
-margin-right: 5px !important;
-margin-top: 16px !important;
-margin-left: 30px !important;
+background-size: cover;
 
 }
-
-
-
-
-
 #users .uzr.vel {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #fff;
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 0px 4px 4px 4px;
+  border-radius: 0px 10px 10px 0px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/11/170033977995431.gif);
+ background-image: url(https://up6.cc/2023/09/169491281944741.jpg);
 background-size: 100%;
-
-    
 }
-
-
-
 #users .uzr.vel .d-flex.fl {
   padding-right: 0px !important;
-}
-
-#users .uzr.vel span.u-topic {
--webkit-text-fill-color: transparent;
-  margin-left: -130px ;
-
 }
 
 
@@ -781,6 +753,8 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
 
 
 
