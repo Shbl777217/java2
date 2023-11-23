@@ -678,6 +678,10 @@ margin-left: -0px;
 
 
 
+
+
+
+
 #users .uzr.vel .u-topic {
 
   margin-left: 5px;
@@ -691,9 +695,8 @@ margin-left: -0px;
 #users .uzr.vel img.u-ico {
 margin-left: 2px;
  
-        border-radius: 0px 5px 5px 0px;
- box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #8b8b8b;
-
+     border-radius: 0px 5px 0px 5px;
+ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #8b8b8b;
       
     }
 
@@ -712,7 +715,8 @@ width: 0px !important;
 
 #users .uzr.vel .fitimg.u-pic {
   border: 1px solid #ececec;
-  border-radius: 0px 8px 8px 0px;
+height: 52px !important;
+  border-radius: 0px 8px 0px 8px;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
 margin-bottom: 2px !important;
 
@@ -722,10 +726,11 @@ margin-bottom: 2px !important;
 
 #users .uzr.vel .u-msg {
  
-   -webkit-background-clip: text;
-  margin-top: 2px;
+margin-top: 2px;
 
 margin-left: 3px;
+   -webkit-background-clip: text;
+  
 
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/01/167459183804791.gif);
@@ -737,7 +742,7 @@ background-size: cover;
 box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 0px 10px 10px 0px;
+  border-radius: 0px 10px 0px 10px;
    
   
   border: 1px solid #fff;
@@ -756,6 +761,8 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
 
 
 
