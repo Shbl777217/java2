@@ -470,7 +470,7 @@ box-shadow: 0 0 3px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
 
 #users .uzr.mero .u-topic {
 -webkit-text-fill-color: #0000;
-  margin-left: 250px;
+  margin-left: 300px;
 
   
 
