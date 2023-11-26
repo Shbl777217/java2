@@ -21,6 +21,121 @@ $("style").last().append(`
 
 
 
+
+
+
+#users .uzr.abdullahvi2 img.co {
+  width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.abdullahvi2 span.uhash{
+    -webkit-text-fill-color: transparent;
+width: 1px !important;
+    height: 1px !important;
+  margin-right: 1px;}
+
+
+#users .uzr.abdullahvi2 img.u-ico {
+margin-left: 9px;
+width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+    
+     
+
+      
+    }
+
+#users .uzr.abdullahvi2 img.ustat {
+    width: 10px !important;
+  border-radius: 0px 0px 5px 5px !important;
+  height: 10px !important;
+  min-height: 0% !important;
+  z-index: 0 !important;
+margin-left: 0px !important;
+margin-top: 0px !important;
+      
+      
+    }
+
+#users .uzr.abdullahvi2 .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 5px !important;
+  height: 0px !important;
+  margin-left: -80px!important;
+  z-index: 0 !important;
+margin-bottom: 8px !important;
+padding: 0px !important;
+border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
+}
+
+#users .uzr.abdullahvi2 .u-msg {
+text-align:center;
+	
+  -webkit-background-clip: text;
+  
+  font-size: 90% !important;
+ -webkit-text-fill-color: transparent;
+
+  padding: 0px !important;
+	margin-bottom: -2px !important;
+
+
+margin-top: 10px !important;
+margin-left: -8px !important;
+
+}
+
+
+
+
+
+#users .uzr.abdullahvi2 {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px 4px 4px 4px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/05/168338066257211.gif);
+background-size: 100%;
+
+    
+}
+
+
+
+#users .uzr.abdullahvi2 .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.abdullahvi2 span.u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: -130px ;
+
+}
+
+
+#users .uzr.abdullahvi2 .itarr_abdullahvi21 {
+ width: 0px;
+
+margin-top: -0px;
+cursor: pointer;
+margin-left: -0px;
+}
+
+
+
+
+
+
+
+
 #users .uzr.log img.ustat {
     width: 13px !important;
     height: 13px !important;
@@ -980,113 +1095,6 @@ margin-left: -0px;
 
 
 
-
-
-
-#users .uzr.abdullahvi2 img.co {
-  width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;
-}
-
-#users .uzr.abdullahvi2 span.uhash{
-    -webkit-text-fill-color: transparent;
-  width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;}
-
-
-#users .uzr.abdullahvi2 img.u-ico {
-  width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;
-margin-left: 9px;
-    
-     
-
-      
-    }
-
-#users .uzr.abdullahvi2 img.ustat {
-   height: 11px !important;
-width: 11px !important;
-    min-height: 0%!important;
-    margin-right: 0;
-    z-index: 999999;
-    border-radius: 0px 3px 0px 3px;
-    margin-left: 1px;
-    margin-top: 1px;
-    border: 1px solid #fff;
-
-    }
-
-#users .uzr.abdullahvi2 .fitimg.u-pic {
-  border-radius: 100px !important;
-  margin-top: 8px !important;
-  height: 52px !important;
-  margin-left: -120px!important;
-  z-index: 0 !important;
-margin-bottom: 10px !important;
-padding: 29px !important;
-border:2px solid #000;margin-top:3px;border-radius:100px;
-
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #000
-}
-
-#users .uzr.abdullahvi2 .u-msg {
-	
- 
-  padding: 1px !important;
-  font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
-
-  padding: 0px !important;
-  font-size: 89% !important;
-	margin-bottom: 5px !important;
-margin-top: 8px !important;
-background-size: cover;
-margin-left: 15px !important;
-
-}
-
-
-
-
-
-#users .uzr.abdullahvi2 {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-border: 1px solid #fff;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-  border-radius: 0px;
-   
-  
-  
- background-image: url(https://up6.cc/2023/11/170050644128021.gif);
-background-size: cover;
-    
-}
-
-
-
-#users .uzr.abdullahvi2 .d-flex.fl {
-  padding-right: 0px !important;
-}
-
-#users .uzr.abdullahvi2 .u-topic {
--webkit-text-fill-color: transparent;
-  margin-left: 4px ;
-
-}
-
-
-#users .uzr.abdullahvi2 .itarr_abdullahvi21 {
- width: 0px;
-
-margin-top: -0px;
-cursor: pointer;
-margin-left: -0px;
-}
 
 
 
