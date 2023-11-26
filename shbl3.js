@@ -574,6 +574,8 @@ margin-left: -0px;
 
 
 
+
+
 #users .uzr.athhb img.co {
   width: 0px !important;
     height: 0px !important;
@@ -598,14 +600,14 @@ margin-top: 5px !important;
     }
 
 #users .uzr.athhb img.ustat {
-       width: 8px !important;
+       width: 10px !important;
   border-radius: 50px !important;
-  height: 8px !important;
+  height: 10px !important;
   min-height: 0% !important;
   z-index: 0 !important;
 margin-left: 2px !important;
 margin-top: 2px !important;
-  
+      
       
     }
 
@@ -615,11 +617,11 @@ margin-top: 2px !important;
   height: 52px !important;
   margin-left: 0px!important;
   z-index: 0 !important;
-margin-bottom: 11px !important;
-padding: 28px !important;
+margin-bottom: 8px !important;
+padding: 32px !important;
 border:1px solid #979797;margin-top:3px;border-radius:100px;
 
-box-shadow: 0 0 7px rgb(68, 156, 137), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #cccccc;
 
 }
 
@@ -669,12 +671,15 @@ background-size: 100%;
 }
 
 #users .uzr.athhb .itarr_athhb {
- width: 90px;
+ width: 100px;
 
-margin-top: -44px;
+margin-top: -50px;
 cursor: pointer;
-margin-left: -45px;
+margin-left: -50px;
 }
+
+
+
 
 
 
