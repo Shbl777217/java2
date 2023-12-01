@@ -15,6 +15,12 @@
 $("style").last().append(`
 
 
+
+
+
+
+
+
 #users .uzr.mdiona .u-topic {
 
   margin-left: 90px;
@@ -33,17 +39,10 @@ margin-left: 2px;
       
     }
 
-#users .uzr.mdiona img.co {
-  width: 0px !important;
-    height: 0px !important;
-  margin-right: 1px;
-}
+
 
 #users .uzr.mdiona span.uhash{
-   -webkit-text-fill-color: transparent;
-width: 0px !important;
-    height: 0px !important;
-  margin-right: 1px;}
+  margin-top: -2px !important;}
 
 
 #users .uzr.mdiona .fitimg.u-pic {
@@ -94,6 +93,9 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
+
 
 
 
