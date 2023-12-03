@@ -3814,6 +3814,10 @@ margin-left: -42px;
 
 
 
+
+
+
+
 #users .uzr.waed span.uhash{
     text-transform:uppercase;
     -webkit-text-fill-color:#fff;
@@ -3843,7 +3847,8 @@ margin-left: -42px;
 margin-bottom: 9px !important;
 padding: 29px !important;
 border:1px solid #000;margin-top:2px;border-radius:5px;
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #000
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #000;
+transform:rotate(180deg);
 }
 
 #users .uzr.waed .u-msg {
@@ -3872,7 +3877,7 @@ margin-top: 10px !important;
   border-radius: 4px;
   background-image: 
   border: 1px solid #fff;
-background-image: url(https://up6.cc/2023/01/167458804102671.gif);
+background-image: url(https://up6.cc/2023/12/170162851738441.jpg);
 background-size: 100%;
 }
 
@@ -3894,12 +3899,12 @@ background-size: 100%;
     background-size: cover;
 }
 
-#users .uzr.waed .itarr_waed {
-height: 0px;
-margin-top: -40px;
-cursor: pointer;
-margin-left: -41px;
-}
+
+
+
+
+
+
 
 
 
