@@ -3510,36 +3510,37 @@ margin-left: -42px;
 
 
 #users .uzr.waed span.uhash{
-    text-transform:uppercase;
-    -webkit-text-fill-color:#fff;
-    display:inline-block;}
+   width: 0px !important;
+    height: 0px !important;}
 
 
 #users .uzr.waed img.u-ico {
     
-     margin-left: 3px;
+ width: 0px !important;
+    height: 0px !important;
       
     }
 
 #users .uzr.waed img.ustat {
-      width: 0px !important;
-      border-radius: 100px;
-      height: 0px;
+     width: 0px !important;
+    height: 0px !important;
      
       
     }
 
 #users .uzr.waed .fitimg.u-pic {
-  border-radius: 5px 5px 5px 5px !important;
-  margin-top: 9px !important;
-  height: 52px !important;
-  margin-left: 12px!important;
-  z-index: 0 !important;
-margin-bottom: 9px !important;
-padding: 29px !important;
-border:1px solid #000;margin-top:2px;border-radius:5px;
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #000;
+ width: 0px !important;
+    height: 0px !important;
+margin-left: -50px;
 
+  border-radius: 100px !important;
+  margin-top: 8px !important;
+  height: 52px !important;
+  margin-left: -120px!important;
+  z-index: 0 !important;
+margin-bottom: 0px !important;
+padding: 29px !important;
+border:2px solid #000;margin-top:3px;border-radius:100px;
 }
 
 #users .uzr.waed .u-msg {
@@ -3550,10 +3551,10 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #000;
   -webkit-text-fill-color: #0000;
  background-image: url(https://up6.cc/2023/01/167458934291671.gif);
   padding: 0px !important;
-	margin-bottom: 20px !important;
-margin-left: 15px;
+	margin-bottom: 0px !important;
+margin-left: 1500px;
 background-size: cover;
-margin-top: 10px !important;
+margin-top: 0px !important;
 
 }
 
@@ -3562,14 +3563,8 @@ margin-top: 10px !important;
 
 
 #users .uzr.waed {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-  border-radius: 4px;
-  background-image: 
-  border: 1px solid #fff;
-background-image: url(https://up6.cc/2023/12/170162851738441.jpg);
-background-size: 100%;
+   width: 0px !important;
+    height: 0px !important;
 }
 
 
@@ -3578,17 +3573,10 @@ background-size: 100%;
 }
 
 #users .uzr.waed .u-topic {
-  text-transform: uppercase;
-    -webkit-text-fill-color: transparent;
-    display: inline-block;
-    
-    
-    
-    background-image: url(https://up6.cc/2023/01/167458823850831.gif);
-    -webkit-background-clip: text;
-    color: transparent !important;
-    background-size: cover;
+ width: 0px !important;
+    height: 0px !important;
 }
+
 
 
 
