@@ -21,10 +21,19 @@ $("style").last().append(`
 
 
 
+
 #users .uzr.qaidkm span.uhash{
-    text-transform:uppercase;
-    -webkit-text-fill-color:#fff;
-    display:inline-block;}
+    -webkit-text-fill-color: transparent;
+width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;}
+
+
+#users .uzr.qaidkm img.co {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+}
 
 
 #users .uzr.qaidkm img.u-ico {
@@ -111,6 +120,10 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
+
+
 
 
 
