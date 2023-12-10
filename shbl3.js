@@ -16,6 +16,11 @@ $("style").last().append(`
 
 
 
+
+
+
+
+
 #users .uzr.qaidkm span.uhash{
     text-transform:uppercase;
     -webkit-text-fill-color:#fff;
@@ -23,7 +28,8 @@ $("style").last().append(`
 
 
 #users .uzr.qaidkm img.u-ico {
-
+ width: 0px !important;
+    height: 0px !important;
      margin-left: 0px;
       
     }
@@ -48,7 +54,7 @@ box-shadow: 0 0 3px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
   border-radius: 100px !important;
   margin-top: 9px !important;
   height: 52px !important;
-  margin-left: -6px!important;
+  margin-left: -200px!important;
   z-index: 0 !important;
 margin-bottom: 9px !important;
 padding: 30px !important;
@@ -82,7 +88,7 @@ margin-top: 10px !important;
   border-radius: 4px;
   background-image: 
   border: 1px solid #fff;
-background-image: url(https://up6.cc/2023/12/170224010454031.jpg);
+background-image: url(https://up6.cc/2023/12/170224493377791.gif);
 background-size: 100%;
 }
 
@@ -92,12 +98,11 @@ background-size: 100%;
 }
 
 #users .uzr.qaidkm .u-topic {
-margin-left: 150px;
+margin-left: 450px;
     -webkit-text-fill-color: transparent;
 
 
 }
-
 
 #users .uzr.qaidkm .itarr_qaidkm1 {
  width: 0px;
@@ -106,6 +111,11 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
+
+
+
 
 
 
