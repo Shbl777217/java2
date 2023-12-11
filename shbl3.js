@@ -1450,6 +1450,9 @@ margin-left: 8px;
 
 
 
+
+
+
 #users .uzr.mero img.ustat {
     width: 13px !important;
     height: 13px !important;
@@ -1505,7 +1508,7 @@ margin-right: 2px;
 
 margin-left: -10px;
 height: 52px !important;
-margin-bottom: 3px !important;
+margin-bottom: 7px !important;
 }
 
 
@@ -1515,7 +1518,7 @@ margin-bottom: 3px !important;
    -webkit-background-clip: text;
   
 
-color: #000!important;
+  -webkit-text-fill-color: #000;
 
 margin-top: 2px;
 background-size: cover;
@@ -1530,7 +1533,7 @@ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/11/170068267616411.jpg);
+ background-image: url(https://up6.cc/2023/12/170232166555521.jpg);
 background-size: cover;
 }
 #users .uzr.mero .d-flex.fl {
@@ -1545,6 +1548,8 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
 
 
 
