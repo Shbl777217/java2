@@ -2980,6 +2980,9 @@ margin-left: -0px;
 
 
 
+
+
+
 #users .uzr.jack img.co {
   width: 0px !important;
     height: 0px !important;
@@ -3005,13 +3008,17 @@ width: 0px !important;
     }
 
 #users .uzr.jack img.ustat {
-      width: 10px !important;
-  border-radius: 0px 0px 5px 5px !important;
-  height: 10px !important;
+      width: 25px !important;
+  border-radius: 0px  !important;
+height: 25px !important;
   min-height: 0% !important;
   z-index: 0 !important;
-margin-left: 0px !important;
-margin-top: 0px !important;
+margin-left: -18px !important;
+margin-top: 18px !important;
+transform:rotate(46deg);
+border: 0px solid #0000;
+box-shadow: 0 0 2px rgb(0, 0, 0), inset 0 0 2px rgb(0, 0, 0), 0 0 0 0px #000;
+
       
     }
 
@@ -3029,19 +3036,18 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
 }
 
 #users .uzr.jack .u-msg {
-text-align:center;
-	
+	text-align: right;
+ 
   -webkit-background-clip: text;
   
-  font-size: 90% !important;
- -webkit-text-fill-color: transparent;
-
+  font-size: 84% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/04/168272313655821.gif);
   padding: 0px !important;
-	margin-bottom: -2px !important;
-
-
-margin-top: 10px !important;
-margin-left: -8px !important;
+	margin-bottom: 3px !important;
+margin-left: 0px;
+background-size: cover;
+margin-top: 7px !important;
 
 }
 
@@ -3053,7 +3059,7 @@ margin-left: -8px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
 
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/08/169170268630241.gif);
+ background-image: url(https://up6.cc/2023/12/170189360548581.gif);
 background-size: cover;
 
     
@@ -3067,7 +3073,7 @@ background-size: cover;
 
 #users .uzr.jack .u-topic {
 -webkit-text-fill-color: transparent;
-  margin-left: 9px ;
+  margin-left: 400px ;
 
 }
 
