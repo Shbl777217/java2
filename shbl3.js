@@ -3036,18 +3036,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
 }
 
 #users .uzr.jack .u-msg {
-	text-align: right;
- 
-  -webkit-background-clip: text;
-  
-  font-size: 84% !important;
-  -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/04/168272313655821.gif);
-  padding: 0px !important;
-	margin-bottom: 3px !important;
-margin-left: 0px;
-background-size: cover;
-margin-top: 7px !important;
+  -webkit-text-fill-color: transparent;
 
 }
 
