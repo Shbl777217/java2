@@ -78,6 +78,7 @@ box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 
 #users .uzr.qtr .u-msg {
 margin-top: 2px;
+margin-bottom: 2px;
    -webkit-text-fill-color: #9c153d;
 margin-left: 9px;
   font-size: 89% !important;
