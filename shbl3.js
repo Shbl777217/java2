@@ -2475,7 +2475,7 @@ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   border-radius: 0px 4px 4px 4px;
   background-image: 
   border: 1px solid #fff;
-background-image: url(https://up6.cc/2023/11/17013762617781.jpg);
+background-image: url(https://up6.cc/2023/12/170327718642771.jpg);
 background-size: 100%;
 
     
