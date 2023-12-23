@@ -20,8 +20,22 @@ $("style").last().append(`
 
 
 
+
+#users .uzr.shayl img.co {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.shayl span.uhash{
+   -webkit-text-fill-color: transparent;
+width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;}
+
+
 #users .uzr.shayl {
-box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #000;
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #2072b0;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border-radius: 4px 4px 4px 4px;
@@ -34,6 +48,17 @@ background-size: 100%;
 #users .uzr.shayl .d-flex.fl {
   padding-right: 0px !important;
 }
+
+#users .uzr.shayl .fitimg.u-pic {
+  border: 1px solid #fff;
+height: 52px !important;
+  border-radius: 0px 8px 8px 0px;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #2072b0;
+margin-bottom: 1px !important;
+
+}
+
+
 
 #users .uzr.shayl .u-msg {
  
@@ -61,7 +86,6 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
-
 
 
 
