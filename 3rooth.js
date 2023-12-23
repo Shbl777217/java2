@@ -41,11 +41,7 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 		<b>اشترك</b> <b>( عشره نجوم سودا )</b> <b>
 		<font color="#0000FF">شهر</font></b> <b>
 		<font face="Ebrima" color="#000000">900</font></b> 
-		<b>واحصل ع</b> <b><font color="#000000">( نجمه ذهبيه )</font></b><font color="#000000">ـ</font> <img src="https://www.alriad.net/s2.gif"><img src="https://www.alriad.net/s2.gif"></font><b><div style="float: right;padding-right: 20px;">
-			<p dir="ltr">8</div><u><font size="2" color="#008000">&nbsp;اشترك 4 
-		استوري ب 150 لمدة شهر </font></u>
-		<img src="https://khleeg.us/sico/znKMrgwtB.gif"><u><font size="2" color="#008000">&nbsp;&nbsp;
-		</font></u>
+		<b>واحصل ع</b> <b><font color="#000000">( نجمه ذهبيه )</font></b><font color="#000000">ـ</font> <img src="https://www.alriad.net/s2.gif"><img src="https://www.alriad.net/s2.gif"></font><b></p>
 		<p style="text-align: center"><u><font color="#0000FF" size="2">ملاحظه : ينتهي العرض 
 		اول ايام راس السنه / وكل عام وانتم بخير</font></u></font><p style="text-align: center"><u>
 		<a target="_blank" href="https://alriad.net/sico/z1f5c4o6s610.JPG">
