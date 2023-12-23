@@ -1,4 +1,9 @@
 
+
+
+
+
+
 $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(function(){fixSize();},800);"><div width="99.5%" id="design-a"style="background-color: antiquewhite;color: #105873;border-bottom: 3px solid #105873;border-top: 3px solid #6b5f5f;padding-bottom: 2px;border-radius: 0px 0px 15px 15px;" >
 	<font id="sultan0" class=" sultan11"style="
     font-family: jazeera-light, FontAwesome;
@@ -42,6 +47,14 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 		<font color="#0000FF">شهر</font></b> <b>
 		<font face="Ebrima" color="#000000">900</font></b> 
 		<b>واحصل ع</b> <b><font color="#000000">( نجمه ذهبيه )</font></b><font color="#000000">ـ</font> <img src="https://www.alriad.net/s2.gif"><img src="https://www.alriad.net/s2.gif"></font><b></p>
+
+        <div style="float: right;padding-right: 20px;">
+			-8</div><font size="2" color="#008000">&nbsp;<img src="https://khleeg.us/sico/znKMrgwtB.gif"> 
+		<b> اشترك 4 ستوري </b>  <b>
+		<font color="#0000FF">شهر</font></b> <b>
+		<font face="Ebrima" color="#000000">150</font></b> 
+		 <b><font color="#000000"></font></b><font color="#000000">ـ</font> <img src="https://khleeg.us/sico/znLDaqHZx.gif"></font><b></p>
+
 		<p style="text-align: center"><u><font color="#0000FF" size="2">ملاحظه : ينتهي العرض 
 		اول ايام راس السنه / وكل عام وانتم بخير</font></u></font><p style="text-align: center"><u>
 		<a target="_blank" href="https://alriad.net/sico/z1f5c4o6s610.JPG">
