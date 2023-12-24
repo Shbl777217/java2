@@ -32,7 +32,7 @@ width: 0px !important;
 
 #users .uzr.logkrs img.u-ico {
 margin-left: 3px;
-
+border-radius: 0px 4px 0px 4px;
      
 
       
@@ -122,7 +122,7 @@ width: 0px !important;
 #users .uzr.hlimkrs img.u-ico {
 margin-left: 3px;
 
-     
+    border-radius: 0px 4px 0px 4px; 
 
       
     }
