@@ -32,7 +32,7 @@ width: 0px !important;
 
 #users .uzr.logkrs img.u-ico {
 margin-left: 3px;
-border-radius: 0px 4px 0px 4px;
+
      
 
       
@@ -76,7 +76,7 @@ margin-top: 2px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/12/17034409724621.gif);
+ background-image: url(https://up6.cc/2023/12/170344802138381.gif);
 background-size: 100%;
 
     
@@ -122,7 +122,7 @@ width: 0px !important;
 #users .uzr.hlimkrs img.u-ico {
 margin-left: 3px;
 
-    border-radius: 0px 4px 0px 4px; 
+
 
       
     }
@@ -165,7 +165,7 @@ margin-top: 2px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/12/17034409724621.gif);
+ background-image: url(https://up6.cc/2023/12/170344802138381.gif);
 background-size: 100%;
 
     
