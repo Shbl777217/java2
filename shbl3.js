@@ -2102,38 +2102,7 @@ margin-left: 8px;
 
 
 
-#users .uzr.mero img.ustat {
-    width: 13px !important;
-    height: 13px !important;
-    min-height: 0%!important;
-    margin-right: 0;
-    z-index: 999999;
-    border-radius: 0px 5px 0px 5px;
-    margin-left: 1px;
-    margin-top: 1px;
-    border: 1px solid #fff;
-    box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
-box-shadow: 0 0 3px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
-}
 
-
-#users .uzr.mero .u-topic {
--webkit-text-fill-color: #0000;
-  margin-left: 300px;
-
-  
-
-
-
-}
-
-#users .uzr.mero img.u-ico {
-margin-left: 2px;
- 
-     
-
-      
-    }
 
 #users .uzr.mero img.co {
   width: 0px !important;
@@ -2148,45 +2117,48 @@ width: 0px !important;
   margin-right: 1px;}
 
 
-#users .uzr.mero .fitimg.u-pic {
-border: 1px solid #fff ;
-border-radius: 0px 8px  0px 8px ;
-box-shadow: 0 0 4px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
-margin-top: 2px;
-margin-right: 2px;
+#users .uzr.mero {
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 0px 4px 4px 4px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/12/170353598286341.gif);
+background-size: 100%;
+}
+#users .uzr.mero .d-flex.fl {
+  padding-right: 0px !important;
+}
 
-margin-left: -10px;
+#users .uzr.mero .fitimg.u-pic {
+  border: 1px solid #fff;
 height: 52px !important;
-margin-bottom: 7px !important;
+  border-radius: 0px 8px 8px 8px;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
+margin-bottom: 1px !important;
+
 }
 
 
 
 #users .uzr.mero .u-msg {
  
-   -webkit-background-clip: text;
-  
 
-  -webkit-text-fill-color: #000;
+	
+  -webkit-text-fill-color: #c30101;
 
-margin-top: 2px;
-background-size: cover;
-margin-left: 3px;
-margin-bottom: 3px !important;
+
+
 }
-#users .uzr.mero {
-box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-  border-radius: 0px 5px 0px 5px;
-   
-  
-  border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/12/170232632693382.jpg);
-background-size: cover;
-}
-#users .uzr.mero .d-flex.fl {
-  padding-right: 0px !important;
+
+#users .uzr.mero .u-topic {
+  -webkit-text-fill-color: #0000;
+  margin-left: 300px;
+
+ 
+
 }
 
 
@@ -2197,6 +2169,10 @@ margin-top: -0px;
 cursor: pointer;
 margin-left: -0px;
 }
+
+
+
+
 
 
 
