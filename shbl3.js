@@ -1985,6 +1985,8 @@ margin-left: -50px;
 
 
 
+
+
 #users .uzr.mhrh img.co {
   width: 0px !important;
     height: 0px !important;
@@ -2019,14 +2021,14 @@ margin-left: 5px;
     margin-top: 1px;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
-box-shadow: 0 0 3px rgb(62, 29, 91), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
+box-shadow: 0 0 3px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
       
     }
 
 #users .uzr.mhrh .fitimg.u-pic {
 border: 1px solid #fff ;
 border-radius: 8px 0px  8px 8px ;
-box-shadow: 0 0 4px rgb(62, 29, 91), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
+box-shadow: 0 0 4px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
 border-radius: 100px ;
@@ -2040,12 +2042,12 @@ padding: 26px !important;
 -webkit-background-clip: text;
   
   font-size: 93% !important;
-  -webkit-text-fill-color: #3e1d5b;
+  -webkit-text-fill-color: #1b6a9b;
 
   padding: 0px !important;
 	margin-bottom: 3px !important;
-margin-right: 28px !important;
-margin-left: 10px;
+margin-right: 0px !important;
+margin-left: 3px;
 background-size: cover;
 margin-top: 4px !important;
 
@@ -2056,14 +2058,14 @@ margin-top: 4px !important;
 
 
 #users .uzr.mhrh {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #3e1d5b;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border-radius: 0px 8px 0px 8px ;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/11/17006899927971.jpg);
+ background-image: url(https://up6.cc/2023/12/170362043521381.jpg);
 background-size: 100%;
 
     
@@ -2084,7 +2086,7 @@ background-size: 100%;
 
 #users .uzr.mhrh .itarr_mhrh {
 
-  width: 29px;
+  width: 0px;
 
 margin-top: 1px;
 cursor: pointer;
