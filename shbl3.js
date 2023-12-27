@@ -54,7 +54,7 @@ margin-bottom: 2px !important;
 
 #users .uzr.mshor .u-msg {
  
-margin-left: 8px ;
+margin-left: 14px ;
 margin-top: 2px !important;
   background-size: 100% auto;
   -webkit-background-clip: text;
