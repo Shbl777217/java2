@@ -47,7 +47,7 @@ margin-left: 5px;
 #users .uzr.hnd .fitimg.u-pic {
 border: 1px solid #fff ;
 border-radius: 0px 8px  8px 8px ;
-box-shadow: 0 0 4px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #003bb0;
 
 }
 
@@ -70,7 +70,7 @@ margin-top: 2px !important;
 
 
 #users .uzr.hnd {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
+    box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #003bb0;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border-radius: 0px 8px 0px 8px ;
