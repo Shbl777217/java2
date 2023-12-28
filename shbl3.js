@@ -18,6 +18,7 @@ $("style").last().append(`
 
 
 
+
 #users .uzr.hnd img.co {
   width: 0px !important;
     height: 0px !important;
@@ -54,7 +55,7 @@ box-shadow: 0 0 4px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
 -webkit-background-clip: text;
   
   font-size: 93% !important;
-  -webkit-text-fill-color: #b40100;
+  -webkit-text-fill-color: #01028f;
 
   padding: 0px !important;
 	margin-bottom: 2px !important;
@@ -76,7 +77,7 @@ margin-top: 2px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/12/170371592963371.jpg);
+ background-image: url(https://up6.cc/2023/12/170379041557831.jpg);
 background-size: 100%;
 
     
@@ -94,7 +95,7 @@ background-size: 100%;
   
 
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/12/170371482681052.gif);
+ background-image: url(https://up6.cc/2023/12/170379041558662.gif);
 
 background-size: cover;
 
@@ -109,6 +110,8 @@ margin-top: 1px;
 cursor: pointer;
 margin-left: 8px;
 }
+
+
 
 
 
