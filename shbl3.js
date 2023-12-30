@@ -715,6 +715,7 @@ margin-left: -0px;
 
 
 
+
 #users .uzr.Shblwtn img.co {
   width: 0px !important;
     height: 0px !important;
@@ -738,14 +739,17 @@ margin-left: 9px;
     }
 
 #users .uzr.Shblwtn img.ustat {
-      width: 54px !important;
-  border-radius: 0px 50px 50px 50px !important;
-  height: 52px !important;
-  margin-top: 5px !important;
-  min-height: 0% !important;
-  margin-left: 14px;
-  z-index: 0 !important;
-  display: none;
+ width: 13px !important;
+    height: 13px !important;
+    min-height: 0%!important;
+    margin-right: 0;
+    z-index: 999999;
+    border-radius: 5px 0px 0px 0px;
+    margin-left: 0px;
+    margin-top: 1px;
+    border: 1px solid #fff;
+    box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 0px #f0c01f;
+box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 0px rgb(0, 0, 0), 0 0 0 0px #000;
       
     }
 
@@ -753,7 +757,7 @@ margin-left: 9px;
   border-radius: 100px !important;
   margin-top: 6px !important;
   height: 52px !important;
-  margin-left: 14px!important;
+  margin-left: -3px!important;
   z-index: 0 !important;
 margin-bottom: 8px !important;
 padding: 28px !important;
@@ -773,7 +777,7 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
   padding: 0px !important;
 	margin-bottom: 7px !important;
 
-margin-left: -2px;
+margin-left: 4px;
 background-size: cover;
 margin-top: 7px !important;
 
@@ -791,7 +795,7 @@ margin-top: 7px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/12/17039663822691.jpg);
+ background-image: url(https://up6.cc/2023/12/170396710704351.jpg);
 background-size: 100%;
 
     
@@ -816,6 +820,10 @@ margin-top: -45px;
 cursor: pointer;
 margin-left: -47px;
 }
+
+
+
+
 
 
 
