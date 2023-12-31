@@ -2043,7 +2043,7 @@ margin-top: 7px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/01/170405996905921.jpg);
+ background-image: url(https://up6.cc/2024/01/170406243544521.jpg);
 background-size: 100%;
 
     
