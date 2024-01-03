@@ -532,7 +532,7 @@ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/01/170431002494731.jpg);
+ background-image: url(https://up6.cc/2024/01/170431266013951.jpg);
 background-size: 100%;
 }
 #users .uzr.adlb .d-flex.fl {
