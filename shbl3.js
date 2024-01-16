@@ -365,8 +365,6 @@ margin-left: -42px;
 
 
 
-
-
 #users .uzr.mshkah img.co {
   width: 0px !important;
     height: 0px !important;
@@ -421,10 +419,10 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
   
   font-size: 93% !important;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/03/167832696716741.gif);
+
   padding: 0px !important;
 	margin-bottom: 7px !important;
-
+ background-image: url(https://up6.cc/2024/01/170535302080371.gif);
 margin-left: 10px;
 background-size: cover;
 margin-top: 7px !important;
@@ -443,7 +441,7 @@ margin-top: 7px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/01/170483327831971.jpg);
+ background-image: url(https://up6.cc/2024/01/170535441955331.jpg);
 background-size: 100%;
 
     
