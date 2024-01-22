@@ -733,7 +733,7 @@ box-shadow: 0 0 2px rgb(0, 0, 0), inset 0 0 3px rgb(0, 0, 0), 0 0 0 0px #000;
   height: 52px !important;
   margin-left: -200px!important;
   z-index: 0 !important;
-margin-bottom: 6px !important;
+margin-bottom: 4px !important;
 padding: 30px !important;
 border:1px solid #000;margin-top:2px;border-radius:5px;
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #000
