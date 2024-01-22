@@ -2661,20 +2661,22 @@ margin-left: -50px;
 
 
 
-#users .uzr.mohrh img.co {
+
+
+#users .uzr.mhrh img.co {
   width: 0px !important;
     height: 0px !important;
   margin-right: 1px;
 }
 
-#users .uzr.mohrh span.uhash{
+#users .uzr.mhrh span.uhash{
     -webkit-text-fill-color: transparent;
 width: 0px !important;
     height: 0px !important;
   margin-right: 1px;}
 
 
-#users .uzr.mohrh img.u-ico {
+#users .uzr.mhrh img.u-ico {
 margin-left: 1px;
 
 
@@ -2684,7 +2686,7 @@ margin-left: 1px;
       
     }
 
-#users .uzr.mohrh img.ustat {
+#users .uzr.mhrh img.ustat {
     width: 13px !important;
     height: 13px !important;
     min-height: 0%!important;
@@ -2699,7 +2701,7 @@ box-shadow: 0 0 3px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
       
     }
 
-#users .uzr.mohrh .fitimg.u-pic {
+#users .uzr.mhrh .fitimg.u-pic {
 border: 1px solid #fff ;
 border-radius: 8px 0px  8px 8px ;
 box-shadow: 0 0 4px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
@@ -2712,7 +2714,7 @@ margin-bottom: 4px !important;
 padding: 26px !important;
 }
 
-#users .uzr.mohrh .u-msg {
+#users .uzr.mhrh .u-msg {
 -webkit-background-clip: text;
   
   font-size: 93% !important;
@@ -2731,7 +2733,7 @@ margin-top: 4px !important;
 
 
 
-#users .uzr.mohrh {
+#users .uzr.mhrh {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
@@ -2747,18 +2749,18 @@ background-size: 100%;
 
 
 
-#users .uzr.mohrh .d-flex.fl {
+#users .uzr.mhrh .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzr.mohrh .u-topic {
+#users .uzr.mhrh .u-topic {
      -webkit-text-fill-color: transparent;
   margin-left: 150px ;
 
 }
 
 
-#users .uzr.mohrh .itarr_mohrh {
+#users .uzr.mhrh .itarr_mhrh {
 
   width: 0px;
 
