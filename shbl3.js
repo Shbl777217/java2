@@ -97,7 +97,7 @@ margin-top: 10px !important;
   border-radius: 4px;
   background-image: 
   border: 1px solid #fff;
-background-image: url(https://up6.cc/2024/01/170596905537931.gif);
+background-image: url(https://up6.cc/2024/01/170597006325151.gif);
 background-size: 100%;
 }
 
