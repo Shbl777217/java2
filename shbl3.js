@@ -107,7 +107,7 @@ background-size: 100%;
 }
 
 #users .uzr.hnn .u-topic {
-margin-left: 450px;
+margin-left: 470px;
     -webkit-text-fill-color: transparent;
 
 
