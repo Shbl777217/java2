@@ -1498,14 +1498,12 @@ background-size: 100%;
 }
 
 #users .uzr.dosr .u-topic {
-  margin-left: 5px;
-   -webkit-background-clip: text;
+  margin-left: 200px;
+
   
 
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/01/167459183804791.gif);
 
-background-size: cover;
 }
 
 
