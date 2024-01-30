@@ -220,7 +220,7 @@ margin-left: 30px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/01/170656788265321.gif);
+ background-image: url(https://up6.cc/2024/01/170664139954021.gif);
 background-size: 100%;
 
     
