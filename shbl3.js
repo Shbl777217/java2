@@ -395,17 +395,14 @@ width: 0px !important;
 #users .uzr.milaclo img.ustat {
   height: 12px !important;
 width: 12px !important;
-    min-height: 0%!important;
+   min-height: 0%!important;
     margin-right: 0;
     z-index: 999999;
-
-    border-radius: 0px 4px 0px 0px;
-    margin-left: 308px;
+    border-radius: 4px 0px 0px 0px;
+    margin-left: 0px;
     margin-top: 0px;
-
     border: 1px solid #fff;
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff;
-transform:rotate(0deg);
+    box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
     }
 
 #users .uzr.milaclo .fitimg.u-pic {
