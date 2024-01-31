@@ -412,7 +412,7 @@ transform:rotate(0deg);
 border-radius: 100px !important;
   margin-top: 7px !important;
   height: 0px !important;
-  margin-left: -300px!important;
+  margin-left: -400px!important;
   z-index: 0 !important;
 margin-bottom: 30px !important;
 padding: 0px !important;
