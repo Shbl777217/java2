@@ -48,7 +48,7 @@ margin-left: 3px;
     min-height: 0%!important;
     margin-right: 0;
     z-index: 999999;
-    border-radius:  0px ;
+    border-radius:  0px 4px 0px 4px ;
     margin-left: 1px;
     margin-top: 1px;
     border: 1px solid #fff;
@@ -393,18 +393,19 @@ width: 0px !important;
     }
 
 #users .uzr.milaclo img.ustat {
-  height: 9px !important;
-width: 9px !important;
+  height: 12px !important;
+width: 12px !important;
     min-height: 0%!important;
     margin-right: 0;
     z-index: 999999;
-    border-radius: 0px 0px 0px 0px;
-    margin-left: 92px;
-    margin-top: 9px;
+
+    border-radius: 0px 4px 0px 0px;
+    margin-left: 308px;
+    margin-top: 0px;
+
     border: 1px solid #fff;
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #fff;
-transform:rotate(45deg);
-      
+transform:rotate(0deg);
     }
 
 #users .uzr.milaclo .fitimg.u-pic {
