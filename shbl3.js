@@ -16,6 +16,11 @@
 $("style").last().append(`
 
 
+
+
+
+
+
 #users .uzr.tro7rm img.co {
   width: 0px !important;
     height: 0px !important;
@@ -38,31 +43,37 @@ margin-left: 3px;
     }
 
 #users .uzr.tro7rm img.ustat {
-      width: 0px !important;
-    height: 0px !important;
+  width: 11px !important;
+    height: 11px !important;
     min-height: 0%!important;
     margin-right: 0;
     z-index: 999999;
-    border-radius: 3px 0px 3px 0px;
-    margin-left: 2px;
-    margin-top: 41px;
-      
-      
+    border-radius:  0px ;
+    margin-left: 1px;
+    margin-top: 1px;
+    border: 1px solid #fff;
+    box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
+box-shadow: 0 0 3px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
+      transform:rotate(0deg);
     }
 
 #users .uzr.tro7rm .fitimg.u-pic {
-   border-radius: 0px 10px 0px 10px;
-  
-  height: 52px !important;
-  margin-left: -2px!important;
-  z-index: 0 !important;
+     z-index: 0 !important;
 
+height: 52px !important;
 
+ 
+margin-bottom: 2px !important;
+margin-top: 1px !important;
+border-radius: 100px;
+margin-left: -10px;
+
+padding: 26px !important;
 border:1px solid #fbfcfc;margin-top:1px;
-margin-bottom:0px;
+
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000
 filter: hue-rotate(360deg);
-box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 0px rgb(0 0 0), 0 0 0 0px #000;
+box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 
 #users .uzr.tro7rm .u-msg {
@@ -111,6 +122,10 @@ margin-top: 31px;
 cursor: pointer;
 margin-left: 31px;
 }
+
+
+
+
 
 
 
