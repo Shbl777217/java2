@@ -110,7 +110,7 @@ background-size: 100%;
 }
 
 #users .uzr.mhry .u-topic {
- -webkit-background-clip: text;
+
    -webkit-text-fill-color: #0000;
 
 }
