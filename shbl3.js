@@ -110,7 +110,7 @@ background-size: 100%;
 }
 
 #users .uzr.mhry .u-topic {
-
+margin-left: 200px;
    -webkit-text-fill-color: #0000;
 
 }
