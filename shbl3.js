@@ -134,8 +134,9 @@ margin-left: 238px;
 
 
 
+
 #users .uzr.mhry img.u-ico {
-margin-left: 0px;
+margin-left: 2px;
 
      
 
@@ -143,30 +144,19 @@ margin-left: 0px;
     }
 
 #users .uzr.mhry img.ustat {
-  width: 12px !important;
-    height: 12px !important;
-    min-height: 0%!important;
-    margin-right: 0;
-    z-index: 999999;
-    border-radius:  0px 4px 0px 4px ;
-    margin-left: 1px;
-    margin-top: 1px;
-    border: 1px solid #fff;
-    box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
-box-shadow: 0 0 3px rgb(0, 0, 0), inset 0 0 0px rgb(0, 0, 0), 0 0 0 0px #000;
-      transform:rotate(0deg);
+
     }
 
 #users .uzr.mhry .fitimg.u-pic {
      z-index: 0 !important;
-
+margin-left: 2px;
 height: 52px !important;
 
  
-margin-bottom: 2px !important;
+margin-bottom: 1px !important;
 margin-top: 1px !important;
 border-radius: 100px;
-margin-left: -10px;
+
 
 padding: 26px !important;
 border:1px solid #fbfcfc;margin-top:1px;
@@ -177,10 +167,10 @@ box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 
 #users .uzr.mhry .u-msg {
-margin-top: 2px;
+margin-top: 0px;
    -webkit-text-fill-color: #000;
 margin-left: 2px;
- 
+
 
 }
 
@@ -193,7 +183,7 @@ margin-left: 2px;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-
+   border-radius: 0px 0px 0px 0px;
    
   
   border: 1px solid #fff;
@@ -210,9 +200,9 @@ background-size: 100%;
 }
 
 #users .uzr.mhry .u-topic {
-
-
-
+ -webkit-background-clip: text;
+   -webkit-text-fill-color: #000;
+margin-left: 1px;
 }
 
 #users .uzr.mhry .itarr_mhry {
@@ -222,6 +212,9 @@ margin-top: 31px;
 cursor: pointer;
 margin-left: 31px;
 }
+
+
+
 
 
 
