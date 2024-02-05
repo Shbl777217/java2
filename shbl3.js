@@ -149,7 +149,7 @@ margin-left: 2px;
 
 #users .uzr.mhry .fitimg.u-pic {
      z-index: 0 !important;
-margin-left: 2px;
+margin-left: 1px;
 height: 52px !important;
 
  
@@ -163,7 +163,7 @@ border:1px solid #fbfcfc;margin-top:1px;
 
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000
 filter: hue-rotate(360deg);
-box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 2px rgb(0 0 0), 0 0 0 0px #000;
 }
 
 #users .uzr.mhry .u-msg {
