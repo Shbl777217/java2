@@ -3970,7 +3970,7 @@ background-size: 100%;
 
 #users .uzr.mhrh .u-topic {
      -webkit-text-fill-color: transparent;
-  margin-left: 150px ;
+
 
 }
 
