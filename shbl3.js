@@ -132,21 +132,10 @@ margin-left: 238px;
 
 
 
-#users .uzr.mhry img.co {
-  width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;
-}
-
-#users .uzr.mhry span.uhash{
-    -webkit-text-fill-color: transparent;
-width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;}
 
 
 #users .uzr.mhry img.u-ico {
-margin-left: 3px;
+margin-left: 0px;
 
      
 
