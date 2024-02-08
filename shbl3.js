@@ -203,8 +203,8 @@ margin-top: 3px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/02/17070804028991.jpg);
-background-size: cover;
+ background-image: url(https://up6.cc/2024/02/170742526801571.jpg);
+background-size: 100%;
     
 }
 
