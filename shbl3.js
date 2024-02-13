@@ -93,7 +93,7 @@ margin-top: 2px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/02/170777391260991.jpg);
+ background-image: url(https://up6.cc/2024/02/170785425039381.jpg);
 background-size: 100%;
 
     
