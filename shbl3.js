@@ -291,7 +291,7 @@ height: 52px !important;
 z-index: 99999 !important;
   border-radius: 100px;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
-margin-bottom: 5px !important;
+margin-bottom: 3px !important;
 margin-top: 2.9px !important;
 }
 
