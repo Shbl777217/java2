@@ -286,7 +286,7 @@ box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 0px rgb(0, 0, 0), 0 0 0 0px #000;
     }
 #users .uzr.thlath .fitimg.u-pic {
   border: 1.5px solid #fff;
-margin-left: -54px ;
+margin-left: -54px !important;
 height: 52px !important;
 z-index: 99999 !important;
   border-radius: 100px;
@@ -350,7 +350,6 @@ margin-top: 28px;
 cursor: pointer;
 margin-left: 28px;
 }
-
 
 
 
