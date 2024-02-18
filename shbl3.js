@@ -4296,8 +4296,9 @@ margin-left: -0px;
 
 
 
+
 #users .uzr.magd img.u-ico {
-margin-left: 5px;
+margin-left: 3px;
 
 
 
@@ -4305,15 +4306,21 @@ margin-left: 5px;
 
       
     }
-
+#users .uzr.magd img.ustat {
+   
+    height: 30px !important;
+ width: 30px !important;
+      
+    }
 
 
 #users .uzr.magd .fitimg.u-pic {
   border: 1px solid #ececec;
 height: 52px !important;
-  border-radius: 0px 8px 0px 8px;
+  border-radius: 100px;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
-margin-bottom: 2px !important;
+margin-bottom: 15px !important;
+margin-left: -30px!important;
 }
 
 #users .uzr.magd .u-msg {
@@ -4336,7 +4343,7 @@ margin-bottom: 2px !important;
    
   
   border: 0px solid #fff;
- background-image: url(https://up6.cc/2024/01/170614204541911.jpg);
+ background-image: url(https://up6.cc/2024/02/170829002421361.jpg);
 background-size: 100%;
 
     
@@ -4375,8 +4382,11 @@ margin-left: -1px;
 
 
 
+
+
+
 #users .uzr.dl3 img.u-ico {
-margin-left: 5px;
+margin-left: 3px;
 
 
 
@@ -4384,15 +4394,21 @@ margin-left: 5px;
 
       
     }
-
+#users .uzr.dl3 img.ustat {
+   
+    height: 30px !important;
+ width: 30px !important;
+      
+    }
 
 
 #users .uzr.dl3 .fitimg.u-pic {
   border: 1px solid #ececec;
 height: 52px !important;
-  border-radius: 0px 8px 0px 8px;
+  border-radius: 100px;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
-margin-bottom: 2px !important;
+margin-bottom: 15px !important;
+margin-left: -30px!important;
 }
 
 #users .uzr.dl3 .u-msg {
@@ -4409,13 +4425,13 @@ margin-bottom: 2px !important;
 
 #users .uzr.dl3 {
  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 0px #000;
-  margin-bottom: 0px !important;
-  margin-top: 0px !important;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
   border-radius: 0px 10px 0px 10px;
    
   
   border: 0px solid #fff;
- background-image: url(https://up6.cc/2024/01/170614211520041.jpg);
+ background-image: url(https://up6.cc/2024/02/170829019777411.jpg);
 background-size: 100%;
 
     
@@ -4445,6 +4461,7 @@ margin-top: 28px;
 cursor: pointer;
 margin-left: -1px;
 }
+
 
 
 
