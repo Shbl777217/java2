@@ -4307,7 +4307,7 @@ margin-left: 3px;
       
     }
 #users .uzr.magd img.ustat {
-   
+   z-index: 000000!important;
     height: 30px !important;
  width: 30px !important;
       
@@ -4322,6 +4322,7 @@ height: 52px !important;
 margin-bottom: 15px !important;
 margin-left: -30px!important;
 margin-top: 0px !important;
+z-index: 999999!important;
 }
 
 #users .uzr.magd .u-msg {
@@ -4399,7 +4400,7 @@ margin-left: 3px;
    
     height: 30px !important;
  width: 30px !important;
-      
+      z-index: 000000!important;
     }
 
 
@@ -4411,6 +4412,7 @@ height: 52px !important;
 margin-bottom: 15px !important;
 margin-left: -30px!important;
 margin-top: 0px !important;
+z-index: 999999!important;
 }
 
 #users .uzr.dl3 .u-msg {
