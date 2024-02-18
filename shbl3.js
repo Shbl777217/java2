@@ -4321,6 +4321,7 @@ height: 52px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
 margin-bottom: 15px !important;
 margin-left: -30px!important;
+margin-top: 0px !important;
 }
 
 #users .uzr.magd .u-msg {
@@ -4409,6 +4410,7 @@ height: 52px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
 margin-bottom: 15px !important;
 margin-left: -30px!important;
+margin-top: 0px !important;
 }
 
 #users .uzr.dl3 .u-msg {
