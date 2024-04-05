@@ -8,7 +8,7 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
     font-family: jazeera-light, FontAwesome; background-color:#000000" >  
 	<font color="#FFFFCC">  <u><b>بمناسبة عيد الفطر / اضغط هنا</b></u></font></font><font id="sultan" class=" sultan11"><u><b> </b></u></font><div id="spanan"style="font-family: jazeera-light, FontAwesome;color: red;text-align: right;display:none;">
 		<b><p style="text-align: center">
-		<img src="https://mrkzgulfup.com/uploads/171226198809851.png" width="347" height="358"><p style="text-align: center">
+		<img src="https://up6.cc/2024/04/171234812325781.png" width="347" height="358"><p style="text-align: center">
 		<u>
 		<a target="_blank" href="https://te3b.com/sico/z1f5c4o6s610.JPG">
 		<font size="2">و للتواصل مع الاداره اضغط هناا </font>
