@@ -8,7 +8,7 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 	<font color="#FF0000"><b> 
 	&nbsp;</b></font><b><font color="#FF0000">بمناسبة رأس السنه / اضغط هنا</font></b></u></font><font id="sultan" class=" sultan11"><u><b> </b></u></font><div id="spanan"style="font-family: jazeera-light, FontAwesome;color: red;text-align: right;display:none;">
 		<b><p style="text-align: center">
-		<img src="https://i.ibb.co/rKQgfL74/1.png" width="347" height="358"><p style="text-align: center">
+		<img src="https://www.raed.net/img?id=1488332" width="347" height="358"><p style="text-align: center">
 		<u>
 		<a target="_blank" href="https://te3b.com/sico/z1f5c4o6s610.JPG">
 		<font size="2">و للتواصل مع الاداره اضغط هناا </font>
