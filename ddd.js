@@ -1,5 +1,6 @@
 
 
+
 (function () {
 
     this.DOMAIN = "story.aayemen.net";
@@ -77,11 +78,17 @@
                 this.setCurrentUserToken(this, res.t);
             }
 
+            if (typeof res.ajax_token == "string") {
+                this.setCurrentUserAjaxToken(this, res.ajax_token);
+            }
+
             if(res.t_expired) {
                 localStorage.removeItem("str_token");
+                localStorage.removeItem("str_ajax_token");
                 this.setCurrentUserToken(this, null);
-                this.requestPassword(() => {
-                    this.setCurrentUserToken(this, res.t);
+                this.requestPassword((response) => {
+                    this.setCurrentUserToken(this, response.t);
+                    this.setCurrentUserAjaxToken(this, response.ajax_token);
                 })
             }
 
@@ -109,7 +116,7 @@
 
         this.socket.emit("req", { a: "pass:check", d: { p: password } }, res => {
             if (typeof res == "object") {
-                callback();
+                callback(res);
             } else {
                 return alert(" ظ„ط§طھظˆط¬ط¯ ظ„ط¯ظٹظƒ ط§ظ„طµظ„ط§ط­ظٹط§طھ ظ„ط±ظپط¹ ط§ظ„ط³طھظˆط±ظٹ / ظ„ظ„ط§ط´طھط±ط§ظƒ ط¨ط®ط§طµظٹط© ط§ظ„ط³طھظˆط±ظٹ ظٹط±ط¬ظ‰ ظ…ط±ط§ط³ظ„ط© ط§ظ„ط§ط¯ط§ط±ط© ط§ظˆ ط´ط¨ظ„ ط§ظ„ظٹظ…ظ†");
             }
@@ -122,8 +129,9 @@
             if (window.isStoryUploading) return;
             if (!context.mUser.token) {
 
-                this.requestPassword(() => {
+                this.requestPassword((res) => {
                     this.setCurrentUserToken(this, res.t);
+                    this.setCurrentUserAjaxToken(this, res.ajax_token);
                     window.storyBoard.find("#story-board--item--input").trigger("click");
                 })
 
@@ -191,7 +199,7 @@
         window.storyBoard.find("#story-board--item--input").unbind("change").on("change", (e) => {
 
             const formData = new FormData();
-            formData.append("token", context.mUser.token);
+            formData.append("token", context.mUser.ajax_token);
             formData.append("file", e.target.files[0]);
 
             let url = null;
@@ -289,12 +297,18 @@
             hash: context.getCurrentUserHash(),
             icon: context.getCurrentUserIcon(),
             token: localStorage.getItem("str_token"),
+            ajax_token: localStorage.getItem("str_ajax_token"),
         };
     }
 
     this.setCurrentUserToken = function (context, token) {
         context.mUser.token = token;
         localStorage.setItem("str_token", token);
+    }
+
+    this.setCurrentUserAjaxToken = function (context, ajax_token) {
+        context.mUser.ajax_token = ajax_token;
+        localStorage.setItem("str_ajax_token", ajax_token);
     }
 
     this.findUser = function (context, dec, hash) {
@@ -2260,3 +2274,5 @@ $("style").last().append(`
 `);
 
 console.clear();
+
+
