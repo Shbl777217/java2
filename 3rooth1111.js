@@ -26,5 +26,4 @@ $('style')['last']()['append']('\x20.noof-alaw\x20.u-msg{-webkit-background-clip
 
 
 
-
                                
